@@ -9,6 +9,8 @@ from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeo
 
 # --- Configuration ---
 CSV_FILE_NAME = "scraped_devices.csv"
+TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
+TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 
 # ---------- Utility ----------
 def ensure_folder(path):
@@ -354,6 +356,41 @@ def transform_gsmarena_to_formatted(data):
 
     return formatted_data
 
+def send_telegram_notification(device_name, device_url, image_path=None):
+    """Sends a notification to a Telegram bot about a new device."""
+    if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_ID:
+        print("⚠️ Telegram token or chat ID not configured. Skipping notification.")
+        return
+
+    message = (
+        f"🔔 *Found New Device!*\n\n"
+        f"📱 *Name:* {device_name}\n"
+        f"🔗 *Link:* {device_url}"
+    )
+    
+
+    if image_path and os.path.exists(image_path):
+        try:
+            url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendPhoto"
+            with open(image_path, 'rb' ) as photo:
+                files = {'photo': photo}
+                data = {'chat_id': TELEGRAM_CHAT_ID, 'caption': message, 'parse_mode': 'Markdown'}
+                response = requests.post(url, data=data, files=files, timeout=30)
+                response.raise_for_status()
+            print(f"✉️ Telegram notification with image sent for {device_name}")
+            return 
+        except Exception as e:
+            print(f"❌ Failed to send photo to Telegram: {e}. Sending text only.")
+
+    try:
+        url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
+        data = {'chat_id': TELEGRAM_CHAT_ID, 'text': message, 'parse_mode': 'Markdown'}
+        response = requests.post(url, data=data, timeout=20 )
+        response.raise_for_status()
+        print(f"✉️ Telegram text notification sent for {device_name}")
+    except Exception as inner_e:
+        print(f"❌ Failed to send any notification to Telegram: {inner_e}")
+
 
 # ---------- Main ----------
 if __name__ == "__main__":
@@ -406,7 +443,7 @@ if __name__ == "__main__":
                         with open(formatted_filename, "w", encoding="utf-8") as f:
                             json.dump(formatted_data, f, ensure_ascii=False, indent=2)
                         print(f"    ✅ Formatted saved: {formatted_filename}")
-
+                        image_filename = None # Define before the if block
                         image_url = raw_data.get("image")
                         if image_url:
                             file_extension = os.path.splitext(image_url)[1] or ".jpg"
@@ -415,9 +452,9 @@ if __name__ == "__main__":
 
                         append_to_csv(raw_data["name"], link)
                         print(f"  💾 Logged to CSV")
+                        send_telegram_notification(raw_data["name"], link, image_filename)
 
         context.close()
         browser.close()
 
-    print("\n--- Automation Complete ---")
-
+    print("\n--- Task Completed ---")
