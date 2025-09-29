@@ -1,0 +1,75 @@
+{
+  "url": "https://www.gsmarena.com/realme_watch_5-14109.php",
+  "name": "Realme Watch 5",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/realme-watch5.jpg",
+  "highlights": [
+    "Exp. release 2025, October 28\n\nProprietary OS\nUnspecified storage, no card slot",
+    "1.3%\n27,033 HITS",
+    "16\nBECOME A FAN",
+    "1.97\"\n390x450 pixels",
+    "NO",
+    "",
+    "460mAh"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "No cellular connectivity",
+      "2G bands": "N/A",
+      "3G bands": "N/A",
+      "4G bands": "N/A",
+      "Speed": "No",
+      "GPRS": "No",
+      "EDGE": "No"
+    },
+    "LAUNCH": {
+      "Announced": "2025, September 19",
+      "Status": "Coming soon. Exp. release 2025, October 28"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "Build": "Glass front, plastic back, plastic frame",
+      "SIM": "No",
+      "": "IP68 dust tight and water resistant (immersible up to 1.5m)"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 600 nits (peak)",
+      "Size": "1.97 inches",
+      "Resolution": "390 x 450 pixels (~302 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Proprietary OS"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "Unspecified",
+      "": "eMMC"
+    },
+    "CAMERA": {
+      "": "No"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "No",
+      "Bluetooth": "5.4, A2DP, LE",
+      "Positioning": "GPS, GALILEO, GLONASS, BDS",
+      "NFC": "Yes",
+      "Radio": "No",
+      "USB": "No"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer, heart rate, SpO2, compass"
+    },
+    "BATTERY": {
+      "Type": "Li-Ion 460 mAh"
+    },
+    "MISC": {
+      "Colors": "Black, Titanium",
+      "Models": "RMW2501",
+      "Price": "€ 69.99"
+    }
+  }
+}
