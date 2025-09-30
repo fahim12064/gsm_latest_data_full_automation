@@ -1,0 +1,77 @@
+{
+  "url": "https://www.gsmarena.com/samsung_galaxy_tab_a11+-14192.php",
+  "name": "Samsung Galaxy Tab A11+",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-a9-plus.jpg",
+  "highlights": [
+    "Exp. release 2025, December\n6.9mm thickness\nAndroid 16, up to 7 major upgrades, One UI 8\n128GB/256GB storage, microSDXC",
+    "3.5%\n4,220 HITS",
+    "4\nBECOME A FAN",
+    "11.0\"\n1200x1920 pixels",
+    "8MP\n1080p",
+    "4/8GB RAM",
+    "7040mAh\n25W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900 - cellular model only",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - cellular model only",
+      "4G bands": "LTE - cellular model only",
+      "5G bands": "SA/NSA/Sub6 - cellular model only",
+      "Speed": "HSPA, LTE, 5G - cellular model only"
+    },
+    "LAUNCH": {
+      "Announced": "2025, September 29",
+      "Status": "Coming soon. Exp. release 2025, December"
+    },
+    "BODY": {
+      "Dimensions": "257.1 x 168.7 x 6.9 mm (10.12 x 6.64 x 0.27 in)",
+      "Weight": "-",
+      "SIM": "Nano-SIM + eSIM (cellular model only)"
+    },
+    "DISPLAY": {
+      "Type": "TFT LCD, 90Hz",
+      "Size": "11.0 inches, 350.9 cm2 (~80.9% screen-to-body ratio)",
+      "Resolution": "1200 x 1920 pixels, 16:10 ratio (~206 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, up to 7 major Android upgrades, One UI 8"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC (dedicated slot)",
+      "Internal": "128GB, 256GB"
+    },
+    "MAIN CAMERA": {
+      "Single": "8 MP, AF",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "5 MP",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers (4 speakers)",
+      "3.5mm jack": "Yes"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+      "Bluetooth": "5.1, A2DP, LE",
+      "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS - cellular model only",
+      "NFC": "No",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer, gyro, proximity (accessories only), compass",
+      "": "Samsung DeX support"
+    },
+    "BATTERY": {
+      "Type": "Li-Po 7040 mAh",
+      "Charging": "25W wired"
+    },
+    "MISC": {
+      "Colors": "Gray, Silver",
+      "Models": "SM-X230, SM-X235, SM-X236B"
+    }
+  }
+}
