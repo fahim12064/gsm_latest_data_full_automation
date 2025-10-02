@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP, f/1.8, (wide), PDAF",
+    "Flash:": "LED flash, HDR",
+    "Front:": "5 MP, f/2.2, (wide)",
+    "Folded:": "",
+    "Main camera:": "50 MP, f/1.8, (wide), PDAF",
+    "Second camera:": "2 MP, f/2.4, (depth)",
+    "Third camera:": "",
+    "Specifications:": "Aperture size: F/1.8",
+    "Video recording:": "1080p@30fps"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Midnight Black, Forest Green",
+    "Folded:": "",
+    "Weight:": "191 g or 193 g (6.74 oz)",
+    "Materials:": "",
+    "Biometrics:": "Fingerprint (side-mounted), accelerometer, proximity, compass",
+    "Dimensions:": "166.9 x 76.8 x 8.1 mm (6.57 x 3.02 x 0.32 in)",
+    "Resistance:": "IP64 dust tight and water resistant (water splashes)"
+  },
+  "Battery": {
+    "Type:": "Li-Po",
+    "Capacity:": "5200 mAh",
+    "Charging:": "35W wired\nReverse wired",
+    "Max charge speed:": "Wired: 35W"
+  },
+  "Display": {
+    "Size:": "6.77 inches",
+    "Features:": "Fingerprint (side-mounted), accelerometer, proximity, compass",
+    "Resolution:": "720 x 1610 pixels, 20:9 ratio (~261 ppi density)",
+    "Technology:": "TFT LCD",
+    "Refresh rate:": "120Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "850 cd/m2 (nit)",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 14, MagicOS 8",
+    "GPU:": "Adreno 613",
+    "RAM:": "4GB",
+    "Processor:": "Qualcomm SM4450 Snapdragon 4 Gen 2 (4 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "256GB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers",
+    "Headphones:": "Yes",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0, OTG",
+    "Other:": "NFC",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, proximity, compass",
+    "Features:": "USB Type-C 2.0, OTG",
+    "Location:": "GPS, GLONASS, GALILEO, BDS",
+    "Bluetooth:": "5.0, A2DP, LE"
+  }
+}
