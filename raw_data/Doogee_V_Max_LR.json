@@ -1,0 +1,90 @@
+{
+  "url": "https://www.gsmarena.com/doogee_v_max_lr_5g-14203.php",
+  "name": "Doogee V Max LR",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/doogee-v-max-play.jpg",
+  "highlights": [
+    "Released 2025, October\n630g, 30.5mm thickness\nAndroid 15\n512GB storage, microSDXC",
+    "0.2%\n256 HITS",
+    "0\nBECOME A FAN",
+    "6.78\"\n1080x2460 pixels",
+    "200MP\n2160p",
+    "16GB RAM\nDimensity 7300",
+    "20500mAh\n45W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / CDMA / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "": "CDMA 800 / 1900",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 25, 26, 28, 34, 38, 39, 40, 41, 66",
+      "5G bands": "1, 3, 7, 28, 38, 41, 77, 78, 79 SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2025, September",
+      "Status": "Available. Released 2025, October"
+    },
+    "BODY": {
+      "Dimensions": "183.5 x 85.4 x 30.5 mm (7.22 x 3.36 x 1.20 in)",
+      "Weight": "630 g (1.39 lb)",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\nDrop resistant up to 1.5m\nMIL-STD-810H compliant\n1200 lumens dedicated flood flashlight\nLaser rangefinder (up to 40m; 3-15mm measurement accuracy)\nRGB notification light"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 120Hz, 500 nits",
+      "Size": "6.78 inches, 109.2 cm2 (~69.7% screen-to-body ratio)",
+      "Resolution": "1080 x 2460 pixels (~396 ppi density)",
+      "Protection": "Mohs level 6"
+    },
+    "PLATFORM": {
+      "OS": "Android 15",
+      "Chipset": "Mediatek Dimensity 7300 (4 nm)",
+      "CPU": "Octa-core (2x2.6 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)",
+      "GPU": "Mali-G615 MC2"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC (dedicated slot)",
+      "Internal": "512GB 16GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Triple": "200 MP, f/2.0, (wide), 1/1.3\", PDAF\n20 MP, f/1.8, (night vision), 2 infrared night vision lights\n8 MP, f/2.2, 119˚ (ultrawide)",
+      "Features": "Dual-LED flash, HDR, panorama",
+      "Video": "4K@30fps, 1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "32 MP, f/2.3, (wide)",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes (130 dB)",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band",
+      "Bluetooth": "5.4, A2DP, LE",
+      "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "FM radio",
+      "USB": "USB Type-C"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "20500 mAh",
+      "Charging": "45W wired\n10W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Black, Tarnish",
+      "Price": "About 340 EUR"
+    },
+    "EU LABEL": {
+      "Energy": "Class B",
+      "Battery": "192:26h endurance, 1100 cycles",
+      "Free fall": "Class A (270 falls)",
+      "Repairability": "Class C"
+    }
+  }
+}

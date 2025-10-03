@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP, f/1.9, 23mm (wide), 1/1.56\", 1.0µm, PDAF, OIS",
+    "Flash:": "Color spectrum sensor, Dual-LED flash, HDR, panorama",
+    "Front:": "32 MP, f/2.5, 28mm (wide), 1/3.15\", 0.7µm",
+    "Folded:": "",
+    "Main camera:": "50 MP, f/1.9, 23mm (wide), 1/1.56\", 1.0µm, PDAF, OIS",
+    "Second camera:": "50 MP, (periscope telephoto), PDAF, OIS, optical zoom",
+    "Third camera:": "50 MP, f/2.0, 15mm (ultrawide), 1/2.76\", 0.64µm, AF",
+    "Specifications:": "Aperture size: F/1.9 Focal Length: 23mm",
+    "Video recording:": "8K@30fps, 4K@24/30/60fps, 1080p@30/60/120/240fps, gyro-EIS"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Black; other colors",
+    "Folded:": "",
+    "Weight:": "-",
+    "Materials:": "Glass front, aluminum alloy frame, glass back or glass fiber back",
+    "Biometrics:": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass",
+    "Dimensions:": "-",
+    "Resistance:": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\nRGB LED light on the back\nColor-changing rear panel"
+  },
+  "Battery": {
+    "Type:": "Si/C Li-Ion",
+    "Capacity:": "7000 mAh",
+    "Charging:": "100W wired, PPS",
+    "Max charge speed:": "Wired: 100W"
+  },
+  "Display": {
+    "Size:": "6.85 inches",
+    "Features:": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass",
+    "Resolution:": "1440 x 3168 pixels (~508 ppi density)",
+    "Technology:": "LTPO AMOLED",
+    "Refresh rate:": "144Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 16, up to 4 major Android upgrades, OriginOS 6 (China)",
+    "GPU:": "Adreno 840",
+    "RAM:": "12GB",
+    "Processor:": "Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "256GB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 3.2, OTG",
+    "Other:": "NFC, Infrared",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+    "Sensors:": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass",
+    "Features:": "USB Type-C 3.2, OTG",
+    "Location:": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5)",
+    "Bluetooth:": "5.4, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless, LHDC 5"
+  }
+}
