@@ -1,0 +1,89 @@
+{
+  "url": "https://www.gsmarena.com/doogee_s200_ultra_5g-14204.php",
+  "name": "Doogee S200 Ultra",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/doogee-s200-ultra.jpg",
+  "highlights": [
+    "Released 2025, October\n383g, 19.1mm thickness\nAndroid 15\n1TB storage, microSDXC",
+    "11%\n9,575 HITS",
+    "10\nBECOME A FAN",
+    "6.72\"\n1080x2400 pixels",
+    "100MP\n2160p",
+    "12GB RAM\nDimensity 7400",
+    "11000mAh\n66W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 25, 26, 28, 34, 38, 39, 40, 41, 66",
+      "5G bands": "1, 3, 7, 8, 28, 38, 41, 77, 78, 79 SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2025, September",
+      "Status": "Available. Released 2025, October"
+    },
+    "BODY": {
+      "Dimensions": "179.5 x 82.5 x 19.1 mm (7.07 x 3.25 x 0.75 in)",
+      "Weight": "383 g (13.51 oz)",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 2m for 24 h)\nMIL-STD-810H compliant"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 120Hz",
+      "Size": "6.72 inches, 109.0 cm2 (~73.6% screen-to-body ratio)",
+      "Resolution": "1080 x 2400 pixels, 20:9 ratio (~392 ppi density)",
+      "Protection": "Corning Gorilla Glass, Mohs level 5",
+      "": "Secondary screen on the back:\nAMOLED, 1.32 inches"
+    },
+    "PLATFORM": {
+      "OS": "Android 15",
+      "Chipset": "Mediatek Dimensity 7400 (4 nm)",
+      "CPU": "Octa-core (4x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+      "GPU": "Mali-G615 MC2"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC (uses shared SIM slot)",
+      "Internal": "1TB 12GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Triple": "100 MP, f/1.8, (wide), 1/1.8\", PDAF\n20 MP, f/1.8, (night vision), infrared night vision light\n2 MP, f/2.4, (macro)",
+      "Features": "Dual-LED flash, HDR, panorama",
+      "Video": "4K@30fps, 1080p@30fps, gyro-EIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "32 MP, f/2.2, (wide), 1/2.8\"",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+      "Bluetooth": "5.4, A2DP, LE",
+      "Positioning": "GPS, GLONASS, BDS, GALILEO",
+      "NFC": "Yes",
+      "Radio": "FM radio",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 11000 mAh",
+      "Charging": "66W wired\n10W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Black, Yellow, Green",
+      "Price": "$ 399.28"
+    },
+    "EU LABEL": {
+      "Energy": "Class B",
+      "Battery": "98:33h endurance, 1000 cycles",
+      "Free fall": "Class A (270 falls)",
+      "Repairability": "Class C"
+    }
+  }
+}
