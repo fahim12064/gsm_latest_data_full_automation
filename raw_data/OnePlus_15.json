@@ -1,0 +1,88 @@
+{
+  "url": "https://www.gsmarena.com/oneplus_15_5g-14206.php",
+  "name": "OnePlus 15",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-15-.jpg",
+  "highlights": [
+    "Not announced yet\n8.5mm thickness\nAndroid 16, ColorOS 16\n256GB/512GB/1TB storage, no card slot",
+    "9.1%\n6,345 HITS",
+    "7\nBECOME A FAN",
+    "6.78\"\n1440x3168 pixels",
+    "50MP\n4320p",
+    "12/16GB RAM\nSnapdragon 8 Elite Gen 5",
+    "7300mAh\n120W50W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 - International",
+      "": "SA/NSA - China, India",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA/Sub6 - International",
+      "Speed": "HSPA, LTE (CA), 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "SIM": "Nano-SIM + Nano-SIM + eSIM (max 2 at a time)\nNano-SIM + Nano-SIM",
+      "": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "LTPO AMOLED, 1B colors, 165Hz, 2160Hz PWM, Dolby Vision, HDR10+, HDR Vivid, 1800 nits (HBM)",
+      "Size": "6.78 inches, 111.7 cm2 (~89.7% screen-to-body ratio)",
+      "Resolution": "1440 x 3168 pixels (~513 ppi density)",
+      "Protection": "Ceramic Guard glass",
+      "": "Ultra HDR image support"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, ColorOS 16",
+      "Chipset": "Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm)",
+      "CPU": "Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M)",
+      "GPU": "Adreno 840"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 256GB 16GB RAM, 512GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM",
+      "": "UFS 4.1"
+    },
+    "MAIN CAMERA": {
+      "Triple": "50 MP, f/1.8, 24mm (wide), 1/1.56\", 1.0µm, multi-directional PDAF, OIS\n50 MP, f/2.8, 85mm (periscope telephoto), 1/2.76\", 0.64µm, 3.5x optical zoom, PDAF, OIS\n50 MP, f/2.0, 15mm, 120˚ (ultrawide), 1/2.76\", 0.64µm, PDAF",
+      "Features": "Laser focus, Hasselblad Color Calibration, color spectrum sensor, Dual-LED flash, HDR, panorama",
+      "Video": "8K@30fps, 4K@30/60fps, 1080p@30/60/240/480fps, Auto HDR, gyro-EIS, Dolby Vision"
+    },
+    "SELFIE CAMERA": {
+      "Single": "32 MP, f/2.4, 21mm (wide), 1/2.74\", 0.8µm",
+      "Features": "HDR, panorama",
+      "Video": "4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No",
+      "": "24-bit/192kHz Hi-Res audio"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual or tri-band, Wi-Fi Direct",
+      "Bluetooth": "5.4, A2DP, LE, aptX HD, LHDC 5",
+      "Positioning": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 3.2, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer",
+      "": "Circle to Search"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 7300 mAh",
+      "Charging": "120W wired, PD, QC\n50W wireless\n10W reverse wireless\n5W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Black, White, Purple, Titanium"
+    }
+  }
+}
