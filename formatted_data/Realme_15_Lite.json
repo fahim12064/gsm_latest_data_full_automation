@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP, f/1.8, (wide), 1/1.95\", PDAF, OIS",
+    "Flash:": "LED flash, HDR, panorama",
+    "Front:": "16 MP, (wide)",
+    "Folded:": "",
+    "Main camera:": "50 MP, f/1.8, (wide), 1/1.95\", PDAF, OIS",
+    "Second camera:": "2 MP, (depth)",
+    "Third camera:": "",
+    "Specifications:": "Aperture size: F/1.8",
+    "Video recording:": "4K@30fps, 1080p@30fps, gyro-EIS, OIS"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Satin Green, Glitter Gold, Electric Purple",
+    "Folded:": "",
+    "Weight:": "185 g (6.53 oz)",
+    "Materials:": "",
+    "Biometrics:": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+    "Dimensions:": "161.7 x 74.7 x 7.6 mm (6.37 x 2.94 x 0.30 in)",
+    "Resistance:": "IP65 dust tight and water resistant (low pressure water jets)"
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "5000 mAh",
+    "Charging:": "80W wired",
+    "Max charge speed:": "Wired: 80W"
+  },
+  "Display": {
+    "Size:": "6.67 inches",
+    "Features:": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+    "Resolution:": "1080 x 2400 pixels, 20:9 ratio (~395 ppi density)",
+    "Technology:": "OLED",
+    "Refresh rate:": "120Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "2000 cd/m2 (nit)",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 15, Realme UI 6.0",
+    "GPU:": "Mali-G615 MC2",
+    "RAM:": "8GB",
+    "Processor:": "Mediatek Dimensity 7300 Energy (4 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "128GB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes",
+    "Headphones:": "Yes",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0",
+    "Other:": "NFC, Infrared",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+    "Sensors:": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+    "Features:": "USB Type-C 2.0",
+    "Location:": "GPS, GLONASS, GALILEO, BDS",
+    "Bluetooth:": "5.4, A2DP, LE"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP, (wide), PDAF",
+    "Flash:": "Laser AF, LED flash, HDR, panorama",
+    "Front:": "32 MP, (wide)",
+    "Folded:": "",
+    "Main camera:": "50 MP, (wide), PDAF",
+    "Second camera:": "50 MP, 120˚, (ultrawide)",
+    "Third camera:": "",
+    "Specifications:": "",
+    "Video recording:": "4K, 1080p, HDR, gyro-EIS"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Black",
+    "Folded:": "",
+    "Weight:": "-",
+    "Materials:": "Glass front (Gorilla Glass Victus 2), aluminum frame (6000 series), glass-fiber back",
+    "Biometrics:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer",
+    "Dimensions:": "-",
+    "Resistance:": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.8m for 30 min)\nMIL-STD-810H compliant"
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "",
+    "Charging:": "",
+    "Max charge speed:": ""
+  },
+  "Display": {
+    "Size:": "6.32 inches",
+    "Features:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer",
+    "Resolution:": "1080 x 2400 pixels*, 20:9 ratio (~416 ppi density)",
+    "Technology:": "IPS LCD",
+    "Refresh rate:": "120Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android",
+    "GPU:": "",
+    "RAM:": "12GB",
+    "Processor:": "Qualcomm Dragonwing Q-6690 (4 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "256GB (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes",
+    "Headphones:": "Yes",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C, OTG, accessory connector pins",
+    "Other:": "NFC",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer",
+    "Features:": "USB Type-C, OTG, accessory connector pins",
+    "Location:": "GPS, GALILEO, GLONASS, BDS, QZSS",
+    "Bluetooth:": "5.4, A2DP, LE"
+  }
+}

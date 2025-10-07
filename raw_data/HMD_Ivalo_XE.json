@@ -1,0 +1,82 @@
+{
+  "url": "https://www.gsmarena.com/hmd_ivalo_xe_5g-14207.php",
+  "name": "HMD Ivalo XE",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/hmd-ivalo-xe.jpg",
+  "highlights": [
+    "Exp. release 2025, Q4\n\nAndroid\n256GB storage, Unspecified",
+    "22%\n13,595 HITS",
+    "9\nBECOME A FAN",
+    "6.32\"\n1080x2400 pixels*",
+    "50MP\n2160p",
+    "12GB RAM\nDragonwing Q-6690",
+    ""
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2025, September 09",
+      "Status": "Coming soon. Exp. release 2025, Q4"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "Build": "Glass front (Gorilla Glass Victus 2), aluminum frame (6000 series), glass-fiber back",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.8m for 30 min)\nMIL-STD-810H compliant"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 120Hz, 1000 nits (HBM)",
+      "Size": "6.32 inches, 96.4 cm2",
+      "Resolution": "1080 x 2400 pixels*, 20:9 ratio (~416 ppi density)",
+      "Protection": "Corning Gorilla Glass Victus 2",
+      "": "*Exact display resolution is not officially revealed"
+    },
+    "PLATFORM": {
+      "OS": "Android",
+      "Chipset": "Qualcomm Dragonwing Q-6690 (4 nm)",
+      "CPU": "Octa-core (1x2.9 GHz Kryo Gold Prime & 3x2.7 GHz Kryo Gold & 4x2.0 GHz Kryo Silver)"
+    },
+    "MEMORY": {
+      "Card slot": "Unspecified",
+      "Internal": "256GB 12GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, (wide), PDAF\n50 MP, 120˚, (ultrawide)",
+      "Features": "Laser AF, LED flash, HDR, panorama",
+      "Video": "4K, 1080p, HDR, gyro-EIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "32 MP, (wide)",
+      "Video": "1080p"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "Yes"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band",
+      "Bluetooth": "5.4, A2DP, LE",
+      "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+      "NFC": "Yes",
+      "Radio": "Unspecified",
+      "USB": "USB Type-C, OTG, accessory connector pins"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer",
+      "": "Desktop connection support\nDual FBE and FDE encryption\nCBRS, eMBMS, PPDR support\nMeets FIPS 140-3 (CSFC) and NIAP security standards\nRadio hardware kill-switch\nAReX anti-tampering\nFusion 3.1 modularity system\nDeveloped and manufactured in Europe"
+    },
+    "BATTERY": {
+      "Type": ""
+    },
+    "MISC": {
+      "Colors": "Black"
+    }
+  }
+}

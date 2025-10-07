@@ -1,0 +1,80 @@
+{
+  "url": "https://www.gsmarena.com/itel_a100-14211.php",
+  "name": "itel A100",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/itel-a100.jpg",
+  "highlights": [
+    "Exp. release 2025, October\n\nAndroid 15, itel OS 15\n128GB storage, microSDXC",
+    "N/A\n23 HITS",
+    "0\nBECOME A FAN",
+    "6.75\"\n720x1600 pixels",
+    "8MP\n1080p",
+    "3-8GB RAM\nUnisoc T7250",
+    "5000mAh\n15W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 2100",
+      "4G bands": "LTE",
+      "Speed": "HSPA, LTE"
+    },
+    "LAUNCH": {
+      "Announced": "2025, September 25",
+      "Status": "Coming soon. Exp. release 2025, October"
+    },
+    "BODY": {
+      "Dimensions": "8.1 mm thickness",
+      "Weight": "-",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP65 dust tight and water resistant (low pressure water jets)\nMIL-STD-810H compliant*\n* does not guarantee ruggedness or use in extreme conditions"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 90Hz, 700 nits",
+      "Size": "6.75 inches, 110.0 cm2",
+      "Resolution": "720 x 1600 pixels, 20:9 ratio (~260 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 15 (Go edition), itel OS 15",
+      "Chipset": "Unisoc T7250 (12 nm)",
+      "CPU": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+      "GPU": "Mali-G57 MP1"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC",
+      "Internal": "128GB 3GB RAM, 128GB 4GB RAM, 128GB 8GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Single": "8 MP",
+      "Features": "LED flash",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "8 MP",
+      "Video": "Yes"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "Yes"
+    },
+    "COMMS": {
+      "WLAN": "Yes",
+      "Bluetooth": "Yes",
+      "Positioning": "GPS",
+      "NFC": "No",
+      "Infrared port": "Yes",
+      "Radio": "Unspecified",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer"
+    },
+    "BATTERY": {
+      "Type": "5000 mAh",
+      "Charging": "15W wired"
+    },
+    "MISC": {
+      "Colors": "Fresh Green, Star Titanium, Shadow Titanium"
+    }
+  }
+}
