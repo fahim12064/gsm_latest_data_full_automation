@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "8 MP",
+    "Flash:": "LED flash",
+    "Front:": "5 MP",
+    "Folded:": "",
+    "Main camera:": "8 MP",
+    "Second camera:": "",
+    "Third camera:": "",
+    "Specifications:": "",
+    "Video recording:": "1080p@30fps"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Pure Black, Titanium Gold, Blaze Blue, Silk Green",
+    "Folded:": "",
+    "Weight:": "-",
+    "Materials:": "",
+    "Biometrics:": "Fingerprint (side-mounted), accelerometer",
+    "Dimensions:": "8.5 mm thickness",
+    "Resistance:": "MIL-STD-810H compliant*\n* does not guarantee ruggedness or use in extreme conditions\nDrop resistant up to 1.2m"
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "5000 mAh",
+    "Charging:": "",
+    "Max charge speed:": ""
+  },
+  "Display": {
+    "Size:": "6.6 inches",
+    "Features:": "Fingerprint (side-mounted), accelerometer",
+    "Resolution:": "720 x 1612 pixels, 20:9 ratio (~267 ppi density)",
+    "Technology:": "IPS LCD",
+    "Refresh rate:": "90Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 15 (Go edition), itel OS 15",
+    "GPU:": "PowerVR GE8322",
+    "RAM:": "2GB",
+    "Processor:": "Unisoc T7100",
+    "Device type:": "Smartphone",
+    "Internal storage:": "64GB (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes",
+    "Headphones:": "Yes",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C",
+    "Other:": "NFC, Infrared",
+    "Wi-Fi:": "Yes",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer",
+    "Features:": "USB Type-C",
+    "Location:": "GPS",
+    "Bluetooth:": "Yes"
+  }
+}

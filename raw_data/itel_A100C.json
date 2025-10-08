@@ -1,0 +1,79 @@
+{
+  "url": "https://www.gsmarena.com/itel_a100c-14212.php",
+  "name": "itel A100C",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/itel-a100c.jpg",
+  "highlights": [
+    "Exp. release 2025, October\n\nAndroid 15, itel OS 15\n64GB/128GB storage, microSDXC",
+    "13%\n7,437 HITS",
+    "3\nBECOME A FAN",
+    "6.6\"\n720x1612 pixels",
+    "8MP\n1080p",
+    "2-4GB RAM\nUnisoc T7100",
+    "5000mAh"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 2100",
+      "4G bands": "LTE",
+      "Speed": "HSPA, LTE"
+    },
+    "LAUNCH": {
+      "Announced": "2025, October 06",
+      "Status": "Coming soon. Exp. release 2025, October"
+    },
+    "BODY": {
+      "Dimensions": "8.5 mm thickness",
+      "Weight": "-",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "MIL-STD-810H compliant*\n* does not guarantee ruggedness or use in extreme conditions\nDrop resistant up to 1.2m"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 90Hz, 400 nits",
+      "Size": "6.6 inches, 104.6 cm2",
+      "Resolution": "720 x 1612 pixels, 20:9 ratio (~267 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 15 (Go edition), itel OS 15",
+      "Chipset": "Unisoc T7100",
+      "CPU": "Octa-core 1.8 GHz",
+      "GPU": "PowerVR GE8322"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC",
+      "Internal": "64GB 2GB RAM, 64GB 3GB RAM, 64GB 4GB RAM, 128GB 4GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Single": "8 MP",
+      "Features": "LED flash",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "5 MP",
+      "Video": "Yes"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "Yes"
+    },
+    "COMMS": {
+      "WLAN": "Yes",
+      "Bluetooth": "Yes",
+      "Positioning": "GPS",
+      "NFC": "No",
+      "Infrared port": "Yes",
+      "Radio": "Unspecified",
+      "USB": "USB Type-C"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer"
+    },
+    "BATTERY": {
+      "Type": "5000 mAh"
+    },
+    "MISC": {
+      "Colors": "Pure Black, Titanium Gold, Blaze Blue, Silk Green"
+    }
+  }
+}
