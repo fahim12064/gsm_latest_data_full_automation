@@ -1,0 +1,74 @@
+{
+  "url": "https://www.gsmarena.com/nothing_cmf_watch_3_pro-14217.php",
+  "name": "Nothing CMF Watch 3 Pro",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/nothing-cmf-watch-3-pro.jpg",
+  "highlights": [
+    "Released 2025, July 22\n51g, 14.4mm thickness\nFeature phone\nUnspecified storage, no card slot",
+    "1.5%\n881 HITS",
+    "3\nBECOME A FAN",
+    "1.43\"\n466x466 pixels",
+    "NO",
+    "",
+    "350mAh"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "No cellular connectivity",
+      "2G bands": "N/A",
+      "3G bands": "N/A",
+      "4G bands": "N/A",
+      "GPRS": "No",
+      "EDGE": "No"
+    },
+    "LAUNCH": {
+      "Announced": "2025, July 22",
+      "Status": "Available. Released 2025, July 22"
+    },
+    "BODY": {
+      "Dimensions": "47 x 47 x 14.4 mm (1.85 x 1.85 x 0.57 in)",
+      "Weight": "51 g (1.80 oz)",
+      "Build": "Glass front, aluminum frame",
+      "SIM": "No",
+      "": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 650 nits (typ)",
+      "Size": "1.43 inches",
+      "Resolution": "466 x 466 pixels (~326 ppi density)"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Phonebook": "No",
+      "Call records": "Yes",
+      "Internal": "Unspecified"
+    },
+    "CAMERA": {
+      "": "No"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "No",
+      "Bluetooth": "5.3, A2DP, LE",
+      "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS",
+      "NFC": "No",
+      "Radio": "No",
+      "USB": "No"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer, gyro, heart rate, SpO2",
+      "Messaging": "SMS(threaded view), Email, IM",
+      "Games": "No",
+      "Java": "No"
+    },
+    "BATTERY": {
+      "Type": "Li-Ion 350 mAh"
+    },
+    "MISC": {
+      "Colors": "Dark Grey, Light Grey",
+      "Price": "€ 99.00"
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "url": "https://www.gsmarena.com/nothing_cmf_watch_pro_2-14218.php",
+  "name": "Nothing CMF Watch Pro 2",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/nothing-cmf-watch-2.jpg",
+  "highlights": [
+    "Released 2024, July 08\n44.4g, 13.6mm thickness\nFeature phone\nUnspecified storage, no card slot",
+    "0.4%\n282 HITS",
+    "1\nBECOME A FAN",
+    "1.32\"\n466x466 pixels",
+    "NO",
+    "",
+    "305mAh"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "No cellular connectivity",
+      "2G bands": "N/A",
+      "3G bands": "N/A",
+      "4G bands": "N/A",
+      "GPRS": "No",
+      "EDGE": "No"
+    },
+    "LAUNCH": {
+      "Announced": "2024, July 08",
+      "Status": "Available. Released 2024, July 08"
+    },
+    "BODY": {
+      "Dimensions": "45 x 45 x 13.6 mm (1.77 x 1.77 x 0.54 in)",
+      "Weight": "44.4 g (1.55 oz)",
+      "Build": "Glass front, aluminum frame",
+      "SIM": "No",
+      "": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 2160Hz PWM, 620 nits (typ)",
+      "Size": "1.32 inches",
+      "Resolution": "466 x 466 pixels (~353 ppi density)"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Phonebook": "No",
+      "Call records": "Yes",
+      "Internal": "Unspecified"
+    },
+    "CAMERA": {
+      "": "No"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "No",
+      "Bluetooth": "5.3, A2DP, LE",
+      "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS",
+      "NFC": "No",
+      "Radio": "No",
+      "USB": "No"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer, gyro, heart rate, SpO2",
+      "Messaging": "SMS(threaded view), Email, IM",
+      "Games": "No",
+      "Java": "No"
+    },
+    "BATTERY": {
+      "Type": "Li-Ion 305 mAh"
+    },
+    "MISC": {
+      "Colors": "Dark Grey Curved, Dark Grey Flat, Ash Grey Curved, Ash Grey Flat",
+      "Price": "About 70 EUR"
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "url": "https://www.gsmarena.com/lenovo_yoga_tab-14213.php",
+  "name": "Lenovo Yoga Tab",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-yoga-tab.jpg",
+  "highlights": [
+    "Released 2025, September\n458g, 8.3mm thickness\nAndroid 15, up to 3 major Android upgrades\n256GB storage, no card slot",
+    "20%\n10,949 HITS",
+    "17\nBECOME A FAN",
+    "11.1\"\n3200x2000 pixels",
+    "13MP\n2160p",
+    "8/12GB RAM\nSnapdragon 8 Gen 3",
+    "8860mAh\n45W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "No cellular connectivity",
+      "2G bands": "N/A",
+      "3G bands": "N/A",
+      "4G bands": "N/A",
+      "GPRS": "No",
+      "EDGE": "No"
+    },
+    "LAUNCH": {
+      "Announced": "2025, September 05",
+      "Status": "Available. Released 2025, September"
+    },
+    "BODY": {
+      "Dimensions": "255.5 x 165.8 x 8.3 mm (10.06 x 6.53 x 0.33 in)",
+      "Weight": "458 g (1.01 lb)",
+      "Build": "Glass front (Gorilla Glass 7i), aluminum frame, aluminum back",
+      "SIM": "No",
+      "": "Stylus support (Lenovo Tab Pen Pro)"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 144Hz, Dolby Vision, 650 nits (typ), 800 nits (peak)",
+      "Size": "11.1 inches, 357.3 cm2 (~84.3% screen-to-body ratio)",
+      "Resolution": "3200 x 2000 pixels, 16:10 ratio (~340 ppi density)",
+      "Protection": "Corning Gorilla Glass 7i, Mohs level 5"
+    },
+    "PLATFORM": {
+      "OS": "Android 15, up to 3 major Android upgrades",
+      "Chipset": "Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm)",
+      "CPU": "Octa-core (1x3.3 GHz Cortex-X4 & 3x3.2 GHz Cortex-A720 & 2x3.0 GHz Cortex-A720 & 2x2.3 GHz Cortex-A520)",
+      "GPU": "Adreno 750"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 8GB RAM, 256GB 12GB RAM",
+      "": "UFS 4.0"
+    },
+    "MAIN CAMERA": {
+      "Dual": "13 MP, f/2.2, (wide), AF\n2 MP, (macro)",
+      "Features": "LED flash",
+      "Video": "Yes"
+    },
+    "SELFIE CAMERA": {
+      "Single": "13 MP, f/2.2, 101˚ (ultrawide)",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers, Dolby Atmos (4 speakers)",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+      "Bluetooth": "5.4, A2DP, LE",
+      "Positioning": "No",
+      "NFC": "No",
+      "Radio": "No",
+      "USB": "USB Type-C 3.1, DisplayPort, magnetic accessory connector"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity (accessories only)"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 8860 mAh",
+      "Charging": "45W wired"
+    },
+    "MISC": {
+      "Colors": "Luna Grey, Seashell",
+      "Models": "ZAG60266US, TB710FU",
+      "Price": "About 400 EUR"
+    },
+    "EU LABEL": {
+      "Energy": "Class F",
+      "Battery": "101:55h endurance, 1000 cycles",
+      "Free fall": "Class E (7 falls)",
+      "Repairability": "Class A"
+    }
+  }
+}
