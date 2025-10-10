@@ -1,0 +1,80 @@
+{
+  "url": "https://www.gsmarena.com/itel_ts_pro-14223.php",
+  "name": "itel TS Pro",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/itel-ts-pro.jpg",
+  "highlights": [
+    "Released 2025, October\n188g, 9mm thickness\nAndroid 14\n64GB storage, microSDXC",
+    "2.6%\n1,336 HITS",
+    "0\nBECOME A FAN",
+    "6.52\"\n720x1600 pixels",
+    "8MP\n720p",
+    "4GB RAM\nUnisoc T603",
+    "4000mAh\n10W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 2100",
+      "4G bands": "LTE",
+      "Speed": "HSPA, LTE"
+    },
+    "LAUNCH": {
+      "Announced": "2025, October",
+      "Status": "Available. Released 2025, October"
+    },
+    "BODY": {
+      "Dimensions": "165 x 76.7 x 9 mm (6.50 x 3.02 x 0.35 in)",
+      "Weight": "188 g (6.63 oz)",
+      "Build": "Glass front, plastic frame, plastic back",
+      "SIM": "Dual SIM"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD",
+      "Size": "6.52 inches, 102.6 cm2 (~81.1% screen-to-body ratio)",
+      "Resolution": "720 x 1600 pixels, 20:9 ratio (~269 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 14",
+      "Chipset": "Unisoc T603",
+      "CPU": "Octa-core"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC",
+      "Internal": "64GB 4GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Single": "8 MP",
+      "Features": "LED flash",
+      "Video": "Yes"
+    },
+    "SELFIE CAMERA": {
+      "Single": "5 MP",
+      "Video": "Yes"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "Yes"
+    },
+    "COMMS": {
+      "WLAN": "Yes",
+      "Bluetooth": "Yes",
+      "Positioning": "GPS",
+      "NFC": "No",
+      "Radio": "Unspecified",
+      "USB": "USB Type-C 2.0"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted); unspecified sensors"
+    },
+    "BATTERY": {
+      "Type": "4000 mAh",
+      "Charging": "10W wired"
+    },
+    "MISC": {
+      "Colors": "Black",
+      "Models": "V651L",
+      "Price": "About 50 EUR"
+    }
+  }
+}

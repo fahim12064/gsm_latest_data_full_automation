@@ -1,0 +1,84 @@
+{
+  "url": "https://www.gsmarena.com/oppo_reno15_pro_max_5g-14220.php",
+  "name": "Oppo Reno15 Pro Max",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/oppo-reno14-pro.jpg",
+  "highlights": [
+    "Not announced yet\n\nAndroid 16, ColorOS 16\n256GB/512GB/1TB storage, no card slot",
+    "2.5%\n5,356 HITS",
+    "9\nBECOME A FAN",
+    "6.78\"\n1272x2800 pixels",
+    "200MP\n2160p",
+    "12/16GB RAM\nDimensity 9400",
+    "6500mAh\n120W50W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / CDMA / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "": "CDMA 800",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "SIM": "Nano-SIM + Nano-SIM + eSIM (max 2 at a time)\nNano-SIM + Nano-SIM",
+      "": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 2m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "LTPO AMOLED, 1B colors, 120Hz, 3840Hz PWM, HDR10+",
+      "Size": "6.78 inches, 111.7 cm2",
+      "Resolution": "1272 x 2800 pixels (~454 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, ColorOS 16",
+      "Chipset": "Mediatek Dimensity 9400 (3 nm)",
+      "CPU": "Octa-core (1x3.63 GHz Cortex-X925 & 3x3.3 GHz Cortex-X4 & 4x2.4 GHz Cortex-A720)",
+      "GPU": "Immortalis-G925"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM",
+      "": "UFS 4.0"
+    },
+    "MAIN CAMERA": {
+      "Triple": "200 MP, f/1.8, 23mm (wide), 1/1.56\", 0.5µm, PDAF, OIS\n50 MP, f/2.8, 80mm (periscope telephoto), PDAF, OIS, 3.5x optical zoom\n50 MP, f/2.0, 16mm, 116˚ (ultrawide), AF",
+      "Features": "Color spectrum sensor, LED flash, HDR, panorama",
+      "Video": "4K@30/60fps, 1080p@30/60/120/240fps, gyro-EIS, HDR"
+    },
+    "SELFIE CAMERA": {
+      "Single": "50 MP, f/2.0, 21mm (wide), AF",
+      "Features": "Panorama, HDR",
+      "Video": "4K@30/60fps, 1080p@30/60fps, gyro-EIS, HDR"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band",
+      "Bluetooth": "5.4, A2DP, LE, aptX HD, LHDC 5",
+      "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "6500 mAh",
+      "Charging": "120W wired, 13.5W PD, 33W UFCS, 33W PPS\n50W wireless\nReverse wired"
+    },
+    "MISC": {
+      "Colors": "Black; other colors"
+    }
+  }
+}

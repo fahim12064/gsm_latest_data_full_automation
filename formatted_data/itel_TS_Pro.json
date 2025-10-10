@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "8 MP",
+    "Flash:": "LED flash",
+    "Front:": "5 MP",
+    "Folded:": "",
+    "Main camera:": "8 MP",
+    "Second camera:": "",
+    "Third camera:": "",
+    "Specifications:": "",
+    "Video recording:": "Yes"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Black",
+    "Folded:": "",
+    "Weight:": "188 g (6.63 oz)",
+    "Materials:": "Glass front, plastic frame, plastic back",
+    "Biometrics:": "Fingerprint (side-mounted); unspecified sensors",
+    "Dimensions:": "165 x 76.7 x 9 mm (6.50 x 3.02 x 0.35 in)",
+    "Resistance:": ""
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "4000 mAh",
+    "Charging:": "10W wired",
+    "Max charge speed:": "Wired: 10W"
+  },
+  "Display": {
+    "Size:": "6.52 inches",
+    "Features:": "Fingerprint (side-mounted); unspecified sensors",
+    "Resolution:": "720 x 1600 pixels, 20:9 ratio (~269 ppi density)",
+    "Technology:": "IPS LCD",
+    "Refresh rate:": "",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "",
+    "SIM type:": "Dual SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 14",
+    "GPU:": "",
+    "RAM:": "4GB",
+    "Processor:": "Unisoc T603",
+    "Device type:": "Smartphone",
+    "Internal storage:": "64GB (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes",
+    "Headphones:": "Yes",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0",
+    "Other:": "NFC",
+    "Wi-Fi:": "Yes",
+    "Sensors:": "Fingerprint (side-mounted); unspecified sensors",
+    "Features:": "USB Type-C 2.0",
+    "Location:": "GPS",
+    "Bluetooth:": "Yes"
+  }
+}

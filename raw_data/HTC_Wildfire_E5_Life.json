@@ -1,0 +1,80 @@
+{
+  "url": "https://www.gsmarena.com/htc_wildfire_e5_life-14222.php",
+  "name": "HTC Wildfire E5 Life",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/htc-wildfire-e5-life.jpg",
+  "highlights": [
+    "Released 2025, Q3\n188g, 10.2mm thickness\nAndroid 14\n32GB storage, Unspecified",
+    "2.8%\n3,141 HITS",
+    "4\nBECOME A FAN",
+    "5.5\"\n540x960 pixels",
+    "5MP\n540p",
+    "3GB RAM\nUnisoc SC9832E",
+    "3000mAh"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 900 / 2100",
+      "4G bands": "LTE",
+      "Speed": "HSPA, LTE"
+    },
+    "LAUNCH": {
+      "Announced": "2025, Q3",
+      "Status": "Available. Released 2025, Q3"
+    },
+    "BODY": {
+      "Dimensions": "155.6 x 77.8 x 10.2 mm (6.13 x 3.06 x 0.40 in)",
+      "Weight": "188 g (6.63 oz)",
+      "Build": "Glass front, plastic back, plastic frame",
+      "SIM": "Nano-SIM + Nano-SIM"
+    },
+    "DISPLAY": {
+      "Type": "TFT LCD",
+      "Size": "5.5 inches, 83.4 cm2 (~68.9% screen-to-body ratio)",
+      "Resolution": "540 x 960 pixels, 16:9 ratio (~200 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 14 (Go edition)",
+      "Chipset": "Unisoc SC9832E (28 nm)",
+      "CPU": "Quad-core 1.3 GHz Cortex-A53",
+      "GPU": "Mali-T820 MP1"
+    },
+    "MEMORY": {
+      "Card slot": "Unspecified",
+      "Internal": "32GB 3GB RAM",
+      "": "eMMC 5.1"
+    },
+    "MAIN CAMERA": {
+      "Single": "5 MP",
+      "Features": "LED flash",
+      "Video": "540p"
+    },
+    "SELFIE CAMERA": {
+      "Single": "2 MP",
+      "Video": "Yes"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "Yes"
+    },
+    "COMMS": {
+      "WLAN": "Yes",
+      "Bluetooth": "Yes",
+      "Positioning": "GPS",
+      "NFC": "No",
+      "Radio": "Unspecified",
+      "USB": "USB Type-C"
+    },
+    "FEATURES": {
+      "Sensors": "No"
+    },
+    "BATTERY": {
+      "Type": "Li-Ion 3000 mAh"
+    },
+    "MISC": {
+      "Colors": "Gray",
+      "Price": "About 30 EUR"
+    }
+  }
+}

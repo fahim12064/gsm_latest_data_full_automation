@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "5 MP",
+    "Flash:": "LED flash",
+    "Front:": "2 MP",
+    "Folded:": "",
+    "Main camera:": "5 MP",
+    "Second camera:": "",
+    "Third camera:": "",
+    "Specifications:": "",
+    "Video recording:": "540p"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Gray",
+    "Folded:": "",
+    "Weight:": "188 g (6.63 oz)",
+    "Materials:": "Glass front, plastic back, plastic frame",
+    "Biometrics:": "No",
+    "Dimensions:": "155.6 x 77.8 x 10.2 mm (6.13 x 3.06 x 0.40 in)",
+    "Resistance:": ""
+  },
+  "Battery": {
+    "Type:": "Li-Ion",
+    "Capacity:": "3000 mAh",
+    "Charging:": "",
+    "Max charge speed:": ""
+  },
+  "Display": {
+    "Size:": "5.5 inches",
+    "Features:": "No",
+    "Resolution:": "540 x 960 pixels, 16:9 ratio (~200 ppi density)",
+    "Technology:": "TFT LCD",
+    "Refresh rate:": "",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 14 (Go edition)",
+    "GPU:": "Mali-T820 MP1",
+    "RAM:": "3GB",
+    "Processor:": "Unisoc SC9832E (28 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "32GB (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes",
+    "Headphones:": "Yes",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C",
+    "Other:": "NFC",
+    "Wi-Fi:": "Yes",
+    "Sensors:": "No",
+    "Features:": "USB Type-C",
+    "Location:": "GPS",
+    "Bluetooth:": "Yes"
+  }
+}
