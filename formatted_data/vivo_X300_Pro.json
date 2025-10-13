@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP, f/1.6, 24mm (wide), 1/1.28\", 1.22µm, PDAF, OIS",
+    "Flash:": "Laser AF, color spectrum sensor, Zeiss optics, Zeiss T* lens coating, LED flash, panorama, HDR, 3D LUT import",
+    "Front:": "50 MP, f/2.0, (wide), 1/2.76\", 0.64µm, AF",
+    "Folded:": "",
+    "Main camera:": "50 MP, f/1.6, 24mm (wide), 1/1.28\", 1.22µm, PDAF, OIS",
+    "Second camera:": "200 MP, f/2.7, 85mm (periscope telephoto), 1/1.4\", 0.56µm, multi-directional PDAF, OIS, 3.7x optical zoom, macro 2.7:1",
+    "Third camera:": "50 MP, f/2.0, 15mm, 119˚ (ultrawide), 1/2.76\", 0.64µm, AF",
+    "Specifications:": "Aperture size: F/1.6 Focal Length: 24mm",
+    "Video recording:": "8K@30fps, 4K@30/60/120fps, 1080p@30/60/120/240fps, gyro-EIS, 4K@120fps 10-bit Log, Dolby Vision HDR"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Black, Blue, White, Brown",
+    "Folded:": "",
+    "Weight:": "226 g (7.97 oz)",
+    "Materials:": "Glass front, aluminum alloy frame, glass back",
+    "Biometrics:": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass",
+    "Dimensions:": "161.2 x 75.5 x 8 mm (6.35 x 2.97 x 0.31 in)",
+    "Resistance:": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+  },
+  "Battery": {
+    "Type:": "Si/C Li-Ion",
+    "Capacity:": "6510 mAh",
+    "Charging:": "90W wired\n40W wireless\nReverse wireless\nReverse wired",
+    "Max charge speed:": "Wired: 90WWireless: 40W"
+  },
+  "Display": {
+    "Size:": "6.78 inches",
+    "Features:": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass",
+    "Resolution:": "1260 x 2800 pixels, 20:9 ratio (~452 ppi density)",
+    "Technology:": "LTPO AMOLED",
+    "Refresh rate:": "120Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "4500 cd/m2 (nit)",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 - China",
+    "4G bands:": "1, 2, 3, 4, 5, 7, 8, 18, 19, 20, 25, 26, 28, 34, 38, 39, 40, 41, 42, 43, 48, 66",
+    "5G bands:": "1, 2, 3, 5, 7, 8, 18, 20, 25, 26, 28, 34, 38, 39, 40, 41, 48, 66, 77, 78, 79 SA/NSA/Sub6",
+    "SIM type:": "· Nano-SIM + Nano-SIM + eSIM (max 2 at a time) - International\n· Nano-SIM + Nano-SIM - China"
+  },
+  "Hardware": {
+    "OS:": "Android 16, up to 4 major Android upgrades, Funtouch 16 (International), OriginOS 6 (China)",
+    "GPU:": "Arm G1-Ultra",
+    "RAM:": "12GB",
+    "Processor:": "Mediatek Dimensity 9500 (3 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "256GB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 3.2, OTG",
+    "Other:": "NFC, Infrared",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band",
+    "Sensors:": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass",
+    "Features:": "USB Type-C 3.2, OTG",
+    "Location:": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC (L5)",
+    "Bluetooth:": "5.4, A2DP, LE, aptX HD, LHDC 5"
+  }
+}
