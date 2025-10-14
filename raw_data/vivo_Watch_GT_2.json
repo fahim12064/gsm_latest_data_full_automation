@@ -1,0 +1,72 @@
+{
+  "url": "https://www.gsmarena.com/vivo_watch_gt_2-14227.php",
+  "name": "vivo Watch GT 2",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-watch-gt2.jpg",
+  "highlights": [
+    "Exp. release 2025, October 17\n34.8g or 35.8g, 11mm thickness\nBlue OS 3.0\nUnspecified storage, no card slot",
+    "5.7%\n4,164 HITS",
+    "8\nBECOME A FAN",
+    "2.07\"\n432x514 pixels",
+    "NO",
+    "",
+    "595mAh"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "HSPA / LTE",
+      "2G bands": "N/A",
+      "3G bands": "HSDPA 850 / 900 / 2100 - cellular model only",
+      "4G bands": "LTE - cellular model only",
+      "Speed": "HSPA, LTE - cellular model only"
+    },
+    "LAUNCH": {
+      "Announced": "2025, October 13",
+      "Status": "Coming soon. Exp. release 2025, October 17"
+    },
+    "BODY": {
+      "Dimensions": "47.5 x 40.2 x 11 mm (1.87 x 1.58 x 0.43 in)",
+      "Weight": "34.8 g or 35.8 g (1.23 oz)",
+      "Build": "Glass front, aluminum alloy frame, plastic back",
+      "SIM": "eSIM - cellular model only",
+      "": "2ATM water resistant\nCompatible with standard 22mm straps"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 2400 nits (peak)",
+      "Size": "2.07 inches",
+      "Resolution": "432 x 514 pixels (~324 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Blue OS 3.0"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "Unspecified"
+    },
+    "CAMERA": {
+      "": "No"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "No",
+      "Bluetooth": "5.4, A2DP, LE",
+      "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS",
+      "NFC": "Yes",
+      "Radio": "No",
+      "USB": "No"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer, gyro, heart rate, compass, SpO2"
+    },
+    "BATTERY": {
+      "Type": "· 595 mAh - eSIM version\n· 695 mAh - bluetooth version"
+    },
+    "MISC": {
+      "Colors": "Glossy Black (eSIM only), Matte Silver, Matte Dark Blue",
+      "Models": "WA2536B",
+      "Price": "About 90 EUR"
+    }
+  }
+}

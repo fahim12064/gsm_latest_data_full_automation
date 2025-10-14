@@ -1,0 +1,83 @@
+{
+  "url": "https://www.gsmarena.com/vivo_pad5e-14226.php",
+  "name": "vivo Pad5e",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-pad5e.jpg",
+  "highlights": [
+    "Exp. release 2025, October 17\n584g or 591g, 6.6mm thickness\nAndroid 15, OriginOS 5 HD\n128GB/256GB/512GB storage, no card slot",
+    "11%\n7,925 HITS",
+    "11\nBECOME A FAN",
+    "12.1\"\n1968x2800 pixels",
+    "8MP\n1080p",
+    "8-16GB RAM\nSnapdragon 8s Gen 3",
+    "10000mAh\n44W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "No cellular connectivity",
+      "2G bands": "N/A",
+      "3G bands": "N/A",
+      "4G bands": "N/A",
+      "GPRS": "No",
+      "EDGE": "No"
+    },
+    "LAUNCH": {
+      "Announced": "2025, October 13",
+      "Status": "Coming soon. Exp. release 2025, October 17"
+    },
+    "BODY": {
+      "Dimensions": "266.4 x 192 x 6.6 mm (10.49 x 7.56 x 0.26 in)",
+      "Weight": "584 g or 591 g (1.29 lb)",
+      "Build": "Glass front, aluminum back, aluminum frame",
+      "SIM": "No",
+      "": "Stylus support"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 1B colors, 144Hz, HDR10, 900 nits (peak)",
+      "Size": "12.1 inches, 444.4 cm2 (~86.9% screen-to-body ratio)",
+      "Resolution": "1968 x 2800 pixels (~283 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 15, OriginOS 5 HD",
+      "Chipset": "Qualcomm SM8635 Snapdragon 8s Gen 3 (4 nm)",
+      "CPU": "Octa-core (1x3.0 GHz Cortex-X4 & 4x2.8 GHz Cortex-A720 & 3x2.0 GHz Cortex-A520)",
+      "GPU": "Adreno 735"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM, 512GB 16GB RAM",
+      "": "UFS 3.1 - 128GB\nUFS 4.1 - 256/512GB"
+    },
+    "MAIN CAMERA": {
+      "Single": "8 MP",
+      "Features": "LED flash",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "5 MP",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers (4 speakers)",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+      "Bluetooth": "5.4, A2DP, LE",
+      "Positioning": "Unspecified",
+      "NFC": "No",
+      "Radio": "No",
+      "USB": "USB Type-C 3.2, OTG, magnetic connector"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer, proximity (accessories only), gyro"
+    },
+    "BATTERY": {
+      "Type": "10000 mAh",
+      "Charging": "44W wired, PD\n5W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Gray, Blue, Purple",
+      "Price": "About 240 EUR"
+    }
+  }
+}

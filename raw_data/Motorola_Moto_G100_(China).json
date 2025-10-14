@@ -1,0 +1,82 @@
+{
+  "url": "https://www.gsmarena.com/motorola_moto_g100_5g_(china)-14228.php",
+  "name": "Motorola Moto G100 (China)",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g100-cn.jpg",
+  "highlights": [
+    "Exp. release 2025, October 20\n210g, 8.6mm thickness\nAndroid 15\n256GB/512GB storage, no card slot",
+    "2.1%\n1,568 HITS",
+    "2\nBECOME A FAN",
+    "6.72\"\n1080x2400 pixels",
+    "50MP\n2160p",
+    "8/12GB RAM\nSnapdragon 7s Gen 2",
+    "7000mAh\n30W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2025, October 14",
+      "Status": "Coming soon. Exp. release 2025, October 20"
+    },
+    "BODY": {
+      "Dimensions": "166.2 x 76.5 x 8.6 mm (6.54 x 3.01 x 0.34 in)",
+      "Weight": "210 g (7.41 oz)",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP64 dust tight and water resistant (water splashes)\nGJB 150A-2009 certified*\n* does not guarantee ruggedness or use in extreme conditions"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 120Hz, 1050 nits (peak)",
+      "Size": "6.72 inches, 109.0 cm2 (~85.8% screen-to-body ratio)",
+      "Resolution": "1080 x 2400 pixels, 20:9 ratio (~392 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 15",
+      "Chipset": "Qualcomm SM7435-AB Snapdragon 7s Gen 2 (4 nm)",
+      "CPU": "Octa-core (4x2.40 GHz Cortex-A78 & 4x1.95 GHz Cortex-A55)",
+      "GPU": "Adreno 710"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, f/1.9 (wide), 1/1.95\", 0.8µm, PDAF\n8 MP, f/2.2, 118˚ (ultrawide), 1/4.0\", 1.12µm",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "4K@30fps, 1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "32 MP, f/2.2, (wide), 0.7µm",
+      "Features": "HDR",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "Yes"
+    },
+    "COMMS": {
+      "WLAN": "Yes",
+      "Bluetooth": "Yes",
+      "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+      "NFC": "Yes",
+      "Radio": "Unspecified",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted); unspecified sensors"
+    },
+    "BATTERY": {
+      "Type": "7000 mAh",
+      "Charging": "30W wired"
+    },
+    "MISC": {
+      "Colors": "Black, Blue, Green",
+      "Price": "About 170 EUR"
+    }
+  }
+}
