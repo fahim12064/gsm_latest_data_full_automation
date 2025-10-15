@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP, f/1.9, (wide), 1/1.57\", PDAF, OIS",
+    "Flash:": "LED flash, HDR, panorama",
+    "Front:": "50 MP, f/2.5, (wide), 1/2.76\"",
+    "Folded:": "",
+    "Main camera:": "50 MP, f/1.9, (wide), 1/1.57\", PDAF, OIS",
+    "Second camera:": "20 MP, f/1.8, (night vision), 1/2.8\", 2 infrared night vision lights",
+    "Third camera:": "",
+    "Specifications:": "Aperture size: F/1.9",
+    "Video recording:": "4K@30/60fps, HDR10+"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Black",
+    "Folded:": "",
+    "Weight:": "670 g (1.48 lb)",
+    "Materials:": "",
+    "Biometrics:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer",
+    "Dimensions:": "186 x 87.8 x 29 mm (7.32 x 3.46 x 1.14 in)",
+    "Resistance:": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 2m for 30 min)\nMIL-STD-810H compliant\nDrop resistant up to 6m\n467lm dedicated dual LED flashlight"
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "20000 mAh",
+    "Charging:": "120W wired\n10W reverse wired",
+    "Max charge speed:": "Wired: 120W"
+  },
+  "Display": {
+    "Size:": "6.73 inches",
+    "Features:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer",
+    "Resolution:": "1440 x 3200 pixels, 20:9 ratio (~521 ppi density)",
+    "Technology:": "LTPO AMOLED",
+    "Refresh rate:": "120Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "2600 cd/m2 (nit)",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / CDMA / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1800 / 1900 / 2100",
+    "4G bands:": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 34, 38, 39, 40, 41, 66",
+    "5G bands:": "1, 3, 5, 7, 8, 20, 28, 38, 40, 41, 77, 78, 79 SA/NSA",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 15, up to 3 major Android upgrades, DokeOS 4.2",
+    "GPU:": "Mali G615-MC6",
+    "RAM:": "12GB",
+    "Processor:": "Mediatek Dimensity 8300 (4 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "256GB (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C, OTG",
+    "Other:": "NFC, Infrared",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6e, tri-band",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer",
+    "Features:": "USB Type-C, OTG",
+    "Location:": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS",
+    "Bluetooth:": "5.4, A2DP, LE"
+  }
+}
