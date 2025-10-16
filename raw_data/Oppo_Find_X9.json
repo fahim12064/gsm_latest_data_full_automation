@@ -1,0 +1,88 @@
+{
+  "url": "https://www.gsmarena.com/oppo_find_x9_5g-14235.php",
+  "name": "Oppo Find X9",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/oppo-find-x9.jpg",
+  "highlights": [
+    "Exp. release 2025, October\n203g, 8mm thickness\nAndroid 16, up to 5 major upgrades\n256GB/512GB/1TB storage, no card slot",
+    "8.5%\n4,299 HITS",
+    "13\nBECOME A FAN",
+    "6.59\"\n1256x2760 pixels",
+    "50MP\n2160p",
+    "12/16GB RAM\nDimensity 9500",
+    "7025mAh\n80W50W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2025, October 16",
+      "Status": "Coming soon. Exp. release 2025, October"
+    },
+    "BODY": {
+      "Dimensions": "157 x 73.9 x 8 mm (6.18 x 2.91 x 0.31 in)",
+      "Weight": "203 g (7.16 oz)",
+      "Build": "Glass front (Gorilla Glass), glass back (Gorilla Glass), aluminum frame",
+      "SIM": "· Nano-SIM + eSIM\n· Nano-SIM + Nano-SIM",
+      "": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 1B colors, 120Hz, 3840Hz PWM, Dolby Vision, HDR10+, HDR Vivid, 800 nits (typ), 1800 nits (HBM), 3600 nits (peak)",
+      "Size": "6.59 inches, 105.6 cm2 (~91.0% screen-to-body ratio)",
+      "Resolution": "1256 x 2760 pixels (~460 ppi density)",
+      "Protection": "Corning Gorilla Glass (unspecified version)",
+      "": "Ultra HDR image support"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, up to 5 major Android upgrades, ColorOS 16",
+      "Chipset": "Mediatek Dimensity 9500 (3 nm)",
+      "CPU": "Octa-core (1x4.21 GHz C1-Ultra & 3x3.5 GHz C1-Premium & 4x2.7 GHz C1-Pro)",
+      "GPU": "Arm G1-Ultra"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 256GB 16GB RAM, 512GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM",
+      "": "UFS 4.1"
+    },
+    "MAIN CAMERA": {
+      "Triple": "50 MP, f/1.6, 23mm (wide), 1/1.4\", 1.12µm, multi-directional PDAF, OIS\n50 MP, f/2.6, 73mm (periscope telephoto), 1/1.95\", 0.61µm, 3x optical zoom, multi-directional PDAF, OIS\n50 MP, f/2.0, 15mm, 120˚ (ultrawide), 1/2.76\", 0.64µm, multi-directional PDAF",
+      "Features": "Laser AF, color spectrum sensor, Hasselblad Color Calibration, LED flash, HDR, panorama",
+      "Video": "4K@30/60/120fps, 1080p@30/60/240fps; gyro-EIS; HDR, 10‑bit video, Dolby Vision, LOG"
+    },
+    "SELFIE CAMERA": {
+      "Single": "32 MP, f/2.4, 21mm (wide), 1/2.74\", 0.8µm",
+      "Features": "Panorama",
+      "Video": "4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+      "Bluetooth": "6.0, A2DP, LE, aptX HD, LHDC 5",
+      "Positioning": "GPS (L1+L5), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), GLONASS, NavIC (L5)",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass",
+      "": "Circle to Search"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 7025 mAh",
+      "Charging": "80W wired, PD 55W, PPS, UFCS\n50W wireless\n10W reverse wireless"
+    },
+    "MISC": {
+      "Colors": "Space Black, Titanium Grey, Velvet Red, White",
+      "Models": "CPH2797"
+    }
+  }
+}

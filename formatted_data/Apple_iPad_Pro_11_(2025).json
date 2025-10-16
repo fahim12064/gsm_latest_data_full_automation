@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "12 MP, f/1.8, (wide), dual pixel PDAF",
+    "Flash:": "Quad-LED dual-tone flash, HDR",
+    "Front:": "12 MP, f/2.0, 122˚ (ultrawide)",
+    "Folded:": "",
+    "Main camera:": "12 MP, f/1.8, (wide), dual pixel PDAF",
+    "Second camera:": "TOF 3D LiDAR scanner (depth)",
+    "Third camera:": "",
+    "Specifications:": "Aperture size: F/1.8",
+    "Video recording:": "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps; gyro-EIS, ProRes (4K, 1080p)"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Silver, Space Black",
+    "Folded:": "",
+    "Weight:": "444 g (Wi-Fi), 446 g (5G) (1.03 lb)",
+    "Materials:": "Glass front, aluminum back, aluminum frame",
+    "Biometrics:": "Face ID, accelerometer, gyro, compass, barometer",
+    "Dimensions:": "249.7 x 177.5 x 5.3 mm (9.83 x 6.99 x 0.21 in)",
+    "Resistance:": "Stylus support"
+  },
+  "Battery": {
+    "Type:": "31.3 Wh",
+    "Capacity:": "",
+    "Charging:": "50% in 30 min",
+    "Max charge speed:": ""
+  },
+  "Display": {
+    "Size:": "11.0 inches",
+    "Features:": "Face ID, accelerometer, gyro, compass, barometer",
+    "Resolution:": "1668 x 2420 pixels, 3:2 ratio (~267 ppi density)",
+    "Technology:": "Ultra Retina Tandem OLED",
+    "Refresh rate:": "120Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "1600 cd/m2 (nit)",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900 - cellular model only",
+    "3G bands:": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - cellular model only",
+    "4G bands:": "1, 2, 3, 4, 5, 7, 8, 11, 12, 13, 14, 17, 18, 19, 20, 21, 25, 26, 28, 29, 30, 32, 34, 38, 39, 40, 41, 42, 48, 66, 71 - A3358 - cellular model only",
+    "5G bands:": "1, 2, 3, 5, 7, 8, 12, 14, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 66, 70, 71, 75, 77, 78, 79 SA/NSA/Sub6 - A3358, A3359 - cellular model only",
+    "SIM type:": "eSIM - cellular model only"
+  },
+  "Hardware": {
+    "OS:": "iPadOS 26",
+    "GPU:": "Apple GPU (10-core graphics)",
+    "RAM:": "12GB",
+    "Processor:": "Apple M5",
+    "Device type:": "Smartphone",
+    "Internal storage:": "256GB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers (4 speakers)",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 4 (Thunderbolt 3), DisplayPort, magnetic connector",
+    "Other:": "NFC",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band, hotspot",
+    "Sensors:": "Face ID, accelerometer, gyro, compass, barometer",
+    "Features:": "USB Type-C 4 (Thunderbolt 3), DisplayPort, magnetic connector",
+    "Location:": "GPS, GLONASS, GALILEO, QZSS (Wi‑Fi + Cellular model only)",
+    "Bluetooth:": "6.0, A2DP, LE, EDR"
+  }
+}

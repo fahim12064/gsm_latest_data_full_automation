@@ -1,0 +1,72 @@
+{
+  "url": "https://www.gsmarena.com/oppo_watch_s-14237.php",
+  "name": "Oppo Watch S",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/oppo-watch-s.jpg",
+  "highlights": [
+    "Exp. release 2025, October 22\n35g, 8.9mm thickness\nColorOS Watch 7.1\n4GB storage, no card slot",
+    "0.5%\n301 HITS",
+    "0\nBECOME A FAN",
+    "1.46\"\n464x464 pixels",
+    "NO",
+    "Snapdragon W5 Gen 1",
+    "339mAh"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "No cellular connectivity",
+      "2G bands": "N/A",
+      "3G bands": "N/A",
+      "4G bands": "N/A",
+      "Speed": "No",
+      "GPRS": "No",
+      "EDGE": "No"
+    },
+    "LAUNCH": {
+      "Announced": "2025, October 16",
+      "Status": "Coming soon. Exp. release 2025, October 22"
+    },
+    "BODY": {
+      "Dimensions": "45 x 45 x 8.9 mm (1.77 x 1.77 x 0.35 in)",
+      "Weight": "35 g (1.23 oz)",
+      "SIM": "No",
+      "": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)\nWaterproof (5ATM/50m)\nECG certified"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 3000 nits (peak)",
+      "Size": "1.46 inches",
+      "Resolution": "464 x 464 pixels (~317 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "ColorOS Watch 7.1",
+      "Chipset": "Qualcomm Snapdragon W5 Gen 1 (4 nm)"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "4GB"
+    },
+    "CAMERA": {
+      "": "No"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "No",
+      "Bluetooth": "5.2, A2DP, LE",
+      "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS",
+      "NFC": "Yes",
+      "Radio": "No",
+      "USB": "No"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer, gyro, barometer, compass, heart rate, SpO2"
+    },
+    "BATTERY": {
+      "Type": "Li-Ion 339 mAh"
+    },
+    "MISC": {
+      "Colors": "Black, Silver"
+    }
+  }
+}

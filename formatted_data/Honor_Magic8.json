@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP, f/1.9, 24mm (wide), 1/1.56\", 1.0µm, multi-directional PDAF, OIS",
+    "Flash:": "Color spectrum sensor, LED flash, HDR, panorama",
+    "Front:": "50 MP, f/2.0, 21mm (wide), 1/2.93\", 0.6µm",
+    "Folded:": "",
+    "Main camera:": "50 MP, f/1.9, 24mm (wide), 1/1.56\", 1.0µm, multi-directional PDAF, OIS",
+    "Second camera:": "64 MP, f/2.5, (telephoto), PDAF, OIS, 3x optical zoom",
+    "Third camera:": "50 MP, f/2.0, 12mm, 122˚ (ultrawide), 1/2.88\", 0.61µm, dual pixel PDAF",
+    "Specifications:": "Aperture size: F/1.9 Focal Length: 24mm",
+    "Video recording:": "4K@24/30/60fps, 1080p@24/30/60/120/240fps, gyro-EIS, OIS, HDR, 10-bit video"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Black, White, Gold, Mint",
+    "Folded:": "",
+    "Weight:": "205 g (7.23 oz)",
+    "Materials:": "",
+    "Biometrics:": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass",
+    "Dimensions:": "157.1 x 74 x 8 mm (6.19 x 2.91 x 0.31 in)",
+    "Resistance:": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+  },
+  "Battery": {
+    "Type:": "Si/C Li-Ion",
+    "Capacity:": "7000 mAh",
+    "Charging:": "90W wired, 90W PPS, 40W UFCS\n80W wireless\nReverse wireless\n5W reverse wired",
+    "Max charge speed:": "Wired: 90WWireless: 80W"
+  },
+  "Display": {
+    "Size:": "6.58 inches",
+    "Features:": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass",
+    "Resolution:": "1256 x 2760 pixels (~461 ppi density)",
+    "Technology:": "LTPO OLED",
+    "Refresh rate:": "120Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "6000 cd/m2 (nit)",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 16, up to 7 major Android upgrades, MagicOS 10",
+    "GPU:": "Adreno 840",
+    "RAM:": "12GB",
+    "Processor:": "Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "256GB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with large amplitude stereo speakers",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0, DisplayPort 1.2, OTG",
+    "Other:": "NFC, Infrared",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+    "Sensors:": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass",
+    "Features:": "USB Type-C 2.0, DisplayPort 1.2, OTG",
+    "Location:": "GPS (L1+L5), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC (L1+L5), GLONASS",
+    "Bluetooth:": "6.0, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless, LHDC 5, Auracast, ASHA"
+  }
+}

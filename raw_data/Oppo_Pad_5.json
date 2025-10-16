@@ -1,0 +1,83 @@
+{
+  "url": "https://www.gsmarena.com/oppo_pad_5-14236.php",
+  "name": "Oppo Pad 5",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/oppo-pad5.jpg",
+  "highlights": [
+    "Exp. release 2025, October\n577g or 579g, 6mm thickness\nAndroid 16, ColorOS 16\n128GB/256GB/512GB storage, no card slot",
+    "1.7%\n865 HITS",
+    "0\nBECOME A FAN",
+    "12.1\"\n2120x3000 pixels",
+    "8MP\n2160p",
+    "8-16GB RAM\nDimensity 9400+",
+    "10420mAh\n67W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "No cellular connectivity",
+      "2G bands": "N/A",
+      "3G bands": "N/A",
+      "4G bands": "N/A",
+      "GPRS": "No",
+      "EDGE": "No"
+    },
+    "LAUNCH": {
+      "Announced": "2025, October 16",
+      "Status": "Coming soon. Exp. release 2025, October"
+    },
+    "BODY": {
+      "Dimensions": "266.9 x 193.4 x 6 mm (10.51 x 7.61 x 0.24 in)",
+      "Weight": "577 g or 579 g (1.27 lb)",
+      "SIM": "No",
+      "": "Stylus support"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 1B colors, 144Hz, 600 nits (typ), 900 nits (HBM)",
+      "Size": "12.1 inches, 445.2 cm2 (~86.2% screen-to-body ratio)",
+      "Resolution": "2120 x 3000 pixels (~304 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, ColorOS 16",
+      "Chipset": "Mediatek Dimensity 9400+ (3 nm)",
+      "CPU": "Octa-core (1x3.63 GHz Cortex-X925 & 3x3.3 GHz Cortex-X4 & 4x2.4 GHz Cortex-A720)",
+      "GPU": "Immortalis-G925"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM, 512GB 16GB RAM",
+      "": "128GB UFS 3.1\n256/512GB UFS 4.1"
+    },
+    "MAIN CAMERA": {
+      "Single": "8 MP",
+      "Features": "Color spectrum sensor, LED flash",
+      "Video": "4K@30fps, 1080p@30ps, gyro-EIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "8 MP",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers (4 speakers)",
+      "3.5mm jack": "No",
+      "": "24-bit/192kHz audio"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band",
+      "Bluetooth": "5.4, A2DP, LE, aptX HD, LHDC 5",
+      "Positioning": "No",
+      "NFC": "No",
+      "Radio": "No",
+      "USB": "USB Type-C 3.2, OTG, accessory connector"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer, proximity (accessories only), gyro, compass"
+    },
+    "BATTERY": {
+      "Type": "10420 mAh",
+      "Charging": "67W wired, 67W UFCS, 55W PPS, 18W PD"
+    },
+    "MISC": {
+      "Colors": "Silver, Gray, Purple",
+      "Models": "OPD2506"
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "url": "https://www.gsmarena.com/apple_ipad_pro_11_(2025)-14234.php",
+  "name": "Apple iPad Pro 11 (2025)",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-pro-11-2024.jpg",
+  "highlights": [
+    "Exp. release 2025, October 22\n444g (Wi-Fi), 446g (5G), 5.3mm thickness\niPadOS 26\n256GB/512GB/2TB storage, no card slot",
+    "9.3%\n4,508 HITS",
+    "3\nBECOME A FAN",
+    "11.0\"\n1668x2420 pixels",
+    "12MP\n2160p",
+    "12/16GB RAM\nApple M5",
+    "40W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900 - cellular model only",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - cellular model only",
+      "4G bands": "1, 2, 3, 4, 5, 7, 8, 11, 12, 13, 14, 17, 18, 19, 20, 21, 25, 26, 28, 29, 30, 32, 34, 38, 39, 40, 41, 42, 48, 66, 71 - A3358 - cellular model only",
+      "": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 25, 26, 28, 29, 30, 32, 34, 38, 39, 40, 41, 42, 48, 66, 71 - A3359 - cellular model only",
+      "5G bands": "1, 2, 3, 5, 7, 8, 12, 14, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 66, 70, 71, 75, 77, 78, 79 SA/NSA/Sub6 - A3358, A3359 - cellular model only",
+      "Speed": "HSPA, LTE (CA), 5G - cellular model only"
+    },
+    "LAUNCH": {
+      "Announced": "2025, October 16",
+      "Status": "Coming soon. Exp. release 2025, October 22"
+    },
+    "BODY": {
+      "Dimensions": "249.7 x 177.5 x 5.3 mm (9.83 x 6.99 x 0.21 in)",
+      "Weight": "444 g (Wi-Fi), 446 g (5G) (1.03 lb)",
+      "Build": "Glass front, aluminum back, aluminum frame",
+      "SIM": "eSIM - cellular model only",
+      "": "Stylus support"
+    },
+    "DISPLAY": {
+      "Type": "Ultra Retina Tandem OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (HBM), 1600 nits (peak)",
+      "Size": "11.0 inches, 364.8 cm2 (~82.3% screen-to-body ratio)",
+      "Resolution": "1668 x 2420 pixels, 3:2 ratio (~267 ppi density)",
+      "Protection": "Scratch-resistant glass, oleophobic coating, Mohs level 4",
+      "": "Antireflective coating\nNano-texture display glass option on 1TB and 2TB models"
+    },
+    "PLATFORM": {
+      "OS": "iPadOS 26",
+      "Chipset": "Apple M5",
+      "CPU": "9-core (3 performance cores, 6 efficiency cores) - 256/512GB models\n10-core (4 performance cores, 6 efficiency cores) - 1/2TB models",
+      "GPU": "Apple GPU (10-core graphics)"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 1TB 16GB RAM, 2TB 16GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Single": "12 MP, f/1.8, (wide), dual pixel PDAF\nTOF 3D LiDAR scanner (depth)",
+      "Features": "Quad-LED dual-tone flash, HDR",
+      "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps; gyro-EIS, ProRes (4K, 1080p)"
+    },
+    "SELFIE CAMERA": {
+      "Single": "12 MP, f/2.0, 122˚ (ultrawide)",
+      "Features": "Face detection, HDR, panorama",
+      "Video": "1080p@25/30/60fps, gyro-EIS, HDR"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers (4 speakers)",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band, hotspot",
+      "Bluetooth": "6.0, A2DP, LE, EDR",
+      "Positioning": "GPS, GLONASS, GALILEO, QZSS (Wi‑Fi + Cellular model only)",
+      "NFC": "No",
+      "Radio": "No",
+      "USB": "USB Type-C 4 (Thunderbolt 3), DisplayPort, magnetic connector"
+    },
+    "FEATURES": {
+      "Sensors": "Face ID, accelerometer, gyro, compass, barometer"
+    },
+    "BATTERY": {
+      "Type": "31.3 Wh",
+      "Charging": "50% in 30 min"
+    },
+    "MISC": {
+      "Colors": "Silver, Space Black",
+      "Models": "A3357, A3358, A3359",
+      "Price": "About 1100 EUR"
+    },
+    "EU LABEL": {
+      "Energy": "Class G",
+      "Battery": "71:00h endurance, 1000 cycles",
+      "Free fall": "Class E (47 falls)",
+      "Repairability": "Class C"
+    }
+  }
+}

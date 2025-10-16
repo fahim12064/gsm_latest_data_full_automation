@@ -1,0 +1,87 @@
+{
+  "url": "https://www.gsmarena.com/honor_magic8_5g-14232.php",
+  "name": "Honor Magic8",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-magic8.jpg",
+  "highlights": [
+    "Exp. release 2025, October 23\n205g, 8mm thickness\nAndroid 16, up to 7 major upgrades\n256GB/512GB/1TB storage, no card slot",
+    "41%\n19,662 HITS",
+    "30\nBECOME A FAN",
+    "6.58\"\n1256x2760 pixels",
+    "64MP\n2160p",
+    "12/16GB RAM\nSnapdragon 8 Elite Gen 5",
+    "7000mAh\n90W80W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2025, October 15",
+      "Status": "Coming soon. Exp. release 2025, October 23"
+    },
+    "BODY": {
+      "Dimensions": "157.1 x 74 x 8 mm (6.19 x 2.91 x 0.31 in)",
+      "Weight": "205 g (7.23 oz)",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "LTPO OLED, 1B colors, 120Hz, 4320Hz PWM, Dolby Vision, HDR Vivid, 1800 nits (HBM), 6000 nits (peak)",
+      "Size": "6.58 inches, 105.3 cm2 (~90.6% screen-to-body ratio)",
+      "Resolution": "1256 x 2760 pixels (~461 ppi density)",
+      "Protection": "Giant Rhino Glass",
+      "": "HDR image support"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, up to 7 major Android upgrades, MagicOS 10",
+      "Chipset": "Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm)",
+      "CPU": "Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M)",
+      "GPU": "Adreno 840"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM",
+      "": "UFS 4.0"
+    },
+    "MAIN CAMERA": {
+      "Triple": "50 MP, f/1.9, 24mm (wide), 1/1.56\", 1.0µm, multi-directional PDAF, OIS\n64 MP, f/2.5, (telephoto), PDAF, OIS, 3x optical zoom\n50 MP, f/2.0, 12mm, 122˚ (ultrawide), 1/2.88\", 0.61µm, dual pixel PDAF",
+      "Features": "Color spectrum sensor, LED flash, HDR, panorama",
+      "Video": "4K@24/30/60fps, 1080p@24/30/60/120/240fps, gyro-EIS, OIS, HDR, 10-bit video"
+    },
+    "SELFIE CAMERA": {
+      "Single": "50 MP, f/2.0, 21mm (wide), 1/2.93\", 0.6µm",
+      "Video": "4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with large amplitude stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+      "Bluetooth": "6.0, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless, LHDC 5, Auracast, ASHA",
+      "Positioning": "GPS (L1+L5), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC (L1+L5), GLONASS",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0, DisplayPort 1.2, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass",
+      "": "Emergency SOS via satellite (messages and calls) - China only"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 7000 mAh",
+      "Charging": "90W wired, 90W PPS, 40W UFCS\n80W wireless\nReverse wireless\n5W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Black, White, Gold, Mint",
+      "Models": "BKQ-AN00",
+      "Price": "About 540 EUR"
+    }
+  }
+}
