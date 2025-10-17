@@ -1,0 +1,86 @@
+{
+  "url": "https://www.gsmarena.com/huawei_nova_flip_s_5g-14240.php",
+  "name": "Huawei nova Flip S",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-nova-s.jpg",
+  "highlights": [
+    "Exp. release 2025, October 25\n195g or 199g, 6.9mm thickness\nHarmonyOS 5.1\n256GB/512GB storage, no card slot",
+    "0.8%\n433 HITS",
+    "0\nBECOME A FAN",
+    "6.94\"\n1136x2690 pixels",
+    "50MP\n2160p",
+    "12GB RAM\nKirin 8030",
+    "4440mAh\n66W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "": "CDMA2000 1x",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE"
+    },
+    "LAUNCH": {
+      "Announced": "2025, October 17",
+      "Status": "Coming soon. Exp. release 2025, October 25"
+    },
+    "BODY": {
+      "Dimensions": "Unfolded: 169.8 x 75.4 x 6.9 mm\nFolded: 87.8 x 75.4 x 15.1 mm",
+      "Weight": "195 g or 199 g (6.88 oz)",
+      "Build": "Aluminum alloy frame, glass back or silicone polymer (eco leather) back",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "Splash/dust resistant"
+    },
+    "DISPLAY": {
+      "Type": "Foldable LTPO OLED, 120Hz, HDR",
+      "Size": "6.94 inches, 111.4 cm2 (~87.0% screen-to-body ratio)",
+      "Resolution": "1136 x 2690 pixels (~421 ppi density)",
+      "": "Cover display:\nLTPO OLED, 2.14 inch, 480 x 480 pixels, 120Hz, 1440Hz PWM, 318ppi"
+    },
+    "PLATFORM": {
+      "OS": "HarmonyOS 5.1",
+      "Chipset": "Kirin 8030",
+      "CPU": "Octa-core"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 512GB 12GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, f/1.9, 23mm (wide), 1/1.56\", PDAF, OIS\n8 MP, f/2.2, 112˚ (ultrawide)",
+      "Features": "Laser AF, color spectrum sensor, LED flash, HDR, panorama",
+      "Video": "4K, 1080p, gyro-EIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "32 MP, f/2.2, 21mm (ultrawide)",
+      "Features": "HDR, panorama",
+      "Video": "4K, 1080p"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+      "Bluetooth": "5.2, A2DP, LE, L2HC",
+      "Positioning": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC",
+      "NFC": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, compass",
+      "": "Virtual proximity sensing"
+    },
+    "BATTERY": {
+      "Type": "Li-Po 4400 mAh",
+      "Charging": "66W wired, 100% in 40 min\n5W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Green, Pink, White, Black, Nova Black, Blue",
+      "Models": "PSD-AL80",
+      "Price": "About 410 EUR"
+    }
+  }
+}
