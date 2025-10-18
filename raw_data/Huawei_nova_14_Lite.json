@@ -1,0 +1,84 @@
+{
+  "url": "https://www.gsmarena.com/huawei_nova_14_lite_5g-14241.php",
+  "name": "Huawei nova 14 Lite",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-nova-14-energy-.jpg",
+  "highlights": [
+    "Exp. release 2025, October 25\n191g, 7.2mm thickness\nHarmonyOS 5.1\n256GB/512GB storage, no card slot",
+    "26%\n11,744 HITS",
+    "8\nBECOME A FAN",
+    "6.7\"\n1084x2412 pixels",
+    "50MP\n2160p",
+    "12GB RAM",
+    "5500mAh\n66W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "": "CDMA2000 1x",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2025, October 17",
+      "Status": "Coming soon. Exp. release 2025, October 25"
+    },
+    "BODY": {
+      "Dimensions": "161.8 x 75.5 x 7.2 mm (6.37 x 2.97 x 0.28 in)",
+      "Weight": "191 g (6.74 oz)",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP65 dust tight and water resistant (low pressure water jets)"
+    },
+    "DISPLAY": {
+      "Type": "OLED, 1B colors, HDR, 120Hz, 2160Hz PWM",
+      "Size": "6.7 inches, 108.3 cm2 (~88.6% screen-to-body ratio)",
+      "Resolution": "1084 x 2412 pixels, 20:9 ratio (~395 ppi density)",
+      "Protection": "Aluminosilicate glass"
+    },
+    "PLATFORM": {
+      "OS": "HarmonyOS 5.1"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 512GB 12GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, f/1.9, 23mm (wide), 1/1.56\", Dual Pixel PDAF\n8 MP, f/2.2, 16mm, 112˚ (ultrawide), AF",
+      "Features": "Color spectrum sensor, LED flash, panorama, HDR",
+      "Video": "4K, 1080p, gyro-EIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "50 MP, f/2.4, 1/2.5\"",
+      "Features": "HDR, panorama",
+      "Video": "4K, 1080p, gyro-EIS"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+      "Bluetooth": "5.2, A2DP, LE, L2HC (320-960 kbps HD audio)",
+      "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, compass",
+      "": "Virtual proximity sensing"
+    },
+    "BATTERY": {
+      "Type": "5500 mAh",
+      "Charging": "66W wired\n5W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Black, White, Blue",
+      "Models": "TYR-AL00",
+      "Price": "About 260 EUR"
+    }
+  }
+}
