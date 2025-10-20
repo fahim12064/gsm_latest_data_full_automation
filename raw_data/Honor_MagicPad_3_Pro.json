@@ -1,0 +1,83 @@
+{
+  "url": "https://www.gsmarena.com/honor_magicpad_3_pro-14243.php",
+  "name": "Honor MagicPad 3 Pro",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-magicpad3-pro.jpg",
+  "highlights": [
+    "Exp. release 2025, October 23\n595g, 5.8mm thickness\nAndroid 16, MagicOS 10\n256GB/512GB storage, no card slot",
+    "1.9%\n860 HITS",
+    "3\nBECOME A FAN",
+    "13.3\"\n2136x3200 pixels",
+    "13MP\n2160p",
+    "12/16GB RAM\nSnapdragon 8 Elite Gen 5",
+    "12450mAh\n80W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "No cellular connectivity",
+      "2G bands": "N/A",
+      "3G bands": "N/A",
+      "4G bands": "N/A",
+      "GPRS": "No",
+      "EDGE": "No"
+    },
+    "LAUNCH": {
+      "Announced": "2025, October 15",
+      "Status": "Coming soon. Exp. release 2025, October 23"
+    },
+    "BODY": {
+      "Dimensions": "293.9 x 201.4 x 5.8 mm (11.57 x 7.93 x 0.23 in)",
+      "Weight": "595 g (1.31 lb)",
+      "SIM": "No",
+      "": "Stylus support"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 1B colors, 165Hz, HDR Vivid, 1100 nits (peak)",
+      "Size": "13.3 inches, 527.0 cm2 (~89.0% screen-to-body ratio)",
+      "Resolution": "2136 x 3200 pixels, 3:2 ratio (~289 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, MagicOS 10",
+      "Chipset": "Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm)",
+      "CPU": "Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M)",
+      "GPU": "Adreno 840"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 512GB 16GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Dual": "13 MP, f/2.0, AF\n2 MP, f/2.4, (macro)",
+      "Features": "LED flash",
+      "Video": "4K@30fps, 1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "9 MP, f/2.2",
+      "Video": "4K@30fps, 1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers (8 speakers)",
+      "3.5mm jack": "No",
+      "": "IMAX Enhanced"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band",
+      "Bluetooth": "6.0, A2DP, LE, aptX HD, aptX Adaptive, ASHA",
+      "Positioning": "No",
+      "NFC": "No",
+      "Radio": "No",
+      "USB": "USB Type-C 3.2 Gen2, Display Port 1.2, OTG, accessory connector pins"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer, proximity (accessories only), gyro"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 12450 mAh",
+      "Charging": "80W wired\n5W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Gray, White, Gold",
+      "Models": "YLP-W00",
+      "Price": "About 460 EUR"
+    }
+  }
+}

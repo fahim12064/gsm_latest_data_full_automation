@@ -1,0 +1,72 @@
+{
+  "url": "https://www.gsmarena.com/honor_watch_5_pro-14242.php",
+  "name": "Honor Watch 5 Pro",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-watch5-pro.jpg",
+  "highlights": [
+    "Exp. release 2025, November 04\n51g, 11.3mm thickness\nMagicOS\n8GB storage, no card slot",
+    "0.5%\n1,052 HITS",
+    "5\nBECOME A FAN",
+    "1.5\"\n464x464 pixels",
+    "NO",
+    "64MB RAM",
+    "515mAh\n5W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900 - cellular model only",
+      "3G bands": "HSDPA 850 / 900 / 2100 - cellular model only",
+      "4G bands": "LTE - cellular model only",
+      "Speed": "HSPA, LTE - cellular model only"
+    },
+    "LAUNCH": {
+      "Announced": "2025, October 15",
+      "Status": "Coming soon. Exp. release 2025, November 04"
+    },
+    "BODY": {
+      "Dimensions": "46.3 x 46.3 x 11.3 mm (1.82 x 1.82 x 0.44 in)",
+      "Weight": "51 g (1.80 oz)",
+      "SIM": "eSIM",
+      "": "5 ATM\nIP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\nCompatible with standard 22mm straps"
+    },
+    "DISPLAY": {
+      "Type": "LTPO AMOLED",
+      "Size": "1.5 inches",
+      "Resolution": "464 x 464 pixels (~310 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "MagicOS"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "8GB 64MB RAM"
+    },
+    "CAMERA": {
+      "": "No"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "No",
+      "Bluetooth": "5.2, LE, EDR",
+      "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS",
+      "NFC": "Yes (market/region dependent)",
+      "Radio": "No",
+      "USB": "No"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer, gyro, heart rate, barometer, compass, SpO2"
+    },
+    "BATTERY": {
+      "Type": "Li-Po 515 mAh",
+      "Charging": "Wireless"
+    },
+    "MISC": {
+      "Colors": "Gray, Silver",
+      "Models": "HAL-L19, HAL-B19",
+      "Price": "About 170 EUR"
+    }
+  }
+}
