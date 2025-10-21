@@ -1,0 +1,78 @@
+{
+  "url": "https://www.gsmarena.com/tecno_megapad_pro-14244.php",
+  "name": "Tecno Megapad Pro",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-megapad-pro.jpg",
+  "highlights": [
+    "Released 2025, October 20\n547 g\nAndroid 15\n256GB storage, microSDXC",
+    "18%\n7,869 HITS",
+    "4\nBECOME A FAN",
+    "12.0\"\n1200x2000 pixels",
+    "13MP\n1080p",
+    "",
+    "10000mAh\n33W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "No cellular connectivity",
+      "2G bands": "N/A",
+      "3G bands": "N/A",
+      "4G bands": "N/A",
+      "5G bands": "N/A",
+      "Speed": "N/A",
+      "GPRS": "No",
+      "EDGE": "No"
+    },
+    "LAUNCH": {
+      "Announced": "2025, September 03",
+      "Status": "Available. Released 2025, October 20"
+    },
+    "BODY": {
+      "Dimensions": "6.0 mm thickness",
+      "Weight": "547 g (1.21 lb)",
+      "SIM": "No"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 90Hz, 450 nits",
+      "Size": "12.0 inches, 409.9 cm2",
+      "Resolution": "1200 x 2000 pixels, 5:3 ratio (~194 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 15"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC",
+      "Internal": "Up to 256GB"
+    },
+    "MAIN CAMERA": {
+      "Single": "13 MP",
+      "Features": "LED flash",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "Yes",
+      "Video": "Yes"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers, Dolby Atmos (4 speakers)",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+      "Bluetooth": "Yes",
+      "Positioning": "No",
+      "NFC": "No",
+      "Radio": "No",
+      "USB": "USB Type-C"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer"
+    },
+    "BATTERY": {
+      "Type": "10000 mAh",
+      "Charging": "33W wired"
+    },
+    "MISC": {
+      "Colors": "Sky Gray, Aurora Violet"
+    }
+  }
+}
