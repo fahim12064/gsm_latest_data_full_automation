@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP, f/1.8, (wide), PDAF",
+    "Flash:": "LED flash, HDR, panorama",
+    "Front:": "5 MP, f/2.2, (wide)",
+    "Folded:": "",
+    "Main camera:": "50 MP, f/1.8, (wide), PDAF",
+    "Second camera:": "Auxiliary lens",
+    "Third camera:": "",
+    "Specifications:": "Aperture size: F/1.8",
+    "Video recording:": "1080p@30fps"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Cyan",
+    "Folded:": "",
+    "Weight:": "186 g (6.56 oz)",
+    "Materials:": "",
+    "Biometrics:": "Fingerprint (side-mounted), accelerometer, proximity",
+    "Dimensions:": "167 x 77 x 7.9 mm (6.57 x 3.03 x 0.31 in)",
+    "Resistance:": ""
+  },
+  "Battery": {
+    "Type:": "Li-Po",
+    "Capacity:": "5260 mAh",
+    "Charging:": "15W wired",
+    "Max charge speed:": "Wired: 15W"
+  },
+  "Display": {
+    "Size:": "6.74 inches",
+    "Features:": "Fingerprint (side-mounted), accelerometer, proximity",
+    "Resolution:": "720 x 1600 pixels, 20:9 ratio (~260 ppi density)",
+    "Technology:": "TFT LCD",
+    "Refresh rate:": "90Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 15, MagicOS 9",
+    "GPU:": "Mali-G52 MC2",
+    "RAM:": "4GB",
+    "Processor:": "Mediatek Helio G81 (12 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "64GB (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes",
+    "Headphones:": "Yes",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0, OTG",
+    "Other:": "NFC",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, proximity",
+    "Features:": "USB Type-C 2.0, OTG",
+    "Location:": "GPS, GLONASS, GALILEO, BDS",
+    "Bluetooth:": "5.1, A2DP, LE, aptX HD"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "url": "https://www.gsmarena.com/honor_play10a-14253.php",
+  "name": "Honor Play10A",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-play10a.jpg",
+  "highlights": [
+    "Released 2025, October 23\n186g, 7.9mm thickness\nAndroid 15, MagicOS 9\n64GB/128GB/256GB storage, microSDXC",
+    "2.1%\n966 HITS",
+    "2\nBECOME A FAN",
+    "6.74\"\n720x1600 pixels",
+    "50MP\n1080p",
+    "4/6GB RAM\nHelio G81",
+    "5260mAh\n15W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+      "4G bands": "LTE",
+      "Speed": "HSPA, LTE"
+    },
+    "LAUNCH": {
+      "Announced": "2025, October 23",
+      "Status": "Available. Released 2025, October 23"
+    },
+    "BODY": {
+      "Dimensions": "167 x 77 x 7.9 mm (6.57 x 3.03 x 0.31 in)",
+      "Weight": "186 g (6.56 oz)",
+      "SIM": "Nano-SIM + Nano-SIM"
+    },
+    "DISPLAY": {
+      "Type": "TFT LCD, 90Hz",
+      "Size": "6.74 inches, 109.7 cm2 (~85.3% screen-to-body ratio)",
+      "Resolution": "720 x 1600 pixels, 20:9 ratio (~260 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 15, MagicOS 9",
+      "Chipset": "Mediatek Helio G81 (12 nm)",
+      "CPU": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.7 GHz Cortex-A55)",
+      "GPU": "Mali-G52 MC2"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC (uses shared SIM slot)",
+      "Internal": "64GB 4GB RAM, 128GB 4GB RAM, 256GB 6GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Single": "50 MP, f/1.8, (wide), PDAF\nAuxiliary lens",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "5 MP, f/2.2, (wide)",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "Yes"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+      "Bluetooth": "5.1, A2DP, LE, aptX HD",
+      "Positioning": "GPS, GLONASS, GALILEO, BDS",
+      "NFC": "No",
+      "Radio": "FM radio",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, proximity"
+    },
+    "BATTERY": {
+      "Type": "Li-Po 5260 mAh",
+      "Charging": "15W wired"
+    },
+    "MISC": {
+      "Colors": "Cyan",
+      "Models": "NLA-LX3",
+      "Price": "About 80 EUR"
+    }
+  }
+}

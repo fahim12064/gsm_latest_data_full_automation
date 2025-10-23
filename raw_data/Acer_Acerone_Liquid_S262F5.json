@@ -1,0 +1,83 @@
+{
+  "url": "https://www.gsmarena.com/acer_acerone_liquid_s262f5_5g-14250.php",
+  "name": "Acer Acerone Liquid S262F5",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/acer-acerone-liquid-s262f5.jpg",
+  "highlights": [
+    "Released Exp. release 2025, October\n202.8g, 8.9mm thickness\nAndroid 16\n128GB storage, microSDXC",
+    "14%\n6,155 HITS",
+    "4\nBECOME A FAN",
+    "6.76\"\n720x1640 pixels",
+    "64MP\n1080p",
+    "8GB RAM\nDimensity 6400",
+    "5000mAh"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 2100",
+      "4G bands": "1, 3, 5, 8, 40, 41",
+      "5G bands": "1, 3, 5, 7, 8, 26, 28, 40, 41, 66, 77, 78 SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2025, October 22",
+      "Status": "Available. Released Exp. release 2025, October"
+    },
+    "BODY": {
+      "Dimensions": "171 x 77.8 x 8.9 mm (6.73 x 3.06 x 0.35 in)",
+      "Weight": "202.8 g (7.16 oz)",
+      "Build": "Glass front (Gorilla Glass 5), plastic back, plastic frame",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP54 dust protected and water resistant (water splashes)"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 90Hz, 380 nits",
+      "Size": "6.76 inches, 108.5 cm2 (~81.6% screen-to-body ratio)",
+      "Resolution": "720 x 1640 pixels (~265 ppi density)",
+      "Protection": "Corning Gorilla Glass 5"
+    },
+    "PLATFORM": {
+      "OS": "Android 16",
+      "Chipset": "Mediatek Dimensity 6400 (6 nm)",
+      "CPU": "Octa-core (2x2.5 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+      "GPU": "Mali-G57 MC2"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC (uses shared SIM slot)",
+      "Internal": "128GB 8GB RAM",
+      "": "UFS 2.2"
+    },
+    "MAIN CAMERA": {
+      "Triple": "64 MP, (wide), PDAF\n8 MP, (ultrawide)\n2 MP, (macro)",
+      "Features": "LED flash",
+      "Video": "1080p"
+    },
+    "SELFIE CAMERA": {
+      "Single": "16 MP",
+      "Video": "Yes"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band",
+      "Bluetooth": "5.2, A2DP, LE",
+      "Positioning": "GPS, GLONASS, GALILEO, BDS",
+      "NFC": "No",
+      "Radio": "FM radio",
+      "USB": "USB Type-C 2.0"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "Li-Ion 5000 mAh"
+    },
+    "MISC": {
+      "Colors": "Dark Blue",
+      "Models": "ZL.A01SU.04P"
+    }
+  }
+}

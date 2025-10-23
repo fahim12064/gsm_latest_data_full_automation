@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "64 MP, (wide), PDAF",
+    "Flash:": "LED flash",
+    "Front:": "16 MP",
+    "Folded:": "",
+    "Main camera:": "64 MP, (wide), PDAF",
+    "Second camera:": "8 MP, (ultrawide)",
+    "Third camera:": "2 MP, (macro)",
+    "Specifications:": "",
+    "Video recording:": "1080p"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Dark Blue",
+    "Folded:": "",
+    "Weight:": "202.8 g (7.16 oz)",
+    "Materials:": "Glass front (Gorilla Glass 5), plastic back, plastic frame",
+    "Biometrics:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+    "Dimensions:": "171 x 77.8 x 8.9 mm (6.73 x 3.06 x 0.35 in)",
+    "Resistance:": "IP54 dust protected and water resistant (water splashes)"
+  },
+  "Battery": {
+    "Type:": "Li-Ion",
+    "Capacity:": "5000 mAh",
+    "Charging:": "",
+    "Max charge speed:": ""
+  },
+  "Display": {
+    "Size:": "6.76 inches",
+    "Features:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+    "Resolution:": "720 x 1640 pixels (~265 ppi density)",
+    "Technology:": "IPS LCD",
+    "Refresh rate:": "90Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 2100",
+    "4G bands:": "1, 3, 5, 8, 40, 41",
+    "5G bands:": "1, 3, 5, 7, 8, 26, 28, 40, 41, 66, 77, 78 SA/NSA",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 16",
+    "GPU:": "Mali-G57 MC2",
+    "RAM:": "8GB",
+    "Processor:": "Mediatek Dimensity 6400 (6 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "128GB (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0",
+    "Other:": "NFC",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+    "Features:": "USB Type-C 2.0",
+    "Location:": "GPS, GLONASS, GALILEO, BDS",
+    "Bluetooth:": "5.2, A2DP, LE"
+  }
+}
