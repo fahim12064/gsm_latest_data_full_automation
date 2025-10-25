@@ -1,0 +1,86 @@
+{
+  "url": "https://www.gsmarena.com/oukitel_c69-14254.php",
+  "name": "Oukitel C69",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-c69.jpg",
+  "highlights": [
+    "Released 2025, September\n243g, 9.5mm thickness\nAndroid 15\n128GB storage, microSDXC",
+    "7.6%\n3,988 HITS",
+    "4\nBECOME A FAN",
+    "7.2\"\n720x1560 pixels",
+    "64MP\n1080p",
+    "4GB RAM\nUnisoc T615",
+    "6000mAh\n18W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 25, 26, 28, 34, 38, 39, 40, 41, 66",
+      "Speed": "HSPA, LTE"
+    },
+    "LAUNCH": {
+      "Announced": "2025, September",
+      "Status": "Available. Released 2025, September"
+    },
+    "BODY": {
+      "Dimensions": "176.2 x 83 x 9.5 mm (6.94 x 3.27 x 0.37 in)",
+      "Weight": "243 g (8.57 oz)",
+      "SIM": "Nano-SIM + Nano-SIM"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 120Hz, 500 nits",
+      "Size": "7.2 inches, 127.3 cm2 (~87.0% screen-to-body ratio)",
+      "Resolution": "720 x 1560 pixels, 19.5:9 ratio (~239 ppi density)",
+      "Protection": "Panda Glass, Mohs level 5"
+    },
+    "PLATFORM": {
+      "OS": "Android 15",
+      "Chipset": "Unisoc T615 (12 nm)",
+      "CPU": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+      "GPU": "Mali-G57 MP1"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC (uses shared SIM slot)",
+      "Internal": "128GB 4GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Single": "64 MP, f/1.8 (wide), 1/2\", AF",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "8 MP, f/2.0, (wide), 1/4.0\"",
+      "Video": "720p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+      "Bluetooth": "5.0, A2DP, LE",
+      "Positioning": "GPS, GALILEO, GLONASS, BDS",
+      "NFC": "Yes",
+      "Radio": "FM radio",
+      "USB": "USB Type-C"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer"
+    },
+    "BATTERY": {
+      "Type": "Li-Po 6000 mAh",
+      "Charging": "18W wired"
+    },
+    "MISC": {
+      "Colors": "Gold, Purple, Green, Black",
+      "Price": "£ 129.99"
+    },
+    "EU LABEL": {
+      "Energy": "Class A",
+      "Battery": "65:08h endurance, 1000 cycles",
+      "Free fall": "Class B (180 falls)",
+      "Repairability": "Class B"
+    }
+  }
+}
