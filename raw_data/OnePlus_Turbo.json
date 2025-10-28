@@ -1,0 +1,83 @@
+{
+  "url": "https://www.gsmarena.com/oneplus_turbo_5g-14260.php",
+  "name": "OnePlus Turbo",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-ace6.jpg",
+  "highlights": [
+    "Not announced yet\n\nAndroid 16, ColorOS 16\n256GB/512GB storage, no card slot",
+    "16%\n7,869 HITS",
+    "9\nBECOME A FAN",
+    "6.7\"\n1272x2800 pixels",
+    "50MP\n2160p",
+    "8/12GB RAM\nSnapdragon 8 Elite Gen 5",
+    "8000mAh\n100W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 1B colors, 120Hz",
+      "Size": "6.7 inches, 109.1 cm2",
+      "Resolution": "1272 x 2800 pixels (~459 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, ColorOS 16",
+      "Chipset": "Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm)",
+      "CPU": "Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M)",
+      "GPU": "Adreno 840"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "Up to 512GB",
+      "": "UFS"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, f/1.8, 24mm (wide), PDAF, OIS\n8 MP, f/2.2, 16mm, 112˚ (ultrawide), 1/4.0\", 1.12µm",
+      "Features": "Color spectrum sensor, LED flash, HDR, panorama",
+      "Video": "4K@30/60/120fps, 1080p@30/60/120fps, gyro-EIS, OIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "16 MP, f/2.4, 23mm (wide), 1/3\", 1.0µm",
+      "Features": "HDR, panorama",
+      "Video": "1080p@30fps, gyro-EIS"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+      "Bluetooth": "5.4, A2DP, LE, aptX HD",
+      "Positioning": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5)",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 8000 mAh",
+      "Charging": "100W wired\nBypass charging"
+    },
+    "MISC": {
+      "Colors": "Black; other colors"
+    }
+  }
+}
