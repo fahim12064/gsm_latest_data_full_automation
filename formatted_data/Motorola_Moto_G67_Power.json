@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP, f/1.9 (wide), 1/1.95\", 0.8µm, PDAF",
+    "Flash:": "LED flash, HDR, panorama",
+    "Front:": "32 MP, f/2.2, (wide), 0.7µm",
+    "Folded:": "",
+    "Main camera:": "50 MP, f/1.9 (wide), 1/1.95\", 0.8µm, PDAF",
+    "Second camera:": "8 MP, f/2.2, 118˚ (ultrawide), 1/4.0\", 1.12µm",
+    "Third camera:": "",
+    "Specifications:": "Aperture size: F/1.9",
+    "Video recording:": "4K@30fps, 1080p@30fps"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Black, Blue, Green",
+    "Folded:": "",
+    "Weight:": "210 g (7.41 oz)",
+    "Materials:": "",
+    "Biometrics:": "Fingerprint (side-mounted); unspecified sensors",
+    "Dimensions:": "166.2 x 76.5 x 8.6 mm (6.54 x 3.01 x 0.34 in)",
+    "Resistance:": "IP64 dust tight and water resistant (water splashes)\nMIL-STD-810H compliant*\n* does not guarantee ruggedness or use in extreme conditions"
+  },
+  "Battery": {
+    "Type:": "Si/C Li-Ion",
+    "Capacity:": "7000 mAh",
+    "Charging:": "30W wired",
+    "Max charge speed:": "Wired: 30W"
+  },
+  "Display": {
+    "Size:": "6.72 inches",
+    "Features:": "Fingerprint (side-mounted); unspecified sensors",
+    "Resolution:": "1080 x 2400 pixels, 20:9 ratio (~392 ppi density)",
+    "Technology:": "IPS LCD",
+    "Refresh rate:": "120Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "1050 cd/m2 (nit)",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 15",
+    "GPU:": "Adreno 710",
+    "RAM:": "8GB",
+    "Processor:": "Qualcomm SM7435-AB Snapdragon 7s Gen 2 (4 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "128GB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers",
+    "Headphones:": "Yes",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0, OTG",
+    "Other:": "NFC",
+    "Wi-Fi:": "Yes",
+    "Sensors:": "Fingerprint (side-mounted); unspecified sensors",
+    "Features:": "USB Type-C 2.0, OTG",
+    "Location:": "GPS, GALILEO, GLONASS, BDS, QZSS",
+    "Bluetooth:": "Yes"
+  }
+}
