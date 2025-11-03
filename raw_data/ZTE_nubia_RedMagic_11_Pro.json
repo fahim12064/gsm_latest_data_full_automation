@@ -1,41 +1,41 @@
 {
-  "url": "https://www.gsmarena.com/zte_nubia_redmagic_11_pro_5g-14239.php",
+  "url": "https://www.gsmarena.com/zte_nubia_redmagic_11_pro_5g_int-14277.php",
   "name": "ZTE nubia RedMagic 11 Pro",
-  "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-red-magic-11-pro.jpg",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-red-magic-11-pro-plus.jpg",
   "highlights": [
-    "Released 2025, October 17\n230g, 8.9mm thickness\nAndroid 16, Redmagic OS 11\n256GB/512GB storage, no card slot",
-    "2.7%\n2,642 HITS",
-    "7\nBECOME A FAN",
+    "Exp. release 2025, November 13\n230g, 8.9mm thickness\nAndroid 16, Redmagic OS 11\n256GB/512GB/1TB storage, no card slot",
+    "2.9%\n1,265 HITS",
+    "5\nBECOME A FAN",
     "6.85\"\n1216x2688 pixels",
     "50MP\n4320p",
-    "12/16GB RAM\nSnapdragon 8 Elite Gen 5",
-    "8000mAh\n80W"
+    "12-24GB RAM\nSnapdragon 8 Elite Gen 5",
+    "7500mAh\n80W80W"
   ],
   "specs": {
     "NETWORK": {
-      "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+      "Technology": "GSM / HSPA / LTE / 5G",
       "2G bands": "GSM 850 / 900 / 1800 / 1900",
-      "": "CDMA2000 1xEV-DO",
-      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
-      "4G bands": "LTE",
-      "5G bands": "SA/NSA",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 28, 34, 38, 39, 40, 41, 42, 66",
+      "5G bands": "1, 2, 3, 5, 7, 8, 20, 26, 28, 38, 40, 41, 66, 77, 78 SA/NSA",
       "Speed": "HSPA, LTE, 5G"
     },
     "LAUNCH": {
-      "Announced": "2025, October 17",
-      "Status": "Available. Released 2025, October 17"
+      "Announced": "2025, November 03",
+      "Status": "Coming soon. Exp. release 2025, November 13"
     },
     "BODY": {
       "Dimensions": "163.8 x 76.5 x 8.9 mm (6.45 x 3.01 x 0.35 in)",
       "Weight": "230 g (8.11 oz)",
-      "Build": "Glass front, aluminum frame, glass back",
+      "Build": "Glass front (Gorilla Glass), aluminum frame, glass back",
       "SIM": "Nano-SIM + Nano-SIM",
       "": "Pressure sensitive zones (520Hz touch-sensing)\nBuilt-in cooling fan\nAviation aluminum middle frame\nIPX8 water resistant (immersible up to 1.5m for 30 min)"
     },
     "DISPLAY": {
-      "Type": "AMOLED, 1B colors, 144Hz, 2592Hz PWM, 2000 nits (peak)",
+      "Type": "AMOLED, 1B colors, 144Hz, 2592Hz PWM, 1800 nits (peak)",
       "Size": "6.85 inches, 113.7 cm2 (~90.7% screen-to-body ratio)",
-      "Resolution": "1216 x 2688 pixels (~431 ppi density)"
+      "Resolution": "1216 x 2688 pixels (~431 ppi density)",
+      "Protection": "Corning Gorilla Glass"
     },
     "PLATFORM": {
       "OS": "Android 16, Redmagic OS 11",
@@ -45,16 +45,16 @@
     },
     "MEMORY": {
       "Card slot": "No",
-      "Internal": "256GB 12GB RAM, 512GB 16GB RAM",
+      "Internal": "256GB 12GB RAM, 512GB 16GB RAM, 1TB 24GB RAM",
       "": "UFS 4.1 Pro"
     },
     "MAIN CAMERA": {
-      "Triple": "50 MP, f/1.9, (wide), 1/1.55\", PDAF, OIS\n50 MP, f/2.2, (ultrawide), 1/2.88\", 0.61µm\n2 MP, f/2.4, (macro)",
+      "Triple": "50 MP, f/1.9, (wide), 1/1.55\", 1.0µm, PDAF, OIS\n50 MP, f/2.2, (ultrawide), 1/2.88\", 0.61µm\nAuxiliary lens",
       "Features": "LED flash, HDR, panorama",
       "Video": "8K@30fps, 4K@30/60fps, 1080p@30/60/120/240fps"
     },
     "SELFIE CAMERA": {
-      "Single": "16 MP, f/2.0, (wide), under display",
+      "Single": "16 MP, f/2.0, (wide), 1/2.77\", 1.12µm, under display",
       "Features": "HDR",
       "Video": "1080p@30/60fps"
     },
@@ -76,13 +76,12 @@
       "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass"
     },
     "BATTERY": {
-      "Type": "Si/C Li-Ion 8000 mAh",
-      "Charging": "80W wired"
+      "Type": "Si/C Li-Ion 7500 mAh",
+      "Charging": "80W wired\n80W wireless, 100% in 68 min"
     },
     "MISC": {
-      "Colors": "Black, Silver",
-      "Models": "NX809J",
-      "Price": "About 600 EUR"
+      "Colors": "Matte Black Cryo, Transparent Silver Subzero, Transparent Black Nightfreeze",
+      "Price": "About 700 EUR"
     }
   }
 }
