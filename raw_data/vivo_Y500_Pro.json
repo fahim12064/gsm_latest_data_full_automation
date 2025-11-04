@@ -1,0 +1,87 @@
+{
+  "url": "https://www.gsmarena.com/vivo_y500_pro_5g_(china)-14278.php",
+  "name": "vivo Y500 Pro",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-y500-pro.jpg",
+  "highlights": [
+    "Not announced yet\n198g, 7.8mm thickness\nAndroid 16, OriginOS 6\n256GB/512GB storage, no card slot",
+    "9.9%\n3,758 HITS",
+    "3\nBECOME A FAN",
+    "6.67\"\n1260x2800 pixels",
+    "200MP\n2160p",
+    "12GB RAM\nDimensity 7400",
+    "7000mAh\n90W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / CDMA / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "": "CDMA 800",
+      "3G bands": "HSDPA 850 / 900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "160.2 x 74.5 x 7.8 mm (6.31 x 2.93 x 0.31 in)",
+      "Weight": "198 g (6.98 oz)",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68/IP69+ dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 24 hours)\nDrop resistant up to 1.7m"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 1B colors, 120Hz, 3840Hz PWM, 5000 nits (peak)",
+      "Size": "6.67 inches, 147.2 cm2 (~123.3% screen-to-body ratio)",
+      "Resolution": "1260 x 2800 pixels, 20:9 ratio (~393 ppi density)",
+      "Protection": "Diamond Shield Glass",
+      "": "Anti-reflective coating"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, OriginOS 6",
+      "Chipset": "Mediatek Dimensity 7400 (4 nm)",
+      "CPU": "Octa-core (4x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+      "GPU": "Mali-G615 MC2"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 512GB 12GB RAM",
+      "": "UFS"
+    },
+    "MAIN CAMERA": {
+      "Dual": "200 MP, f/1.8, (wide), 1/1.56\", 0.5µm, PDAF, OIS\nAuxiliary lens",
+      "Features": "LED flash, panorama, HDR",
+      "Video": "4K, 1080p, gyro-EIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "32 MP, f/2.0, (wide)",
+      "Features": "Panorama",
+      "Video": "4K@30fps, 1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No",
+      "": "24-bit/192kHz Hi-Res & Hi-Res Wireless audio\n3D Panoramic Audio speaker"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+      "Bluetooth": "5.4, A2DP, LE, aptX HD",
+      "Positioning": "GPS, GALILEO, GLONASS, QZSS, BDS",
+      "NFC": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 7000 mAh",
+      "Charging": "90W wired\nReverse wired"
+    },
+    "MISC": {
+      "Colors": "Black, Green, Pink, Gold",
+      "Models": "V2516A"
+    }
+  }
+}
