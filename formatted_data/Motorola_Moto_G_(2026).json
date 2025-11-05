@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP, f/1.8, (wide), 0.61µm, PDAF",
+    "Flash:": "LED flash, HDR, panorama",
+    "Front:": "32 MP, f/2.2, (wide), 0.64µm",
+    "Folded:": "",
+    "Main camera:": "50 MP, f/1.8, (wide), 0.61µm, PDAF",
+    "Second camera:": "2 MP (macro)",
+    "Third camera:": "",
+    "Specifications:": "Aperture size: F/1.8",
+    "Video recording:": "1080p@30fps"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Pantone: Slipstream, Cattleya Orchid",
+    "Folded:": "",
+    "Weight:": "202 g (7.13 oz)",
+    "Materials:": "Glass front (Gorilla Glass 3), silicone polymer (eco leather) back, plastic frame",
+    "Biometrics:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer",
+    "Dimensions:": "167.2 x 76.4 x 8.5 mm (6.58 x 3.01 x 0.33 in)",
+    "Resistance:": "Water-repellent design"
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "5200 mAh",
+    "Charging:": "30W wired",
+    "Max charge speed:": "Wired: 30W"
+  },
+  "Display": {
+    "Size:": "6.7 inches",
+    "Features:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer",
+    "Resolution:": "720 x 1604 pixels, 20:9 ratio (~262 ppi density)",
+    "Technology:": "IPS LCD",
+    "Refresh rate:": "120Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "1000 cd/m2 (nit)",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 20, 25, 26, 28, 29, 30, 38, 39, 40, 41, 48, 66, 71",
+    "5G bands:": "2, 5, 7, 12, 14, 25, 26, 29, 30, 41, 48, 66, 70, 71, 77, 78 SA/NSA/Sub6",
+    "SIM type:": "Nano-SIM + eSIM"
+  },
+  "Hardware": {
+    "OS:": "Android 16",
+    "GPU:": "Mali-G57 MC2",
+    "RAM:": "4GB",
+    "Processor:": "Mediatek Dimensity 6300 (6 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "128GB (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers (with Dolby Atmos)",
+    "Headphones:": "Yes",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0",
+    "Other:": "NFC",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer",
+    "Features:": "USB Type-C 2.0",
+    "Location:": "GPS, GALILEO, GLONASS",
+    "Bluetooth:": "Yes"
+  }
+}

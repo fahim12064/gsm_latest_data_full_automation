@@ -1,0 +1,84 @@
+{
+  "url": "https://www.gsmarena.com/motorola_moto_g_5g_(2026)-14138.php",
+  "name": "Motorola Moto G (2026)",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g-2026.jpg",
+  "highlights": [
+    "Exp. release 2025, December 11\n202g, 8.5mm thickness\nAndroid 16\n128GB storage, microSDXC",
+    "2.1%\n47,250 HITS",
+    "7\nBECOME A FAN",
+    "6.7\"\n720x1604 pixels",
+    "50MP\n1080p",
+    "4GB RAM\nDimensity 6300",
+    "5200mAh\n30W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 20, 25, 26, 28, 29, 30, 38, 39, 40, 41, 48, 66, 71",
+      "5G bands": "2, 5, 7, 12, 14, 25, 26, 29, 30, 41, 48, 66, 70, 71, 77, 78 SA/NSA/Sub6",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2025, November 05",
+      "Status": "Coming soon. Exp. release 2025, December 11"
+    },
+    "BODY": {
+      "Dimensions": "167.2 x 76.4 x 8.5 mm (6.58 x 3.01 x 0.33 in)",
+      "Weight": "202 g (7.13 oz)",
+      "Build": "Glass front (Gorilla Glass 3), silicone polymer (eco leather) back, plastic frame",
+      "SIM": "Nano-SIM + eSIM",
+      "": "Water-repellent design"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 120Hz, 1000 nits (peak)",
+      "Size": "6.7 inches, 108.2 cm2 (~84.7% screen-to-body ratio)",
+      "Resolution": "720 x 1604 pixels, 20:9 ratio (~262 ppi density)",
+      "Protection": "Corning Gorilla Glass 3"
+    },
+    "PLATFORM": {
+      "OS": "Android 16",
+      "Chipset": "Mediatek Dimensity 6300 (6 nm)",
+      "CPU": "Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+      "GPU": "Mali-G57 MC2"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC (dedicated slot)",
+      "Internal": "128GB 4GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, f/1.8, (wide), 0.61µm, PDAF\n2 MP (macro)",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "32 MP, f/2.2, (wide), 0.64µm",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers (with Dolby Atmos)",
+      "3.5mm jack": "Yes",
+      "": "24-bit/192kHz Hi-Res audio"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+      "Bluetooth": "Yes",
+      "Positioning": "GPS, GALILEO, GLONASS",
+      "NFC": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer"
+    },
+    "BATTERY": {
+      "Type": "5200 mAh",
+      "Charging": "30W wired"
+    },
+    "MISC": {
+      "Colors": "Pantone: Slipstream, Cattleya Orchid",
+      "Price": "About 170 EUR"
+    }
+  }
+}
