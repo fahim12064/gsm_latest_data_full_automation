@@ -1,0 +1,87 @@
+{
+  "url": "https://www.gsmarena.com/huawei_mate_70_air_5g-14283.php",
+  "name": "Huawei Mate 70 Air",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mate-70-air.jpg",
+  "highlights": [
+    "Released 2025, November 06\n208g, 6.6mm thickness\nHarmonyOS 5.1\n256GB/512GB storage, no card slot",
+    "18%\n7,496 HITS",
+    "14\nBECOME A FAN",
+    "7.0\"\n1320x2760 pixels",
+    "50MP\n2160p",
+    "12/16GB RAM\nKirin 9020A",
+    "6500mAh\n66W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "": "CDMA2000 1x",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2025, November 06",
+      "Status": "Available. Released 2025, November 06"
+    },
+    "BODY": {
+      "Dimensions": "165 x 81.5 x 6.6 mm (6.50 x 3.21 x 0.26 in)",
+      "Weight": "208 g (7.34 oz)",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 2m for 30 min)\nStylus support"
+    },
+    "DISPLAY": {
+      "Type": "LTPO OLED, 1B colors, 120Hz, 2160Hz PWM, HDR Vivid, 4000 nits (peak)",
+      "Size": "7.0 inches, 123.0 cm2 (~91.5% screen-to-body ratio)",
+      "Resolution": "1320 x 2760 pixels, 19:9 ratio (~437 ppi density)",
+      "Protection": "Kunlun Glass"
+    },
+    "PLATFORM": {
+      "OS": "HarmonyOS 5.1",
+      "Chipset": "Kirin 9020A - 12GB RAM\nKirin 9020B - 16GB RAM",
+      "CPU": "Octa-core"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 256GB 16GB RAM, 512GB 12GB RAM, 512GB 16GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Triple": "50 MP, f/1.8, 24mm (wide), 1/1.3\", PDAF, OIS\n12 MP, f/2.4, 69mm (telephoto), PDAF, OIS, 3x optical zoom\n8 MP, f/2.2, 16mm (ultrawide)",
+      "Features": "Laser AF, color spectrum sensor, LED flash, panorama, HDR",
+      "Video": "4K, 1080p, HDR, gyro-EIS, OIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "10.7 MP, f/2.2, (wide)",
+      "Features": "HDR, panorama",
+      "Video": "4K, 1080p"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No",
+      "": "High-bitrate audio support"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+      "Bluetooth": "5.2, A2DP, LE, L2HC",
+      "Positioning": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer",
+      "": "BDS Satellite Messaging (Two-way) - China only"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 6500 mAh",
+      "Charging": "66W wired\n5W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Black, White, Silver",
+      "Models": "SUP-AL90",
+      "Price": "About 510 EUR"
+    }
+  }
+}

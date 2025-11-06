@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP, f/1.8, 24mm (wide), 1/1.3\", PDAF, OIS",
+    "Flash:": "Laser AF, color spectrum sensor, LED flash, panorama, HDR",
+    "Front:": "10.7 MP, f/2.2, (wide)",
+    "Folded:": "",
+    "Main camera:": "50 MP, f/1.8, 24mm (wide), 1/1.3\", PDAF, OIS",
+    "Second camera:": "12 MP, f/2.4, 69mm (telephoto), PDAF, OIS, 3x optical zoom",
+    "Third camera:": "8 MP, f/2.2, 16mm (ultrawide)",
+    "Specifications:": "Aperture size: F/1.8 Focal Length: 24mm",
+    "Video recording:": "4K, 1080p, HDR, gyro-EIS, OIS"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Black, White, Silver",
+    "Folded:": "",
+    "Weight:": "208 g (7.34 oz)",
+    "Materials:": "",
+    "Biometrics:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer",
+    "Dimensions:": "165 x 81.5 x 6.6 mm (6.50 x 3.21 x 0.26 in)",
+    "Resistance:": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 2m for 30 min)\nStylus support"
+  },
+  "Battery": {
+    "Type:": "Si/C Li-Ion",
+    "Capacity:": "6500 mAh",
+    "Charging:": "66W wired\n5W reverse wired",
+    "Max charge speed:": "Wired: 66W"
+  },
+  "Display": {
+    "Size:": "7.0 inches",
+    "Features:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer",
+    "Resolution:": "1320 x 2760 pixels, 19:9 ratio (~437 ppi density)",
+    "Technology:": "LTPO OLED",
+    "Refresh rate:": "120Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "4000 cd/m2 (nit)",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "HarmonyOS 5.1",
+    "GPU:": "",
+    "RAM:": "12GB",
+    "Processor:": "Kirin 9020A - 12GB RAM\nKirin 9020B - 16GB RAM",
+    "Device type:": "Smartphone",
+    "Internal storage:": "256GB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0, OTG",
+    "Other:": "NFC, Infrared",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer",
+    "Features:": "USB Type-C 2.0, OTG",
+    "Location:": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC",
+    "Bluetooth:": "5.2, A2DP, LE, L2HC"
+  }
+}

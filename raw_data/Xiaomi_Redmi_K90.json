@@ -1,0 +1,86 @@
+{
+  "url": "https://www.gsmarena.com/xiaomi_redmi_k90_5g-14280.php",
+  "name": "Xiaomi Redmi K90",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-90.jpg",
+  "highlights": [
+    "Released 2025, October 23\n206g, 8mm thickness\nAndroid 16, HyperOS 3\n256GB/512GB/1TB storage, no card slot",
+    "60%\n22,467 HITS",
+    "25\nBECOME A FAN",
+    "6.59\"\n1156x2510 pixels",
+    "50MP\n4320p",
+    "12/16GB RAM\nSnapdragon 8 Elite",
+    "7100mAh\n100W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "1, 3, 4, 5, 7, 8, 19, 28, 34, 38, 39, 40, 41, 42, 48, 66",
+      "5G bands": "1, 3, 5, 7, 8, 28, 66, 38, 40, 41, 48, 77, 78 SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2025, October 23",
+      "Status": "Available. Released 2025, October 23"
+    },
+    "BODY": {
+      "Dimensions": "157.5 x 75.3 x 8 mm (6.20 x 2.96 x 0.31 in)",
+      "Weight": "206 g (7.27 oz)",
+      "Build": "Glass front, aluminum frame",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "LTPO AMOLED, 68B colors, 2560Hz PWM, 120Hz, Dolby Vision, HDR Vivid, HDR10+, 3500 nits (peak)",
+      "Size": "6.59 inches, 106.5 cm2 (~89.8% screen-to-body ratio)",
+      "Resolution": "1156 x 2510 pixels, 19.5:9 ratio (~419 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, HyperOS 3",
+      "Chipset": "Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm)",
+      "CPU": "Octa-core (2x4.32 GHz Oryon V2 Phoenix L + 6x3.53 GHz Oryon V2 Phoenix M)",
+      "GPU": "Adreno 830"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM",
+      "": "UFS"
+    },
+    "MAIN CAMERA": {
+      "Triple": "50 MP, f/1.9, 24mm (wide), 1/1.55\", 1.0µm, PDAF, OIS\n50 MP, f/2.2, 60mm (telephoto), PDAF, 2.5x optical zoom\n8 MP, f/2.2, 15mm, 120˚ (ultrawide)",
+      "Features": "Color spectrum sensor, LED flash, HDR, panorama",
+      "Video": "8K@30fps, 4K@30/60fps, 1080p@30/60/120/240/960fps, gyro-EIS, HDR10+"
+    },
+    "SELFIE CAMERA": {
+      "Single": "20 MP, (wide), 1/2.0\", 0.8µm",
+      "Video": "1080p@30/60fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No",
+      "": "Tuned by Bose\n24-bit/192kHz Hi-Res & Hi-Res wireless audio"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+      "Bluetooth": "5.4, A2DP, LE, LHDC 5.0, ASHA",
+      "Positioning": "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC, GLONASS",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, optical), accelerometer, proximity, gyro, compass"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Po 7100 mAh",
+      "Charging": "100W wired, PD3.0, QC3+, 100W PPS\n22.5W reverse wireless"
+    },
+    "MISC": {
+      "Colors": "Black, White, Blue, Purple",
+      "Models": "2510DRK44C",
+      "Price": "About 350 EUR"
+    }
+  }
+}

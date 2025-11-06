@@ -1,0 +1,73 @@
+{
+  "url": "https://www.gsmarena.com/xiaomi_redmi_watch_6-14281.php",
+  "name": "Xiaomi Redmi Watch 6",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-watch6.jpg",
+  "highlights": [
+    "Released 2025, October 23\n31g, 9.9mm thickness\nHyperOS 3\nNo card slot",
+    "18%\n6,441 HITS",
+    "11\nBECOME A FAN",
+    "2.1\"\n432x514 pixels",
+    "NO",
+    "",
+    "550mAh"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "No cellular connectivity",
+      "2G bands": "N/A",
+      "3G bands": "N/A",
+      "4G bands": "N/A",
+      "Speed": "No",
+      "GPRS": "No",
+      "EDGE": "No"
+    },
+    "LAUNCH": {
+      "Announced": "2025, October 23",
+      "Status": "Available. Released 2025, October 23"
+    },
+    "BODY": {
+      "Dimensions": "46.5 x 40 x 9.9 mm (1.83 x 1.57 x 0.39 in)",
+      "Weight": "31 g (1.09 oz)",
+      "Build": "Plastic back, aluminum frame",
+      "SIM": "eSIM (China only)",
+      "": "Waterproof (5ATM)\n50m water resistant"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 2000 nits (peak)",
+      "Size": "2.1 inches",
+      "Resolution": "432 x 514 pixels (~324 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "HyperOS 3"
+    },
+    "MEMORY": {
+      "Card slot": "No"
+    },
+    "CAMERA": {
+      "": "No"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "No",
+      "Bluetooth": "5.4, A2DP, LE",
+      "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS; dual L1 antennas",
+      "NFC": "NFC (China only)",
+      "Radio": "No",
+      "USB": "No"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer, heart rate, compass, gyro, SpO2"
+    },
+    "BATTERY": {
+      "Type": "550 mAh"
+    },
+    "MISC": {
+      "Colors": "Black, Silver",
+      "Models": "M2523W1",
+      "Price": "About 70 EUR"
+    }
+  }
+}
