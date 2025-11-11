@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "200 MP, f/1.9, (wide), PDAF, OIS",
+    "Flash:": "Color spectrum sensor, LED flash, HDR, panorama",
+    "Front:": "50 MP, f/2.0, 21mm (wide), AF",
+    "Folded:": "",
+    "Main camera:": "200 MP, f/1.9, (wide), PDAF, OIS",
+    "Second camera:": "50 MP, f/2.8, 80mm (telephoto), PDAF, OIS, 3.5x optical zoom",
+    "Third camera:": "50 MP, f/2.0, 16mm, 116˚ (ultrawide), AF",
+    "Specifications:": "Aperture size: F/1.9",
+    "Video recording:": "4K@30/60fps, 1080p@30/60/120/240fps, gyro-EIS, HDR"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Blue, Brown, White",
+    "Folded:": "",
+    "Weight:": "-",
+    "Materials:": "Glass front, aluminum alloy frame, glass back",
+    "Biometrics:": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+    "Dimensions:": "-",
+    "Resistance:": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 2m for 30 min)"
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "6200 mAh",
+    "Charging:": "80W wired, 13.5W PD, 33W PPS\nReverse wired",
+    "Max charge speed:": "Wired: 80W"
+  },
+  "Display": {
+    "Size:": "6.32 inches",
+    "Features:": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+    "Resolution:": "1216 x 2640 pixels, 19.5:9 ratio (~460 ppi density)",
+    "Technology:": "LTPO AMOLED",
+    "Refresh rate:": "120Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / CDMA / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 - International",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA",
+    "SIM type:": "· Nano-SIM + Nano-SIM + eSIM (max 2 at a time)\n· Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 16, ColorOS 16",
+    "GPU:": "Mali-G720 MC7",
+    "RAM:": "12GB",
+    "Processor:": "Mediatek Dimensity 8450 (4 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "256GB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0, OTG",
+    "Other:": "NFC, Infrared",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band",
+    "Sensors:": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+    "Features:": "USB Type-C 2.0, OTG",
+    "Location:": "GPS, GLONASS, GALILEO, BDS, QZSS",
+    "Bluetooth:": "5.4, A2DP, LE, aptX HD, LHDC 5"
+  }
+}
