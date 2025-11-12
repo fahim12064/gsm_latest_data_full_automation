@@ -1,0 +1,86 @@
+{
+  "url": "https://www.gsmarena.com/zte_blade_a76-14290.php",
+  "name": "ZTE Blade A76 4G",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-a76-4g.jpg",
+  "highlights": [
+    "Released 2025, October\n8.6mm thickness\nAndroid 15\n64GB/128GB storage, no card slot",
+    "17%\n5,558 HITS",
+    "3\nBECOME A FAN",
+    "6.75\"\n720x1612 pixels",
+    "50MP\n1080p",
+    "4GB RAM",
+    "5000mAh\n23W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+      "4G bands": "LTE",
+      "Speed": "HSPA, LTE"
+    },
+    "LAUNCH": {
+      "Announced": "2025, October",
+      "Status": "Available. Released 2025, October"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP54 dust protected and water resistant (water splashes)"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 90Hz",
+      "Size": "6.75 inches, 109.5 cm2 (~89.3% screen-to-body ratio)",
+      "Resolution": "720 x 1612 pixels, 20:9 ratio (~262 ppi density)",
+      "Protection": "Mohs level 4"
+    },
+    "PLATFORM": {
+      "OS": "Android 15",
+      "CPU": "Octa-core 1.8 GHz"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "64GB 4GB RAM, 128GB 4GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, (wide), AF\nAuxiliary lens",
+      "Features": "LED flash, HDR",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "Yes",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "Yes"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+      "Bluetooth": "Yes",
+      "Positioning": "GPS",
+      "NFC": "Unspecified",
+      "Radio": "Unspecified",
+      "USB": "USB Type-C 2.0"
+    },
+    "FEATURES": {
+      "Sensors": "Yes"
+    },
+    "BATTERY": {
+      "Type": "5000 mAh",
+      "Charging": "22.5W wired"
+    },
+    "MISC": {
+      "Colors": "Silver, Gold, Violet",
+      "Models": "Z2474",
+      "Price": "€ 93.19"
+    },
+    "EU LABEL": {
+      "Energy": "Class A",
+      "Battery": "54:20h endurance, 800 cycles",
+      "Free fall": "Class C (90 falls)",
+      "Repairability": "Class B"
+    }
+  }
+}
