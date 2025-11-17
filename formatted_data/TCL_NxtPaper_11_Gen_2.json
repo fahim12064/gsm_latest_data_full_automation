@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "8 MP, f/2.0, (wide), 1/4.0\", 1.12µm, AF",
+    "Flash:": "LED flash",
+    "Front:": "5 MP",
+    "Folded:": "",
+    "Main camera:": "8 MP, f/2.0, (wide), 1/4.0\", 1.12µm, AF",
+    "Second camera:": "",
+    "Third camera:": "",
+    "Specifications:": "Aperture size: F/2.0",
+    "Video recording:": "1080p@30fps"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Gray",
+    "Folded:": "",
+    "Weight:": "500 g (1.10 lb)",
+    "Materials:": "Glass front, aluminum frame, aluminum back",
+    "Biometrics:": "Accelerometer, proximity (accessories only)",
+    "Dimensions:": "253.6 x 165.4 x 7.3 mm (9.98 x 6.51 x 0.29 in)",
+    "Resistance:": "Stylus support\nIP54 dust protected and water resistant (water splashes)"
+  },
+  "Battery": {
+    "Type:": "Li-Po",
+    "Capacity:": "8000 mAh",
+    "Charging:": "18W wired",
+    "Max charge speed:": "Wired: 18W"
+  },
+  "Display": {
+    "Size:": "10.95 inches",
+    "Features:": "Accelerometer, proximity (accessories only)",
+    "Resolution:": "1200 x 1920 pixels, 16:10 ratio (~207 ppi density)",
+    "Technology:": "NCVM IPS",
+    "Refresh rate:": "",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "No cellular connectivity",
+    "2G bands:": "N/A",
+    "3G bands:": "N/A",
+    "4G bands:": "N/A",
+    "5G bands:": "",
+    "SIM type:": "No"
+  },
+  "Hardware": {
+    "OS:": "Android 15",
+    "GPU:": "Mali-G52 MC2",
+    "RAM:": "6GB",
+    "Processor:": "Mediatek Helio G80 (12 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "64GB (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0",
+    "Other:": "NFC",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+    "Sensors:": "Accelerometer, proximity (accessories only)",
+    "Features:": "USB Type-C 2.0",
+    "Location:": "No",
+    "Bluetooth:": "5.0, A2DP, LE"
+  }
+}

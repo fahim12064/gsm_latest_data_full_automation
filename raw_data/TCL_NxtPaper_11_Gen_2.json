@@ -1,0 +1,82 @@
+{
+  "url": "https://www.gsmarena.com/tcl_nxtpaper_11_gen_2-14295.php",
+  "name": "TCL NxtPaper 11 Gen 2",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/tcl-nxtpaper-11-gen2.jpg",
+  "highlights": [
+    "Released 2025, September\n500g, 7.3mm thickness\nAndroid 15\n64GB/128GB storage, microSDXC",
+    "3.9%\n1,945 HITS",
+    "3\nBECOME A FAN",
+    "10.95\"\n1200x1920 pixels",
+    "8MP\n1080p",
+    "6/8GB RAM\nHelio G80",
+    "8000mAh\n18W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "No cellular connectivity",
+      "2G bands": "N/A",
+      "3G bands": "N/A",
+      "4G bands": "N/A",
+      "GPRS": "No",
+      "EDGE": "No"
+    },
+    "LAUNCH": {
+      "Announced": "2025, September 04",
+      "Status": "Available. Released 2025, September"
+    },
+    "BODY": {
+      "Dimensions": "253.6 x 165.4 x 7.3 mm (9.98 x 6.51 x 0.29 in)",
+      "Weight": "500 g (1.10 lb)",
+      "Build": "Glass front, aluminum frame, aluminum back",
+      "SIM": "No",
+      "": "Stylus support\nIP54 dust protected and water resistant (water splashes)"
+    },
+    "DISPLAY": {
+      "Type": "NCVM IPS, 500 nits (HBM)",
+      "Size": "10.95 inches, 347.7 cm2 (~82.9% screen-to-body ratio)",
+      "Resolution": "1200 x 1920 pixels, 16:10 ratio (~207 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 15",
+      "Chipset": "Mediatek Helio G80 (12 nm)",
+      "CPU": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+      "GPU": "Mali-G52 MC2"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC (dedicated slot)",
+      "Internal": "64GB 6GB RAM, 128GB 8GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Single": "8 MP, f/2.0, (wide), 1/4.0\", 1.12µm, AF",
+      "Features": "LED flash",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "5 MP",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+      "Bluetooth": "5.0, A2DP, LE",
+      "Positioning": "No",
+      "NFC": "No",
+      "Radio": "Unspecified",
+      "USB": "USB Type-C 2.0"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer, proximity (accessories only)"
+    },
+    "BATTERY": {
+      "Type": "Li-Po 8000 mAh",
+      "Charging": "18W wired"
+    },
+    "MISC": {
+      "Colors": "Gray",
+      "Price": "$ 199.99"
+    }
+  }
+}
