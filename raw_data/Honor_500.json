@@ -1,0 +1,84 @@
+{
+  "url": "https://www.gsmarena.com/honor_500_5g-14296.php",
+  "name": "Honor 500",
+  "image": "https://st2.gsmarena.com/vv/bigpic/honor-500.jpg",
+  "highlights": [
+    "Expected announcement 2025, November\n7.8mm thickness\nAndroid 16, MagicOS 10\n256GB/512GB storage, no card slot",
+    "12%\n5,948 HITS",
+    "6\nBECOME A FAN",
+    "6.55\"\n1264x2736 pixels",
+    "200MP\n2160p",
+    "12/16GB RAM\nSnapdragon 8s Gen 4",
+    "8000mAh\n80W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Expected announcement 2025, November",
+      "Status": "Rumored. Exp. release 2025, November"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "Build": "Glass front, aluminum frame",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 1B colors, 120Hz, 3840Hz PWM, HDR Vivid, 5000 nits (peak)",
+      "Size": "6.55 inches, 105.4 cm2 (~90.3% screen-to-body ratio)",
+      "Resolution": "1264 x 2736 pixels, 19.5:9 ratio (~460 ppi density)",
+      "Protection": "Aluminosilicate glass"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, MagicOS 10",
+      "Chipset": "Qualcomm SM8735 Snapdragon 8s Gen 4 (4 nm)",
+      "CPU": "Octa-core (1x3.21 GHz Cortex-X4 & 3x3.0 GHz Cortex-A720 & 2x2.8 GHz Cortex-A720 & 2x2.0 GHz Cortex-A720)",
+      "GPU": "Adreno 825"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 512GB 16GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Dual": "200 MP, f/1.9, (wide), 1/1.4\", 0.56µm, PDAF, OIS\n12 MP, f/2.2, 117˚ (ultrawide), AF",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "4K, 1080p, gyro-EIS, OIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "50 MP, f/2.0, (wide)",
+      "Features": "HDR",
+      "Video": "4K, 1080p, gyro-EIS"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+      "Bluetooth": "5.4, A2DP, LE, aptX HD, aptX Adaptive",
+      "Positioning": "GPS (L1+L5), BDS (B1I+B1C+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC (L5), GLONASS",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 8000 mAh",
+      "Charging": "80W wired\n5W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Black, Silver, Blue, Pink"
+    }
+  }
+}
