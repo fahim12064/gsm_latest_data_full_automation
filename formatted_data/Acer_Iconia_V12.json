@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "8 MP, AF",
+    "Flash:": "LED flash",
+    "Front:": "5 MP",
+    "Folded:": "",
+    "Main camera:": "8 MP, AF",
+    "Second camera:": "",
+    "Third camera:": "",
+    "Specifications:": "",
+    "Video recording:": "1080p@30fps"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Green",
+    "Folded:": "",
+    "Weight:": "595 g (1.31 lb)",
+    "Materials:": "Glass front, aluminum alloy frame",
+    "Biometrics:": "Unspecified",
+    "Dimensions:": "7.9 mm thickness",
+    "Resistance:": "Stylus support\nBuilt-in three-level kickstand"
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "8000 mAh",
+    "Charging:": "",
+    "Max charge speed:": ""
+  },
+  "Display": {
+    "Size:": "11.97 inches",
+    "Features:": "Unspecified",
+    "Resolution:": "1200 x 2000 pixels, 5:3 ratio (~195 ppi density)",
+    "Technology:": "IPS LCD",
+    "Refresh rate:": "90Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "No cellular connectivity",
+    "2G bands:": "N/A",
+    "3G bands:": "N/A",
+    "4G bands:": "N/A",
+    "5G bands:": "",
+    "SIM type:": "No"
+  },
+  "Hardware": {
+    "OS:": "Android 15",
+    "GPU:": "Mali-G57 MC2",
+    "RAM:": "8GB",
+    "Processor:": "Mediatek Helio G99 (6 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "256GB (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers",
+    "Headphones:": "Yes",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0",
+    "Other:": "NFC",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+    "Sensors:": "Unspecified",
+    "Features:": "USB Type-C 2.0",
+    "Location:": "Unspecified",
+    "Bluetooth:": "5.2, A2DP, LE"
+  }
+}

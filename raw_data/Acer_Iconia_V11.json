@@ -1,0 +1,82 @@
+{
+  "url": "https://www.gsmarena.com/acer_iconia_v11-14297.php",
+  "name": "Acer Iconia V11",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/acer-iconia-v11-.jpg",
+  "highlights": [
+    "Released 2025, August\n500 g\nAndroid 15\n256GB storage, microSDXC",
+    "6.0%\n3,040 HITS",
+    "3\nBECOME A FAN",
+    "10.92\"\n1200x1920 pixels",
+    "8MP\n1080p",
+    "8GB RAM\nHelio G99",
+    "8000mAh"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900 - cellular model only",
+      "3G bands": "HSDPA 900 / 2100 - cellular model only",
+      "4G bands": "LTE - cellular model only",
+      "Speed": "HSPA, LTE - cellular model only"
+    },
+    "LAUNCH": {
+      "Announced": "2025, May 16",
+      "Status": "Available. Released 2025, August"
+    },
+    "BODY": {
+      "Dimensions": "7.9 mm thickness",
+      "Weight": "500 g (1.10 lb)",
+      "Build": "Glass front, aluminum alloy frame",
+      "SIM": "Nano-SIM",
+      "": "Stylus support\nBuilt-in three-level kickstand"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 90Hz",
+      "Size": "10.92 inches, 345.8 cm2",
+      "Resolution": "1200 x 1920 pixels, 16:10 ratio (~207 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 15",
+      "Chipset": "Mediatek Helio G99 (6 nm)",
+      "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+      "GPU": "Mali-G57 MC2"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC (dedicated slot)",
+      "Internal": "256GB 8GB RAM",
+      "": "eMMC"
+    },
+    "MAIN CAMERA": {
+      "Single": "8 MP, AF",
+      "Features": "LED flash",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "5 MP",
+      "Video": "Yes"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "Yes"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+      "Bluetooth": "5.2, A2DP, LE",
+      "Positioning": "Unspecified",
+      "NFC": "No",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0"
+    },
+    "FEATURES": {
+      "Sensors": "Unspecified"
+    },
+    "BATTERY": {
+      "Type": "8000 mAh"
+    },
+    "MISC": {
+      "Colors": "Gold",
+      "Models": "V11-21M, V11-22M",
+      "Price": "About 230 EUR"
+    }
+  }
+}

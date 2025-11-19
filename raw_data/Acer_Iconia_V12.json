@@ -1,0 +1,83 @@
+{
+  "url": "https://www.gsmarena.com/acer_iconia_v12-14298.php",
+  "name": "Acer Iconia V12",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/acer-Iconia-v12-.jpg",
+  "highlights": [
+    "Released 2025, July\n595 g\nAndroid 15\n256GB storage, microSDXC",
+    "7.8%\n3,934 HITS",
+    "2\nBECOME A FAN",
+    "11.97\"\n1200x2000 pixels",
+    "8MP\n1080p",
+    "8GB RAM\nHelio G99",
+    "8000mAh"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "No cellular connectivity",
+      "2G bands": "N/A",
+      "3G bands": "N/A",
+      "4G bands": "N/A",
+      "GPRS": "No",
+      "EDGE": "No"
+    },
+    "LAUNCH": {
+      "Announced": "2025, May 16",
+      "Status": "Available. Released 2025, July"
+    },
+    "BODY": {
+      "Dimensions": "7.9 mm thickness",
+      "Weight": "595 g (1.31 lb)",
+      "Build": "Glass front, aluminum alloy frame",
+      "SIM": "No",
+      "": "Stylus support\nBuilt-in three-level kickstand"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 90Hz",
+      "Size": "11.97 inches, 407.8 cm2",
+      "Resolution": "1200 x 2000 pixels, 5:3 ratio (~195 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 15",
+      "Chipset": "Mediatek Helio G99 (6 nm)",
+      "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+      "GPU": "Mali-G57 MC2"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC (dedicated slot)",
+      "Internal": "256GB 8GB RAM",
+      "": "eMMC"
+    },
+    "MAIN CAMERA": {
+      "Single": "8 MP, AF",
+      "Features": "LED flash",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "5 MP",
+      "Video": "Yes"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "Yes"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+      "Bluetooth": "5.2, A2DP, LE",
+      "Positioning": "Unspecified",
+      "NFC": "No",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0"
+    },
+    "FEATURES": {
+      "Sensors": "Unspecified"
+    },
+    "BATTERY": {
+      "Type": "8000 mAh"
+    },
+    "MISC": {
+      "Colors": "Green",
+      "Models": "V12-11M",
+      "Price": "About 290 EUR"
+    }
+  }
+}
