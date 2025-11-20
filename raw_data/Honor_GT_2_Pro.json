@@ -1,0 +1,86 @@
+{
+  "url": "https://www.gsmarena.com/honor_gt_2_pro_5g-14302.php",
+  "name": "Honor GT 2 Pro",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-gt-pro.jpg",
+  "highlights": [
+    "Not announced yet\n\nAndroid 16, MagicOS 10\n256GB/512GB/1TB storage, no card slot",
+    "3.7%\n3,250 HITS",
+    "8\nBECOME A FAN",
+    "6.83\"\n1224x2800 pixels",
+    "50MP\n2160p",
+    "12/16GB RAM\nSnapdragon 8 Elite Gen 5",
+    "8500mAh\n90W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "Build": "Glass front (Giant rhino glass), aluminum frame, fiber-reinforced plastic back",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "LTPO AMOLED, 1B colors, 144Hz, 4320Hz PWM, HDR Vivid, 1600 nits (HBM), 6000 nits (peak)",
+      "Size": "6.83 inches, 110.5 cm2",
+      "Resolution": "1224 x 2800 pixels (~447 ppi density)",
+      "Protection": "Giant rhino glass",
+      "": "Ultra HDR image support"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, MagicOS 10",
+      "Chipset": "Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm)",
+      "CPU": "Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M)",
+      "GPU": "Adreno 840"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM",
+      "": "UFS 4.1"
+    },
+    "MAIN CAMERA": {
+      "Triple": "50 MP, f/2.0, (wide), 1/1.56\", 1.0µm, PDAF, OIS\n50 MP, f/2.4, (telephoto), 1/2.0\", 0.8µm, PDAF, OIS, 3x optical zoom\n50 MP, f/2.0, 122˚ (ultrawide), AF",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "4K@24/30/60fps, 1080p@30/60/120/240fps, gyro-EIS, OIS, HDR Vivid"
+    },
+    "SELFIE CAMERA": {
+      "Single": "50 MP, f/2.0, 22mm (wide)",
+      "Features": "HDR",
+      "Video": "4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+      "Bluetooth": "5.4, A2DP, LE, aptX HD, aptX Adaptive",
+      "Positioning": "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E5a+E5b), QZSS (L1+L5), NavIC (L1+L5), GLONASS",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, proximity, gyro, compass"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 8500 mAh",
+      "Charging": "90W wired\n5W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Black, White, Gold"
+    }
+  }
+}
