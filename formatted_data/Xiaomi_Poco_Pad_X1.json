@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "13 MP, f/2.2, (wide), 1/3.06\", 1.12µm, PDAF",
+    "Flash:": "LED flash, HDR, panorama",
+    "Front:": "8 MP, f/2.3, (wide), 1/4.0\", 1.12µm",
+    "Folded:": "",
+    "Main camera:": "13 MP, f/2.2, (wide), 1/3.06\", 1.12µm, PDAF",
+    "Second camera:": "",
+    "Third camera:": "",
+    "Specifications:": "Aperture size: F/2.2",
+    "Video recording:": "4K@30fps, 1080p@30/60fps"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Black, Blue, Green",
+    "Folded:": "",
+    "Weight:": "500 g (1.10 lb)",
+    "Materials:": "Glass front, aluminum frame, aluminum back",
+    "Biometrics:": "Accelerometer, gyro, proximity, compass",
+    "Dimensions:": "251.2 x 173.4 x 6.2 mm (9.89 x 6.83 x 0.24 in)",
+    "Resistance:": "Stylus support (magnetic)"
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "8850 mAh",
+    "Charging:": "45W wired, PD3.0, QC3+, 100% in 1h 20 min",
+    "Max charge speed:": "Wired: 45W"
+  },
+  "Display": {
+    "Size:": "11.2 inches",
+    "Features:": "Accelerometer, gyro, proximity, compass",
+    "Resolution:": "2136 x 3200 pixels, 3:2 ratio (~344 ppi density)",
+    "Technology:": "IPS LCD",
+    "Refresh rate:": "144Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "No cellular connectivity",
+    "2G bands:": "N/A",
+    "3G bands:": "N/A",
+    "4G bands:": "",
+    "5G bands:": "",
+    "SIM type:": "No"
+  },
+  "Hardware": {
+    "OS:": "Android 15, up to 4 major Android upgrades, HyperOS 2",
+    "GPU:": "Adreno 732",
+    "RAM:": "8GB",
+    "Processor:": "Qualcomm SM7675-AB Snapdragon 7+ Gen 3 (4 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "128GB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers (4 speakers)",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 3.2, accessory connector",
+    "Other:": "NFC, Infrared",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, Wi-Fi Direct",
+    "Sensors:": "Accelerometer, gyro, proximity, compass",
+    "Features:": "USB Type-C 3.2, accessory connector",
+    "Location:": "No",
+    "Bluetooth:": "5.4, LHDC 5"
+  }
+}

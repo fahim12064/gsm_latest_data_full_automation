@@ -1,0 +1,85 @@
+{
+  "url": "https://www.gsmarena.com/xiaomi_poco_pad_x1-14306.php",
+  "name": "Xiaomi Poco Pad X1",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-pad-7-pro.jpg",
+  "highlights": [
+    "Not announced yet\n500g, 6.2mm thickness\nAndroid 15, up to 4 major upgrades, HyperOS 2\n128GB/256GB storage, no card slot",
+    "0.2%\n112 HITS",
+    "0\nBECOME A FAN",
+    "11.2\"\n2136x3200 pixels",
+    "13MP\n2160p",
+    "8/12GB RAM\nSnapdragon 7+ Gen 3",
+    "8850mAh\n45W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "No cellular connectivity",
+      "2G bands": "N/A",
+      "3G bands": "N/A",
+      "GPRS": "N/A",
+      "EDGE": "N/A"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "251.2 x 173.4 x 6.2 mm (9.89 x 6.83 x 0.24 in)",
+      "Weight": "500 g (1.10 lb)",
+      "Build": "Glass front, aluminum frame, aluminum back",
+      "SIM": "No",
+      "": "Stylus support (magnetic)"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 68B colors, 144Hz, HDR10, Dolby Vision, 800 nits",
+      "Size": "11.2 inches, 373.7 cm2 (~85.8% screen-to-body ratio)",
+      "Resolution": "2136 x 3200 pixels, 3:2 ratio (~344 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 15, up to 4 major Android upgrades, HyperOS 2",
+      "Chipset": "Qualcomm SM7675-AB Snapdragon 7+ Gen 3 (4 nm)",
+      "CPU": "Octa-core (1x2.8 GHz Cortex-X4 & 4x2.6 GHz Cortex-A720 & 3x1.9 GHz Cortex-A520)",
+      "GPU": "Adreno 732"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM",
+      "": "UFS 3.1 - 128GB only\nUFS 4.0"
+    },
+    "MAIN CAMERA": {
+      "Single": "13 MP, f/2.2, (wide), 1/3.06\", 1.12µm, PDAF",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "4K@30fps, 1080p@30/60fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "8 MP, f/2.3, (wide), 1/4.0\", 1.12µm",
+      "Features": "HDR",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers (4 speakers)",
+      "3.5mm jack": "No",
+      "": "24-bit/192kHz Hi-Res & Hi-Res Wireless audio"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, Wi-Fi Direct",
+      "Bluetooth": "5.4, LHDC 5",
+      "Positioning": "No",
+      "NFC": "No",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 3.2, accessory connector"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "8850 mAh",
+      "Charging": "45W wired, PD3.0, QC3+, 100% in 1h 20 min"
+    },
+    "MISC": {
+      "Colors": "Black, Blue, Green",
+      "SAR EU": "0.99 W/kg (body)"
+    }
+  }
+}
