@@ -1,0 +1,87 @@
+{
+  "url": "https://www.gsmarena.com/huawei_mate_80_rs_ultimate_5g-14313.php",
+  "name": "Huawei Mate 80 RS Ultimate",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mate-80-rs-ultimate.jpg",
+  "highlights": [
+    "Exp. release 2025, November 26\n249g, 8.3mm thickness\nHarmonyOS 6.0\n512GB/1TB storage, no card slot",
+    "3.8%\n4,170 HITS",
+    "13\nBECOME A FAN",
+    "6.9\"\n1320x2848 pixels",
+    "50MP\n2160p",
+    "20GB RAM\nKirin 9030 Pro",
+    "6000mAh\n100W80W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "": "CDMA2000 1x",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2025, November 25",
+      "Status": "Coming soon. Exp. release 2025, November 26"
+    },
+    "BODY": {
+      "Dimensions": "164.4 x 79 x 8.3 mm (6.47 x 3.11 x 0.33 in)",
+      "Weight": "249 g (8.78 oz)",
+      "Build": "Glass front, titanium alloy frame",
+      "SIM": "Nano-SIM + Nano-SIM + eSIM (max 2 at a time)",
+      "": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 6m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "Dual-layer LTPO OLED, 1B colors, 120Hz, 1440Hz PWM, BT.2020, HDR Vivid, 8000 nits (peak)",
+      "Size": "6.9 inches, 117.2 cm2 (~90.2% screen-to-body ratio)",
+      "Resolution": "1320 x 2848 pixels, 19.5:9 ratio (~455 ppi density)",
+      "Protection": "Huawei Kunlun Glass 3 (basalt tempered)"
+    },
+    "PLATFORM": {
+      "OS": "HarmonyOS 6.0",
+      "Chipset": "Kirin 9030 Pro"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "512GB 20GB RAM, 1TB 20GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Quad": "50 MP, f/1.4-f/4.0, 24mm (wide), PDAF, OIS\n50 MP, f/2.1, 91mm (periscope telephoto), PDAF, OIS, 4x optical zoom\n50 MP, f/3.2, 140mm (periscope telephoto), PDAF, OIS, 6.2x optical zoom\n40 MP, f/2.2, 13mm, 120˚ (ultrawide), PDAF",
+      "Features": "Laser AF, color spectrum sensor, LED flash, panorama, HDR",
+      "Video": "4K, 1080p, 1080p@240fps, HDR, gyro-EIS, OIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "13 MP, f/2.0, 18mm (ultrawide), AF\nTOF 3D, (depth/biometrics sensor)",
+      "Features": "HDR, panorama",
+      "Video": "4K, 1080p"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No",
+      "": "High-definition audio\nHigh & low frequency separate speakers"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+      "Bluetooth": "6.0, A2DP, LE, L2HC",
+      "Positioning": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 3.1, OTG, DisplayPort 1.2"
+    },
+    "FEATURES": {
+      "Sensors": "Face ID, fingerprint (side-mounted), accelerometer, gyro, proximity, barometer, compass",
+      "": "BDS Satellite Calling and Messaging - China only\nUltra Wideband (UWB) support"
+    },
+    "BATTERY": {
+      "Type": "6000 mAh",
+      "Charging": "100W wired\n80W wireless\n20W reverse wireless\n18W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Black, White, Violet",
+      "Models": "SGU-AL10",
+      "Price": "About 1470 EUR"
+    }
+  }
+}

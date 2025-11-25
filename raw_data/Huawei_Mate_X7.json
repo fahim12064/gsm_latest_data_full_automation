@@ -1,0 +1,87 @@
+{
+  "url": "https://www.gsmarena.com/huawei_mate_x7_5g-14314.php",
+  "name": "Huawei Mate X7",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mate-x7.jpg",
+  "highlights": [
+    "Exp. release 2025, November 26\n235g, 4.5mm thickness\nHarmonyOS 6.0\n256GB/512GB/1TB storage, no card slot",
+    "1.8%\n1,807 HITS",
+    "5\nBECOME A FAN",
+    "8.0\"\n2210x2416 pixels",
+    "50MP\n2160p",
+    "12-20GB RAM\nKirin 9030 Pro",
+    "5525mAh\n66W50W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "": "CDMA2000 1xEV-DO",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2025, November 25",
+      "Status": "Coming soon. Exp. release 2025, November 26"
+    },
+    "BODY": {
+      "Dimensions": "Unfolded: 156.8 x 144.2 x 4.5 mm\nFolded: 156.8 x 73.8 x 9.5 mm",
+      "Weight": "235 g (8.29 oz)",
+      "Build": "Glass front, nylon fiber or silicone polymer back (eco leather), aluminum frame",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP58/IP59 dust protected and water resistant (high pressure water jets; immersible up to 2m for 30 min)\nAerospace-grade aluminum"
+    },
+    "DISPLAY": {
+      "Type": "Foldable LTPO OLED, 1B colors, 120Hz, 1440Hz PWM, HDR Vivid, 2500 nits (peak)",
+      "Size": "8.0 inches, 205.6 cm2 (~90.9% screen-to-body ratio)",
+      "Resolution": "2210 x 2416 pixels (~409 ppi density)",
+      "": "Cover display:\nLTPO OLED, 120Hz, 1440Hz PWM, HDR, 3000 nits (peak), 6.49 inches, 1080 x 2444 pixels, Kunlun Glass 2"
+    },
+    "PLATFORM": {
+      "OS": "HarmonyOS 6.0",
+      "Chipset": "Kirin 9030 Pro"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM, 1TB 20GB RAM",
+      "": "UFS"
+    },
+    "MAIN CAMERA": {
+      "Triple": "50 MP, f/1.4-f/4.0, 24mm (wide), PDAF, OIS*\n50 MP, f/2.2, 81mm (periscope telephoto), PDAF, OIS, 3.5x optical zoom\n40 MP, f/2.2, 13mm, 120˚ (ultrawide), PDAF\n*1/1.28\" sensor size for 256GB / 512GB 12GB RAM models\n1/1.56\" sensor size for 512GB/1TB 16/20GB RAM models",
+      "Features": "Laser AF, color spectrum sensor, LED flash, panorama, HDR",
+      "Video": "4K, 1080p, 1080p@960fps, HDR, gyro-EIS, OIS, HDR Vivid"
+    },
+    "SELFIE CAMERA": {
+      "Single": "8 MP, f/2.2, (wide)\nCover camera:\n8 MP, f/2.4, (wide)",
+      "Features": "HDR, panorama",
+      "Video": "4K, 1080p"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+      "Bluetooth": "6.0, A2DP, LE, L2HC",
+      "Positioning": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 3.1, OTG, DisplayPort 1.2"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer",
+      "": "BDS Satellite and Messaging - China only"
+    },
+    "BATTERY": {
+      "Type": "5525 mAh",
+      "Charging": "66W wired\n50W wireless\n7.5W reverse wireless\n5W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Black, White, Purple, Blue, Red",
+      "Models": "DEL-AL10",
+      "Price": "About 1590 EUR"
+    }
+  }
+}

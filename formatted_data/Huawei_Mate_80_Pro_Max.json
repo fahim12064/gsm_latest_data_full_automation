@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP, f/1.4-f/4.0, 24mm (wide), PDAF, OIS",
+    "Flash:": "Laser AF, color spectrum sensor, LED flash, panorama, HDR",
+    "Front:": "13 MP, f/2.0, 18mm (ultrawide), AF\nTOF 3D, (depth/biometrics sensor)",
+    "Folded:": "",
+    "Main camera:": "50 MP, f/1.4-f/4.0, 24mm (wide), PDAF, OIS",
+    "Second camera:": "50 MP, f/2.1, 91mm (periscope telephoto), PDAF, OIS, 4x optical zoom",
+    "Third camera:": "50 MP, f/3.2, 140mm (periscope telephoto), PDAF, OIS, 6.2x optical zoom",
+    "Specifications:": "Aperture size: F/1.4 Focal Length: 24mm",
+    "Video recording:": "4K, 1080p@960fps, HDR, gyro-EIS, OIS"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Black, Silver, Blue, Gold",
+    "Folded:": "",
+    "Weight:": "239 g (8.43 oz)",
+    "Materials:": "Glass front, aluminum alloy frame, aluminum alloy back",
+    "Biometrics:": "Face ID, fingerprint (side-mounted), accelerometer, gyro, proximity, barometer, compass",
+    "Dimensions:": "164.4 x 79 x 8.3 mm (6.47 x 3.11 x 0.33 in)",
+    "Resistance:": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 6m for 30 min)"
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "6000 mAh",
+    "Charging:": "100W wired\n80W wireless\n20W reverse wireless\n18W reverse wired",
+    "Max charge speed:": "Wired: 100WWireless: 80W"
+  },
+  "Display": {
+    "Size:": "6.9 inches",
+    "Features:": "Face ID, fingerprint (side-mounted), accelerometer, gyro, proximity, barometer, compass",
+    "Resolution:": "1320 x 2848 pixels, 19.5:9 ratio (~455 ppi density)",
+    "Technology:": "LTPO OLED",
+    "Refresh rate:": "120Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "8000 cd/m2 (nit)",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "HarmonyOS 6.0",
+    "GPU:": "",
+    "RAM:": "16GB",
+    "Processor:": "Kirin 9030 Pro",
+    "Device type:": "Smartphone",
+    "Internal storage:": "512GB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 3.1, OTG, DisplayPort 1.2",
+    "Other:": "NFC, Infrared",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+    "Sensors:": "Face ID, fingerprint (side-mounted), accelerometer, gyro, proximity, barometer, compass",
+    "Features:": "USB Type-C 3.1, OTG, DisplayPort 1.2",
+    "Location:": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC",
+    "Bluetooth:": "6.0, A2DP, LE, L2HC"
+  }
+}

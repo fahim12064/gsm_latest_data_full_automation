@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP, f/1.8, 24mm (wide), PDAF, OIS",
+    "Flash:": "Color spectrum sensor, LED flash, HDR, panorama",
+    "Front:": "32 MP, f/2.4, (wide)",
+    "Folded:": "",
+    "Main camera:": "50 MP, f/1.8, 24mm (wide), PDAF, OIS",
+    "Second camera:": "8 MP, f/2.2, 16mm, 112˚ (ultrawide), 1/4.0\", 1.12µm",
+    "Third camera:": "",
+    "Specifications:": "Aperture size: F/1.8 Focal Length: 24mm",
+    "Video recording:": "4K@30/60/120fps, 1080p@30/60/120fps, gyro-EIS, OIS"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Black, Purple, Green",
+    "Folded:": "",
+    "Weight:": "-",
+    "Materials:": "Glass front (Crystal Shield Glass), aluminum alloy frame, glass back or fiber-reinforced plastic back",
+    "Biometrics:": "Fingerprint (under display), accelerometer, gyro, proximity, compass",
+    "Dimensions:": "-",
+    "Resistance:": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\nMicro-Arc Oxidation ceramic-like coating on the back"
+  },
+  "Battery": {
+    "Type:": "Si/C Li-Ion",
+    "Capacity:": "8000 mAh",
+    "Charging:": "100W wired\nBypass charging",
+    "Max charge speed:": "Wired: 100W"
+  },
+  "Display": {
+    "Size:": "6.7 inches",
+    "Features:": "Fingerprint (under display), accelerometer, gyro, proximity, compass",
+    "Resolution:": "1272 x 2800 pixels (~459 ppi density)",
+    "Technology:": "LTPO AMOLED",
+    "Refresh rate:": "165Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 800 / 850 / 900 / 1700(AWS) / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 16, ColorOS 16",
+    "GPU:": "Adreno",
+    "RAM:": "16GB",
+    "Processor:": "Qualcomm Snapdragon 8 Gen 5",
+    "Device type:": "Smartphone",
+    "Internal storage:": "1TB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0",
+    "Other:": "NFC, Infrared",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band",
+    "Sensors:": "Fingerprint (under display), accelerometer, gyro, proximity, compass",
+    "Features:": "USB Type-C 2.0",
+    "Location:": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5)",
+    "Bluetooth:": "5.4, A2DP, LE, aptX HD, aptX Adaptive, LHDC 5"
+  }
+}

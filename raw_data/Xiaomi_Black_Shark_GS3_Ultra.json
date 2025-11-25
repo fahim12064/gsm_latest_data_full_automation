@@ -1,0 +1,73 @@
+{
+  "url": "https://www.gsmarena.com/xiaomi_black_shark_gs3_ultra-14309.php",
+  "name": "Xiaomi Black Shark GS3 Ultra",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-black-shark-gs3-ultra.jpg",
+  "highlights": [
+    "Exp. release 2025, December\n\nFeature phone\nNo card slot",
+    "13%\n4,654 HITS",
+    "2\nBECOME A FAN",
+    "1.43\"\n466x466 pixels",
+    "NO",
+    "",
+    ""
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "No cellular connectivity",
+      "2G bands": "N/A",
+      "3G bands": "N/A",
+      "4G bands": "N/A",
+      "GPRS": "No",
+      "EDGE": "No"
+    },
+    "LAUNCH": {
+      "Announced": "2025, November 21",
+      "Status": "Coming soon. Exp. release 2025, December"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "Build": "Glass front (Gorilla Glass), aluminum frame",
+      "SIM": "No",
+      "": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\nMIL-STD-810H compliant\nWaterproof (5ATM)"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 1000 nits",
+      "Size": "1.43 inches",
+      "Resolution": "466 x 466 pixels (~326 ppi density)",
+      "Protection": "Corning Gorilla Glass"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Phonebook": "No",
+      "Call records": "Yes"
+    },
+    "CAMERA": {
+      "": "No"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "No",
+      "Bluetooth": "Yes",
+      "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS",
+      "NFC": "Unspecified",
+      "Radio": "No",
+      "USB": "No"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer, gyro, compass, barometer, heart rate, SpO2",
+      "Messaging": "SMS(threaded view), Email, IM",
+      "Games": "No",
+      "Java": "No"
+    },
+    "BATTERY": {
+      "Type": ""
+    },
+    "MISC": {
+      "Colors": "Black, Silver"
+    }
+  }
+}

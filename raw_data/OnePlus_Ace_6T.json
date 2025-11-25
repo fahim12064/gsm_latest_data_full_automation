@@ -1,0 +1,85 @@
+{
+  "url": "https://www.gsmarena.com/oneplus_ace_6t_5g-14315.php",
+  "name": "OnePlus Ace 6T",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-ace-6t.jpg",
+  "highlights": [
+    "Expected announcement 2025, November\n\nAndroid 16, ColorOS 16\n256GB/512GB/1TB storage, no card slot",
+    "0.4%\n204 HITS",
+    "0\nBECOME A FAN",
+    "6.7\"\n1272x2800 pixels",
+    "50MP\n2160p",
+    "12/16GB RAM\nSnapdragon 8 Gen 5",
+    "8000mAh\n100W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Expected announcement 2025, November",
+      "Status": "Rumored. Exp. release 2025, December"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "Build": "Glass front (Crystal Shield Glass), aluminum alloy frame, glass back or fiber-reinforced plastic back",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\nMicro-Arc Oxidation ceramic-like coating on the back"
+    },
+    "DISPLAY": {
+      "Type": "LTPO AMOLED, 1B colors, 165Hz, PWM, HDR10+, Dolby Vision, HDR Vivid",
+      "Size": "6.7 inches, 109.1 cm2",
+      "Resolution": "1272 x 2800 pixels (~459 ppi density)",
+      "Protection": "Crystal Shield Glass"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, ColorOS 16",
+      "Chipset": "Qualcomm Snapdragon 8 Gen 5",
+      "CPU": "Octa-core",
+      "GPU": "Adreno"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "Up to 1TB 16GB RAM",
+      "": "UFS 4.1"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, f/1.8, 24mm (wide), PDAF, OIS\n8 MP, f/2.2, 16mm, 112˚ (ultrawide), 1/4.0\", 1.12µm",
+      "Features": "Color spectrum sensor, LED flash, HDR, panorama",
+      "Video": "4K@30/60/120fps, 1080p@30/60/120fps, gyro-EIS, OIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "32 MP, f/2.4, (wide)",
+      "Features": "HDR, panorama",
+      "Video": "4K@30fps, 1080p@30fps, gyro-EIS"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band",
+      "Bluetooth": "5.4, A2DP, LE, aptX HD, aptX Adaptive, LHDC 5",
+      "Positioning": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5)",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display), accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 8000 mAh",
+      "Charging": "100W wired\nBypass charging"
+    },
+    "MISC": {
+      "Colors": "Black, Purple, Green"
+    }
+  }
+}
