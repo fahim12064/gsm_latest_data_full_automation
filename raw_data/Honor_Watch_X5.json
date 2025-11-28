@@ -1,0 +1,73 @@
+{
+  "url": "https://www.gsmarena.com/honor_watch_x5-14317.php",
+  "name": "Honor Watch X5",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-watch-x5.jpg",
+  "highlights": [
+    "Released 2025, November 24\n29g, 10mm thickness\nProprietary OS\nNo card slot",
+    "1.9%\n741 HITS",
+    "2\nBECOME A FAN",
+    "1.97\"\n390x450 pixels",
+    "NO",
+    "",
+    "360mAh"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "No cellular connectivity",
+      "2G bands": "N/A",
+      "3G bands": "N/A",
+      "4G bands": "N/A",
+      "Speed": "No",
+      "GPRS": "No",
+      "EDGE": "No"
+    },
+    "LAUNCH": {
+      "Announced": "2025, November 24",
+      "Status": "Available. Released 2025, November 24"
+    },
+    "BODY": {
+      "Dimensions": "45.7 x 40.2 x 10 mm (1.80 x 1.58 x 0.39 in)",
+      "Weight": "29 g (1.02 oz)",
+      "Build": "Glass front, aluminum alloy frame, plastic back",
+      "SIM": "No",
+      "": "5ATM water resistant\nIP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED",
+      "Size": "1.97 inches",
+      "Resolution": "390 x 450 pixels (~302 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Proprietary OS"
+    },
+    "MEMORY": {
+      "Card slot": "No"
+    },
+    "CAMERA": {
+      "": "No"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "No",
+      "Bluetooth": "5.3, LE",
+      "Positioning": "GPS, GLONASS, BDS, GALILEO, QZSS",
+      "NFC": "Yes",
+      "Radio": "No",
+      "USB": "No"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer, gyro, barometer, compass, heart rate, SpO2"
+    },
+    "BATTERY": {
+      "Type": "Li-Ion 360 mAh"
+    },
+    "MISC": {
+      "Colors": "Black, White",
+      "Models": "LWS-WB10",
+      "Price": "About 60 EUR"
+    }
+  }
+}
