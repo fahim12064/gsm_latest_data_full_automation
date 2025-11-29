@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP, f/1.8, 26mm (wide), 1/1.95\", PDAF, OIS",
+    "Flash:": "LED flash, HDR, panorama",
+    "Front:": "50 MP, f/2.4, 23mm (wide)",
+    "Folded:": "",
+    "Main camera:": "50 MP, f/1.8, 26mm (wide), 1/1.95\", PDAF, OIS",
+    "Second camera:": "8 MP, f/2.2, 112˚, 16mm (ultrawide)",
+    "Third camera:": "",
+    "Specifications:": "Aperture size: F/1.8 Focal Length: 26mm",
+    "Video recording:": "4K@30fps, 1080p@30/60/120fps, gyro-EIS, OIS"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Silk Pink, Suit Titanium",
+    "Folded:": "",
+    "Weight:": "185 g (6.53 oz)",
+    "Materials:": "",
+    "Biometrics:": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+    "Dimensions:": "163.3 x 75.9 x 7.7 mm (6.43 x 2.99 x 0.30 in)",
+    "Resistance:": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 2m for 30 min)"
+  },
+  "Battery": {
+    "Type:": "Si/C Li-Ion",
+    "Capacity:": "7000 mAh",
+    "Charging:": "80W wired, 50% in 25 min, 100% in 61 min",
+    "Max charge speed:": "Wired: 80W"
+  },
+  "Display": {
+    "Size:": "6.77 inches",
+    "Features:": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+    "Resolution:": "1080 x 2392 pixels (~388 ppi density)",
+    "Technology:": "AMOLED",
+    "Refresh rate:": "144Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "4500 cd/m2 (nit)",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 900 / 2100",
+    "4G bands:": "1, 3, 5, 8, 40",
+    "5G bands:": "1, 3, 5, 8, 40 SA/NSA",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 15, Realme UI 6.0",
+    "GPU:": "Mali-G615 MC2",
+    "RAM:": "12GB",
+    "Processor:": "Mediatek Dimensity 7300+ (4 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "256GB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0",
+    "Other:": "NFC, Infrared",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+    "Sensors:": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+    "Features:": "USB Type-C 2.0",
+    "Location:": "GPS, GALILEO, GLONASS, BDS, QZSS",
+    "Bluetooth:": "5.4, A2DP, LE"
+  }
+}
