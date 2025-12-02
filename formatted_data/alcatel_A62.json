@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "13 MP",
+    "Flash:": "LED flash",
+    "Front:": "5 MP, f/2.2, (wide), 1/5.0\", 1.12µm",
+    "Folded:": "",
+    "Main camera:": "13 MP",
+    "Second camera:": "",
+    "Third camera:": "",
+    "Specifications:": "",
+    "Video recording:": "1080p@30fps"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Sky Blue, Dawn Gold, Black",
+    "Folded:": "",
+    "Weight:": "-",
+    "Materials:": "Glass front, plastic back, plastic frame",
+    "Biometrics:": "Fingerprint (side-mounted); unspecified sensors",
+    "Dimensions:": "-",
+    "Resistance:": ""
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "5010 mAh",
+    "Charging:": "10W wired",
+    "Max charge speed:": "Wired: 10W"
+  },
+  "Display": {
+    "Size:": "6.8 inches",
+    "Features:": "Fingerprint (side-mounted); unspecified sensors",
+    "Resolution:": "720 x 1600 pixels, 20:9 ratio (~258 ppi density)",
+    "Technology:": "IPS LCD",
+    "Refresh rate:": "90Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 15",
+    "GPU:": "Mali-G57 MP1",
+    "RAM:": "4GB",
+    "Processor:": "Unisoc T7200 (12 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "64GB (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers",
+    "Headphones:": "Yes",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C",
+    "Other:": "NFC",
+    "Wi-Fi:": "Yes",
+    "Sensors:": "Fingerprint (side-mounted); unspecified sensors",
+    "Features:": "USB Type-C",
+    "Location:": "GPS, GLONASS, GALILEO, BDS",
+    "Bluetooth:": "Yes"
+  }
+}

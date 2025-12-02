@@ -1,0 +1,80 @@
+{
+  "url": "https://www.gsmarena.com/alcatel_a62-14319.php",
+  "name": "alcatel A62",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-a62.jpg",
+  "highlights": [
+    "Released 2025, November\n\nAndroid 15\n64GB storage, microSDXC",
+    "16%\n7,695 HITS",
+    "7\nBECOME A FAN",
+    "6.8\"\n720x1600 pixels",
+    "13MP\n1080p",
+    "4GB RAM\nUnisoc T7200",
+    "5010mAh\n10W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 2100",
+      "4G bands": "LTE",
+      "Speed": "HSPA, LTE"
+    },
+    "LAUNCH": {
+      "Announced": "2025, November 18",
+      "Status": "Available. Released 2025, November"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "Build": "Glass front, plastic back, plastic frame",
+      "SIM": "Nano-SIM + Nano-SIM"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 90Hz",
+      "Size": "6.8 inches, 111.6 cm2",
+      "Resolution": "720 x 1600 pixels, 20:9 ratio (~258 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 15",
+      "Chipset": "Unisoc T7200 (12 nm)",
+      "CPU": "Octa-core (2x1.6 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+      "GPU": "Mali-G57 MP1"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC",
+      "Internal": "64GB 4GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Single": "13 MP",
+      "Features": "LED flash",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "5 MP, f/2.2, (wide), 1/5.0\", 1.12µm",
+      "Video": "Yes"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "Yes"
+    },
+    "COMMS": {
+      "WLAN": "Yes",
+      "Bluetooth": "Yes",
+      "Positioning": "GPS, GLONASS, GALILEO, BDS",
+      "NFC": "No",
+      "Radio": "Unspecified",
+      "USB": "USB Type-C"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted); unspecified sensors"
+    },
+    "BATTERY": {
+      "Type": "5010 mAh",
+      "Charging": "10W wired"
+    },
+    "MISC": {
+      "Colors": "Sky Blue, Dawn Gold, Black",
+      "Price": "About 70 EUR"
+    }
+  }
+}

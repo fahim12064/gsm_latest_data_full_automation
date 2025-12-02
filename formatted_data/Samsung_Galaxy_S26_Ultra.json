@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "200 MP, f/1.7, 24mm (wide), 1/1.3\", 0.6µm, multi-directional PDAF, OIS",
+    "Flash:": "Laser AF, Best Face, LED flash, auto-HDR, panorama",
+    "Front:": "12 MP, f/2.2, 26mm (wide), 1/3.2\", 1.12µm, dual pixel PDAF",
+    "Folded:": "",
+    "Main camera:": "200 MP, f/1.7, 24mm (wide), 1/1.3\", 0.6µm, multi-directional PDAF, OIS",
+    "Second camera:": "10 MP, (telephoto), 1/3.94\", PDAF, OIS, 3x optical zoom",
+    "Third camera:": "50 MP, f/3.4, 111mm (periscope telephoto), 1/2.52\", 0.7µm, PDAF, OIS, 5x optical zoom",
+    "Specifications:": "Aperture size: F/1.7 Focal Length: 24mm",
+    "Video recording:": "8K@24/30fps, 4K@30/60/120fps, 1080p@30/60/120/240fps, 10-bit HDR, HDR10+, stereo sound rec., gyro-EIS"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Black; other colors",
+    "Folded:": "",
+    "Weight:": "214 g (7.55 oz)",
+    "Materials:": "Glass front (Corning Gorilla Armor 2), glass back (Gorilla Glass Victus 2), titanium frame (grade 5)",
+    "Biometrics:": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer",
+    "Dimensions:": "7.9 mm thickness",
+    "Resistance:": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)\nStylus"
+  },
+  "Battery": {
+    "Type:": "Li-Ion",
+    "Capacity:": "5000 mAh",
+    "Charging:": "60W wired, PD3.0\n15W wireless (Qi2 Ready)\n4.5W reverse wireless",
+    "Max charge speed:": "Wired: 60WWireless: 15W"
+  },
+  "Display": {
+    "Size:": "6.9 inches",
+    "Features:": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer",
+    "Resolution:": "1440 x 3120 pixels, 19.5:9 ratio (~498 ppi density)",
+    "Technology:": "Dynamic LTPO AMOLED 2X",
+    "Refresh rate:": "120Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "2600 cd/m2 (nit)",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA/Sub6 - International",
+    "SIM type:": "· Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time) - INT\n· Nano-SIM + eSIM + eSIM (max 2 at a time) - USA\n· Nano-SIM + Nano-SIM - CN"
+  },
+  "Hardware": {
+    "OS:": "Android 16, up to 7 major Android upgrades, One UI 8",
+    "GPU:": "Adreno 840",
+    "RAM:": "12GB",
+    "Processor:": "Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "256GB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 3.2, DisplayPort 1.2, OTG",
+    "Other:": "NFC",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct",
+    "Sensors:": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer",
+    "Features:": "USB Type-C 3.2, DisplayPort 1.2, OTG",
+    "Location:": "GPS, GLONASS, BDS, GALILEO, QZSS",
+    "Bluetooth:": "5.4, A2DP, LE"
+  }
+}
