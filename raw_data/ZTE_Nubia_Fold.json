@@ -1,0 +1,86 @@
+{
+  "url": "https://www.gsmarena.com/zte_nubia_fold_5g-14324.php",
+  "name": "ZTE Nubia Fold",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-fold.jpg",
+  "highlights": [
+    "Exp. release 2025, December 04\n249g, 5.4mm thickness\nAndroid 15\n256GB storage, no card slot",
+    "23%\n12,371 HITS",
+    "16\nBECOME A FAN",
+    "8.0\"\n2200x2480 pixels",
+    "50MP\n4320p",
+    "12GB RAM\nSnapdragon 8 Elite",
+    "6560mAh\n55W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2025, December 02",
+      "Status": "Coming soon. Exp. release 2025, December 04"
+    },
+    "BODY": {
+      "Dimensions": "Unfolded: 160 x 144 x 5.4 mm\nFolded: 160 x 73 x 11.1 mm",
+      "Weight": "249 g (8.78 oz)",
+      "SIM": "Nano-SIM + Nano-SIM + eSIM (max 2 at a time)",
+      "": "IP54 dust protected and water resistant (water splashes)"
+    },
+    "DISPLAY": {
+      "Type": "OLED, 120Hz",
+      "Size": "8.0 inches, 205.0 cm2 (~89.0% screen-to-body ratio)",
+      "Resolution": "2200 x 2480 pixels (~414 ppi density)",
+      "": "Cover display:\nOLED, 120Hz\n6.43 inches, 1172 x 2748 pixels"
+    },
+    "PLATFORM": {
+      "OS": "Android 15",
+      "Chipset": "Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm)",
+      "CPU": "Octa-core (2x4.32 GHz Oryon V2 Phoenix L + 6x3.53 GHz Oryon V2 Phoenix M)",
+      "GPU": "Adreno 830"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM",
+      "": "UFS"
+    },
+    "MAIN CAMERA": {
+      "Triple": "50 MP, (wide), PDAF, OIS\n50 MP, (ultrawide), PDAF\n5 MP, (macro)",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "8K, 4K@30/60fps, 1080p; gyro-EIS, OIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "20 MP, f/2.2, (wide)\nCover camera:\n20 MP, f/2.2, (wide)",
+      "Features": "HDR",
+      "Video": "4K@30fps, 1080p@30fps, gyro-EIS"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, tri-band, Wi-Fi Direct",
+      "Bluetooth": "6.0, A2DP, LE",
+      "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "6560 mAh",
+      "Charging": "55W wired, PD, PPS, 100% in 70 min"
+    },
+    "MISC": {
+      "Colors": "Black",
+      "Models": "A502ZT",
+      "Price": "About 1000 EUR (price in Japan)"
+    }
+  }
+}

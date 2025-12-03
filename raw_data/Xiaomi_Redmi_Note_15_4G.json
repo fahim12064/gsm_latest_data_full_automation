@@ -1,0 +1,81 @@
+{
+  "url": "https://www.gsmarena.com/xiaomi_redmi_note_15-14323.php",
+  "name": "Xiaomi Redmi Note 15 4G",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/xiomi-redmi-note15-4g-.jpg",
+  "highlights": [
+    "Released 2025, December 02\n\nAndroid 15, HyperOS 2\n128GB storage, no card slot",
+    "36%\n20,165 HITS",
+    "7\nBECOME A FAN",
+    "6.77\"\n1080x2392 pixels",
+    "108MP\n1080p",
+    "6GB RAM\nHelio G100 Ultra",
+    "6000mAh\n33W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 2100",
+      "4G bands": "LTE",
+      "Speed": "HSPA, LTE"
+    },
+    "LAUNCH": {
+      "Announced": "2025, December 02",
+      "Status": "Available. Released 2025, December 02"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP64 dust tight and water resistant (water splashes)"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 120Hz",
+      "Size": "6.77 inches, 110.9 cm2",
+      "Resolution": "1080 x 2392 pixels (~388 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 15, HyperOS 2",
+      "Chipset": "Mediatek Helio G100 Ultra (6 nm)",
+      "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+      "GPU": "Mali-G57 MC2"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "128GB 6GB"
+    },
+    "MAIN CAMERA": {
+      "Dual": "108 MP, (wide), PDAF\nAuxiliary lens",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "20 MP, (wide)",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+      "Bluetooth": "5.1, A2DP, LE",
+      "Positioning": "GPS, GALILEO, GLONASS, QZSS, BDS",
+      "NFC": "Yes",
+      "Radio": "Unspecified",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, compass, proximity"
+    },
+    "BATTERY": {
+      "Type": "6000 mAh",
+      "Charging": "33W wired"
+    },
+    "MISC": {
+      "Colors": "Black, Forest Green, Glacier Blue",
+      "Models": "2510DRA23E",
+      "Price": "About 200 EUR"
+    }
+  }
+}

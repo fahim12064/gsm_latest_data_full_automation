@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "108 MP, (wide), PDAF",
+    "Flash:": "LED flash, HDR, panorama",
+    "Front:": "20 MP, (wide)",
+    "Folded:": "",
+    "Main camera:": "108 MP, (wide), PDAF",
+    "Second camera:": "Auxiliary lens",
+    "Third camera:": "",
+    "Specifications:": "",
+    "Video recording:": "1080p@30fps"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Black, Forest Green, Glacier Blue",
+    "Folded:": "",
+    "Weight:": "-",
+    "Materials:": "",
+    "Biometrics:": "Fingerprint (under display, optical), accelerometer, gyro, compass, proximity",
+    "Dimensions:": "-",
+    "Resistance:": "IP64 dust tight and water resistant (water splashes)"
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "6000 mAh",
+    "Charging:": "33W wired",
+    "Max charge speed:": "Wired: 33W"
+  },
+  "Display": {
+    "Size:": "6.77 inches",
+    "Features:": "Fingerprint (under display, optical), accelerometer, gyro, compass, proximity",
+    "Resolution:": "1080 x 2392 pixels (~388 ppi density)",
+    "Technology:": "AMOLED",
+    "Refresh rate:": "120Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 15, HyperOS 2",
+    "GPU:": "Mali-G57 MC2",
+    "RAM:": "",
+    "Processor:": "Mediatek Helio G100 Ultra (6 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "128GB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0, OTG",
+    "Other:": "NFC",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+    "Sensors:": "Fingerprint (under display, optical), accelerometer, gyro, compass, proximity",
+    "Features:": "USB Type-C 2.0, OTG",
+    "Location:": "GPS, GALILEO, GLONASS, QZSS, BDS",
+    "Bluetooth:": "5.1, A2DP, LE"
+  }
+}
