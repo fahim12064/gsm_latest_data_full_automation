@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "200 MP, f/1.7, 23mm (wide), 1/1.4\", 0.56µm, multi-directional PDAF, OIS",
+    "Flash:": "LED flash, HDR, panorama",
+    "Front:": "32 MP, (wide)",
+    "Folded:": "",
+    "Main camera:": "200 MP, f/1.7, 23mm (wide), 1/1.4\", 0.56µm, multi-directional PDAF, OIS",
+    "Second camera:": "8 MP, f/2.2, 15mm, 120˚ (ultrawide), 1/4.0\", 1.12µm",
+    "Third camera:": "2 MP (macro)",
+    "Specifications:": "Aperture size: F/1.7 Focal Length: 23mm",
+    "Video recording:": "4K@24/30fps, 1080p@30/60/120fps, gyro-EIS, OIS"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Glacier Blue, Mocha Brown, Black",
+    "Folded:": "",
+    "Weight:": "207 g (7.30 oz)",
+    "Materials:": "Glass front (Gorilla Glass Victus 2), glass back (Gorrila Glass 7i) or silicone polymer back (eco leather), aluminum frame",
+    "Biometrics:": "Fingerprint (under display, optical), accelerometer, gyro, compass, proximity",
+    "Dimensions:": "163.3 x 78.3 x 7.9 mm (6.43 x 3.08 x 0.31 in)",
+    "Resistance:": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\nManufacturer-rated water-resistance (up to 2m for 24 hours)"
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "6500 mAh",
+    "Charging:": "100W wired",
+    "Max charge speed:": "Wired: 100W"
+  },
+  "Display": {
+    "Size:": "6.83 inches",
+    "Features:": "Fingerprint (under display, optical), accelerometer, gyro, compass, proximity",
+    "Resolution:": "1280 x 2712 pixels, 19:9 ratio (~439 ppi density)",
+    "Technology:": "AMOLED",
+    "Refresh rate:": "120Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "3200 cd/m2 (nit)",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA",
+    "SIM type:": "· Nano-SIM + eSIM\n· Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 15, HyperOS 2",
+    "GPU:": "Adreno 810",
+    "RAM:": "8GB",
+    "Processor:": "Qualcomm SM7635-AC Snapdragon 7s Gen 4 (4 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "256GB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers (with Dolby Atmos)",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0, OTG",
+    "Other:": "NFC, Infrared",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6/6e, dual-band, Wi-Fi Direct (/6e is market/region dependent)",
+    "Sensors:": "Fingerprint (under display, optical), accelerometer, gyro, compass, proximity",
+    "Features:": "USB Type-C 2.0, OTG",
+    "Location:": "GPS (L1+L5), GALILEO, GLONASS, QZSS, BDS",
+    "Bluetooth:": "5.4, A2DP, LE"
+  }
+}

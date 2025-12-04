@@ -1,0 +1,88 @@
+{
+  "url": "https://www.gsmarena.com/xiaomi_redmi_note_15_5g_(global)-14328.php",
+  "name": "Xiaomi Redmi Note 15",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-15-global-.jpg",
+  "highlights": [
+    "Not announced yet\n178g, 7.4mm thickness\nAndroid 15, HyperOS 2\n256GB storage, microSDXC",
+    "25%\n11,440 HITS",
+    "13\nBECOME A FAN",
+    "6.83\"\n1080x2400 pixels",
+    "108MP\n1080p",
+    "8GB RAM\nSnapdragon 6 Gen 3",
+    "5520mAh\n45W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "164 x 75.4 x 7.4 mm (6.46 x 2.97 x 0.29 in)",
+      "Weight": "178 g (6.28 oz)",
+      "Build": "Glass front (Gorilla Glass), plastic back, plastic frame",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 68B colors, 120Hz, PWM, HDR10+, 3200 nits (peak)",
+      "Size": "6.83 inches, 112.6 cm2 (~91.1% screen-to-body ratio)",
+      "Resolution": "1080 x 2400 pixels, 20:9 ratio (~385 ppi density)",
+      "Protection": "Corning Gorilla Glass"
+    },
+    "PLATFORM": {
+      "OS": "Android 15, HyperOS 2",
+      "Chipset": "Qualcomm SM6475-AB Snapdragon 6 Gen 3 (4 nm)",
+      "CPU": "Octa-core (4x2.4 GHz Cortex-A78 & 4x1.8 GHz Cortex-A55)",
+      "GPU": "Adreno 710"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC (uses shared SIM slot)",
+      "Internal": "256GB 8GB RAM",
+      "": "UFS 2.2"
+    },
+    "MAIN CAMERA": {
+      "Triple": "108 MP, f/1.7, 24mm (wide), 1/1.67\", 0.64µm, PDAF, OIS\n8 MP, f/2.2, 16mm (ultrawide), 1/4.4\", 1.0µm\n2 MP (macro)",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "1080p@30fps, gyro-EIS, OIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "20 MP, f/2.2, 21mm (wide), 1/4.0\", 0.7µm",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers (with Dolby Atmos)",
+      "3.5mm jack": "Yes",
+      "": "24-bit/192kHz Hi-Res audio"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+      "Bluetooth": "5.4, A2DP, LE",
+      "Positioning": "GPS, GLONASS, BDS, GALILEO",
+      "NFC": "Yes (market/region dependent)",
+      "Infrared port": "Yes",
+      "Radio": "FM radio",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, compass",
+      "": "Virtual proximity sensing"
+    },
+    "BATTERY": {
+      "Type": "5520 mAh",
+      "Charging": "45W wired"
+    },
+    "MISC": {
+      "Colors": "Glacier Blue, Purple, Black",
+      "Models": "25096RA9BG",
+      "Price": "About 300 EUR"
+    }
+  }
+}
