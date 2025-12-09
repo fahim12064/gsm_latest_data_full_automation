@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP, (wide), PDAF",
+    "Flash:": "LED flash, HDR, panorama",
+    "Front:": "Yes",
+    "Folded:": "",
+    "Main camera:": "50 MP, (wide), PDAF",
+    "Second camera:": "13 MP (ultrawide)",
+    "Third camera:": "",
+    "Specifications:": "",
+    "Video recording:": "4K, 1080p"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Orange",
+    "Folded:": "",
+    "Weight:": "-",
+    "Materials:": "",
+    "Biometrics:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+    "Dimensions:": "158 x 74 x 9 mm (6.22 x 2.91 x 0.35 in)",
+    "Resistance:": "Swappable rear cover"
+  },
+  "Battery": {
+    "Type:": "user replaceable",
+    "Capacity:": "5500 mAh",
+    "Charging:": "",
+    "Max charge speed:": ""
+  },
+  "Display": {
+    "Size:": "6.36 inches",
+    "Features:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+    "Resolution:": "1080 x 2260 pixels*, 19:9 ratio (~394 ppi density)",
+    "Technology:": "AMOLED",
+    "Refresh rate:": "",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands:": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Sailfish 5.0, up to 5 major OS upgrades, Android OS apps support",
+    "GPU:": "",
+    "RAM:": "12GB",
+    "Processor:": "Mediatek",
+    "Device type:": "Smartphone",
+    "Internal storage:": "256GB (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers (unconfirmed)",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C",
+    "Other:": "NFC",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+    "Features:": "USB Type-C",
+    "Location:": "GPS",
+    "Bluetooth:": "6.0, A2DP, LE"
+  }
+}

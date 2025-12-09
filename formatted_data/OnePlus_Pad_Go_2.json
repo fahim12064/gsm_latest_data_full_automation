@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "8 MP",
+    "Flash:": "",
+    "Front:": "8 MP",
+    "Folded:": "",
+    "Main camera:": "8 MP",
+    "Second camera:": "",
+    "Third camera:": "",
+    "Specifications:": "",
+    "Video recording:": "1080p@30fps"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Black, Purple",
+    "Folded:": "",
+    "Weight:": "-",
+    "Materials:": "",
+    "Biometrics:": "Accelerometer, proximity (accessories only), gyro, compass",
+    "Dimensions:": "-",
+    "Resistance:": "Stylus support"
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "10050 mAh",
+    "Charging:": "33W wired",
+    "Max charge speed:": "Wired: 33W"
+  },
+  "Display": {
+    "Size:": "12.1 inches",
+    "Features:": "Accelerometer, proximity (accessories only), gyro, compass",
+    "Resolution:": "1980 x 2800 pixels (~283 ppi density)",
+    "Technology:": "IPS LCD",
+    "Refresh rate:": "120Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900 - cellular model only",
+    "3G bands:": "HSDPA 850 / 900 / 2100 - cellular model only",
+    "4G bands:": "LTE - cellular model only",
+    "5G bands:": "SA/NSA/Sub6 - cellular model only",
+    "SIM type:": "Yes - cellular model only"
+  },
+  "Hardware": {
+    "OS:": "Android 16, OxygenOS 16",
+    "GPU:": "Mali-G615 MC2",
+    "RAM:": "8GB",
+    "Processor:": "Mediatek Dimensity 7300 Ultra (4 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "128GB (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers (4 speakers)",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0, OTG",
+    "Other:": "NFC",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+    "Sensors:": "Accelerometer, proximity (accessories only), gyro, compass",
+    "Features:": "USB Type-C 2.0, OTG",
+    "Location:": "Unspecified",
+    "Bluetooth:": "5.2, A2DP, LE, aptX HD"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP, (wide), PDAF",
+    "Flash:": "LED flash",
+    "Front:": "8 MP, (wide)",
+    "Folded:": "",
+    "Main camera:": "50 MP, (wide), PDAF",
+    "Second camera:": "secondary unspecified camera",
+    "Third camera:": "",
+    "Specifications:": "",
+    "Video recording:": "4K"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Deccan Black, Himalayan White",
+    "Folded:": "",
+    "Weight:": "-",
+    "Materials:": "",
+    "Biometrics:": "Fingerprint (side-mounted); unspecified sensors",
+    "Dimensions:": "-",
+    "Resistance:": "IP54 dust protected and water resistant (water splashes)"
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "5000 mAh",
+    "Charging:": "33W wired, 100% in 83 min",
+    "Max charge speed:": "Wired: 33W"
+  },
+  "Display": {
+    "Size:": "6.72 inches",
+    "Features:": "Fingerprint (side-mounted); unspecified sensors",
+    "Resolution:": "1080 x 2400 pixels, 20:9 ratio (~392 ppi density)",
+    "Technology:": "LCD",
+    "Refresh rate:": "120Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 15",
+    "GPU:": "Mali-G615 MC2",
+    "RAM:": "6GB",
+    "Processor:": "Mediatek Dimensity 7300 (4 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "128GB (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes",
+    "Headphones:": "Yes",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0, OTG",
+    "Other:": "NFC",
+    "Wi-Fi:": "Wi-Fi 802.11 b/g/n/ac/6, dual-band",
+    "Sensors:": "Fingerprint (side-mounted); unspecified sensors",
+    "Features:": "USB Type-C 2.0, OTG",
+    "Location:": "GPS, GLONASS, GALILEO, BDS",
+    "Bluetooth:": "5.2, A2DP, LE"
+  }
+}

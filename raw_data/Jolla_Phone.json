@@ -1,0 +1,81 @@
+{
+  "url": "https://www.gsmarena.com/jolla_phone_5g-14342.php",
+  "name": "Jolla Phone",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/jolla-phone-5g.jpg",
+  "highlights": [
+    "Exp. release 2026, Q1-Q2\n9mm thickness\nSailfish 5.0, up to 5 major OS upgrades\n256GB storage, microSDXC",
+    "34%\n14,436 HITS",
+    "23\nBECOME A FAN",
+    "6.36\"\n1080x2260 pixels*",
+    "50MP\n2160p",
+    "12GB RAM\nMediatek",
+    "5500mAh"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2025, December 08",
+      "Status": "Coming soon. Exp. release 2026, Q1-Q2"
+    },
+    "BODY": {
+      "Dimensions": "158 x 74 x 9 mm (6.22 x 2.91 x 0.35 in)",
+      "Weight": "-",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "Swappable rear cover"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED",
+      "Size": "6.36 inches, 101.5 cm2 (~86.8% screen-to-body ratio)",
+      "Resolution": "1080 x 2260 pixels*, 19:9 ratio (~394 ppi density)",
+      "Protection": "Corning Gorilla Glass",
+      "": "* speculative display resolution"
+    },
+    "PLATFORM": {
+      "OS": "Sailfish 5.0, up to 5 major OS upgrades, Android OS apps support",
+      "Chipset": "Mediatek"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC",
+      "Internal": "256GB 12GB RAM",
+      "": "UFS"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, (wide), PDAF\n13 MP (ultrawide)",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "4K, 1080p"
+    },
+    "SELFIE CAMERA": {
+      "Single": "Yes",
+      "Video": ""
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers (unconfirmed)",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+      "Bluetooth": "6.0, A2DP, LE",
+      "Positioning": "GPS",
+      "NFC": "Yes",
+      "Radio": "Unspecified",
+      "USB": "USB Type-C"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "5500 mAh, user replaceable"
+    },
+    "MISC": {
+      "Colors": "Orange",
+      "Price": "About 500 EUR"
+    }
+  }
+}

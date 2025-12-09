@@ -1,0 +1,88 @@
+{
+  "url": "https://www.gsmarena.com/honor_magic8_lite_5g-14341.php",
+  "name": "Honor Magic8 Lite",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x70.jpg",
+  "highlights": [
+    "Exp. release 2025, December\n189g, 7.8mm thickness\nAndroid 15, Magic OS 9\n256GB/512GB storage, no card slot",
+    "36%\n15,785 HITS",
+    "17\nBECOME A FAN",
+    "6.79\"\n1200x2640 pixels",
+    "108MP\n2160p",
+    "8GB RAM\nSnapdragon 6 Gen 4",
+    "7500mAh\n66W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2025, December 08",
+      "Status": "Coming soon. Exp. release 2025, December"
+    },
+    "BODY": {
+      "Dimensions": "161.9 x 76.1 x 7.8 mm (6.37 x 3.00 x 0.31 in)",
+      "Weight": "189 g (6.67 oz)",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 6m)\nDrop resistant up to 2.5m"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 1B colors, 120Hz, 3840Hz PWM, HDR, 800 nits (typ), 1800 nits (HBM), 6000 nits (peak)",
+      "Size": "6.79 inches, 112.1 cm2 (~90.9% screen-to-body ratio)",
+      "Resolution": "1200 x 2640 pixels (~427 ppi density)",
+      "Protection": "Scratch-resistant glass"
+    },
+    "PLATFORM": {
+      "OS": "Android 15, Magic OS 9",
+      "Chipset": "Qualcomm Snapdragon 6 Gen 4 (4 nm)",
+      "CPU": "Octa-core (1x2.3 GHz Cortex-A720s & 3x2.2 GHz Cortex-A720s & 4x1.8 GHz Cortex-A520s)",
+      "GPU": "Adreno 810"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 8GB RAM, 512GB 8GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Dual": "108 MP, f/1.8, (wide), PDAF, 1/1.67\", OIS\n5 MP, f/2.2, (ultrawide)",
+      "Features": "LED flash, panorama, HDR",
+      "Video": "4K@30fps, 1080p@30fps, gyro-EIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "16 MP, f/2.5, (wide)",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+      "Bluetooth": "5.2, A2DP, LE, aptX HD, aptX Adaptive",
+      "Positioning": "GPS, GALILEO, GLONASS, BDS",
+      "NFC": "Yes (market/region dependent)",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, optical), accelerometer, compass, gyro, proximity"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Po 7500 mAh",
+      "Charging": "66W wired\n7.5W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Midnight Black, Forest Green, Reddish Brown",
+      "Models": "MTN-NX1M"
+    },
+    "OUR TESTS": {
+      "Performance": "AnTuTu: 754210 (v10)\nGeekBench: 3089 (v6)\n3DMark: 982 (Wild Life Extreme)",
+      "Display": "1771 nits max brightness (measured)",
+      "Loudspeaker": "-24.2 LUFS (Very good)",
+      "Battery": "Active use score 17:58h"
+    }
+  }
+}

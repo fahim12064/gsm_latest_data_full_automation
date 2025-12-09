@@ -1,0 +1,82 @@
+{
+  "url": "https://www.gsmarena.com/lava_play_max_5g-14344.php",
+  "name": "Lava Play Max",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/lava-play-max-.jpg",
+  "highlights": [
+    "Exp. release 2025, December\n\nAndroid 15\n128GB storage, microSDXC",
+    "2.0%\n705 HITS",
+    "0\nBECOME A FAN",
+    "6.72\"\n1080x2400 pixels",
+    "50MP\n2160p",
+    "6/8GB RAM\nDimensity 7300",
+    "5000mAh\n33W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2025, December 09",
+      "Status": "Coming soon. Exp. release 2025, December"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP54 dust protected and water resistant (water splashes)"
+    },
+    "DISPLAY": {
+      "Type": "LCD, 120Hz",
+      "Size": "6.72 inches, 109.0 cm2",
+      "Resolution": "1080 x 2400 pixels, 20:9 ratio (~392 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 15",
+      "Chipset": "Mediatek Dimensity 7300 (4 nm)",
+      "CPU": "Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+      "GPU": "Mali-G615 MC2"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC (uses shared SIM slot)",
+      "Internal": "128GB 6GB RAM, 128GB 8GB RAM",
+      "": "UFS 3.1"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, (wide), PDAF\nsecondary unspecified camera",
+      "Features": "LED flash",
+      "Video": "4K"
+    },
+    "SELFIE CAMERA": {
+      "Single": "8 MP, (wide)",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "Yes"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 b/g/n/ac/6, dual-band",
+      "Bluetooth": "5.2, A2DP, LE",
+      "Positioning": "GPS, GLONASS, GALILEO, BDS",
+      "NFC": "No",
+      "Radio": "Unspecified",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted); unspecified sensors"
+    },
+    "BATTERY": {
+      "Type": "5000 mAh",
+      "Charging": "33W wired, 100% in 83 min"
+    },
+    "MISC": {
+      "Colors": "Deccan Black, Himalayan White",
+      "Price": "About 120 EUR"
+    }
+  }
+}
