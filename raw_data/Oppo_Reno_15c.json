@@ -1,0 +1,87 @@
+{
+  "url": "https://www.gsmarena.com/oppo_reno_15c_5g-14347.php",
+  "name": "Oppo Reno 15c",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/oppo-reno-15c.jpg",
+  "highlights": [
+    "Not announced yet\n197g, 7.8mm thickness\nAndroid 16, ColorOS 16\n256GB/512GB storage, no card slot",
+    "1.8%\n591 HITS",
+    "2\nBECOME A FAN",
+    "6.59\"\n1256x2760 pixels",
+    "50MP\n2160p",
+    "12GB RAM\nSnapdragon 7 Gen 4",
+    "6500mAh\n80W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / CDMA / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "": "CDMA 800",
+      "3G bands": "HSDPA 850 / 900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "158 x 74.8 x 7.8 mm (6.22 x 2.94 x 0.31 in)",
+      "Weight": "197 g (6.95 oz)",
+      "Build": "Glass front (Crystal Shield Glass), aluminum alloy frame, glass back",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 2m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 1B colors, 120Hz, 3840Hz PWM, HDR10+, 600 nits (typ), 1200 nits (HBM)",
+      "Size": "6.59 inches, 105.6 cm2 (~89.4% screen-to-body ratio)",
+      "Resolution": "1256 x 2760 pixels (~460 ppi density)",
+      "Protection": "Crystal Shield Glass"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, ColorOS 16",
+      "Chipset": "Qualcomm SM7750-AB Snapdragon 7 Gen 4 (4 nm)",
+      "CPU": "Octa-core (1x2.8 GHz Cortex-720 & 4x2.4 GHz Cortex-720 & 3x1.8 GHz Cortex-520)",
+      "GPU": "Adreno 722"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 512GB 12GB RAM",
+      "": "UFS"
+    },
+    "MAIN CAMERA": {
+      "Triple": "50 MP, f/1.8, 26mm (wide), PDAF, OIS\n50 MP, f/2.8, 80mm (telephoto), PDAF, OIS, 3.5x optical zoom\n8 MP, f/2.2, 15mm, 116˚ (ultrawide), 1/4.0\", 1.12µm, AF",
+      "Features": "Color spectrum sensor, LED flash, HDR, panorama",
+      "Video": "4K@30/60fps, 1080p@30/60/120fps, gyro-EIS, HDR"
+    },
+    "SELFIE CAMERA": {
+      "Single": "50 MP, f/2.0, 21mm (wide), AF",
+      "Features": "Panorama, HDR",
+      "Video": "4K@30/60fps, 1080p@30/60fps, gyro-EIS, HDR"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+      "Bluetooth": "5.4, A2DP, LE, aptX HD, LHDC 5",
+      "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 6500 mAh",
+      "Charging": "80W wired, 13.5W PD, 33W PPS\nReverse wired"
+    },
+    "MISC": {
+      "Colors": "Black, Blue",
+      "Models": "PMD110"
+    }
+  }
+}

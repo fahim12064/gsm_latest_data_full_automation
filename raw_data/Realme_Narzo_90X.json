@@ -1,0 +1,81 @@
+{
+  "url": "https://www.gsmarena.com/realme_narzo_90x_5g-14346.php",
+  "name": "Realme Narzo 90X",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/realme-c85.jpg",
+  "highlights": [
+    "Not announced yet\n215g, 8.4mm thickness\nAndroid 15, Realme UI 6.0\n128GB/256GB storage, microSDXC",
+    "18%\n4,885 HITS",
+    "7\nBECOME A FAN",
+    "6.8\"\n720x1570 pixels",
+    "50MP\n1080p",
+    "4-8GB RAM\nDimensity 6300",
+    "7000mAh\n60W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "166.1 x 77.9 x 8.4 mm (6.54 x 3.07 x 0.33 in)",
+      "Weight": "215 g (7.58 oz)",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "Water resistant"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 144Hz, 1200 nits (HBM)",
+      "Size": "6.8 inches, 113.0 cm2 (~87.4% screen-to-body ratio)",
+      "Resolution": "720 x 1570 pixels, 19.5:9 ratio (~254 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 15, Realme UI 6.0",
+      "Chipset": "Mediatek Dimensity 6300 (6 nm)",
+      "CPU": "Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+      "GPU": "Mali-G57 MC2"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC (uses shared SIM slot)",
+      "Internal": "128GB 4GB RAM, 128GB 6GB RAM, 256GB 8GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Single": "50 MP, f/1.8, 28mm (wide), 1/2.96\", PDAF",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "1080p@30/120fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "8 MP, f/2.0, 26mm (wide), 1/4.0\", 1.12µm",
+      "Features": "Panorama",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+      "Bluetooth": "5.3, A2DP, LE",
+      "Positioning": "GPS, GALILEO, GLONASS, QZSS, BDS",
+      "NFC": "Unspecified",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 7000 mAh",
+      "Charging": "60W wired\nReverse wired\nBypass charging"
+    },
+    "MISC": {
+      "Colors": "Blue"
+    }
+  }
+}
