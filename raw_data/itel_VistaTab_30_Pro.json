@@ -1,0 +1,80 @@
+{
+  "url": "https://www.gsmarena.com/itel_vistatab_30_pro-14350.php",
+  "name": "itel VistaTab 30 Pro",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/itel-vistatab-30-pro.jpg",
+  "highlights": [
+    "Released 2025, March 05\n689.3 g\nAndroid 14\n256GB storage, microSDXC",
+    "13%\n3,214 HITS",
+    "1\nBECOME A FAN",
+    "13.2\"\n1200x1920 pixels",
+    "13MP\n1080p",
+    "8GB RAM\nHelio G99 Ultimate",
+    "10000mAh\n18W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 2100",
+      "4G bands": "LTE",
+      "Speed": "HSPA, LTE"
+    },
+    "LAUNCH": {
+      "Announced": "2025, March 05",
+      "Status": "Available. Released 2025, March 05"
+    },
+    "BODY": {
+      "Dimensions": "7 mm thickness",
+      "Weight": "689.3 g (1.52 lb)",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "Stylus support"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 450 nits",
+      "Size": "13.2 inches, 505.2 cm2",
+      "Resolution": "1200 x 1920 pixels, 16:10 ratio (~172 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 14",
+      "Chipset": "Mediatek Helio G99 Ultimate (6 nm)",
+      "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+      "GPU": "Mali-G57 MC2"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC",
+      "Internal": "256GB 8GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Single": "13 MP",
+      "Features": "LED flash",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "8 MP",
+      "Video": "Yes"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with dual speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+      "Bluetooth": "5.2, A2DP, LE",
+      "Positioning": "Unspecified",
+      "NFC": "No",
+      "Radio": "Unspecified",
+      "USB": "USB Type-C, magnetic accessory connector pins"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer"
+    },
+    "BATTERY": {
+      "Type": "10000 mAh",
+      "Charging": "18W wired"
+    },
+    "MISC": {
+      "Colors": "Gray",
+      "Price": "About 220 EUR"
+    }
+  }
+}

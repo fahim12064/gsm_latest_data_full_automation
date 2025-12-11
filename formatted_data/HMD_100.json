@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "",
+    "Flash:": "",
+    "Front:": "",
+    "Folded:": "",
+    "Main camera:": "",
+    "Second camera:": "",
+    "Third camera:": "",
+    "Specifications:": "",
+    "Video recording:": ""
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Gray, Red, Green",
+    "Folded:": "",
+    "Weight:": "73 g (2.57 oz)",
+    "Materials:": "",
+    "Biometrics:": "",
+    "Dimensions:": "114.3 x 50 x 14.3 mm (4.5 x 1.97 x 0.56 in)",
+    "Resistance:": ""
+  },
+  "Battery": {
+    "Type:": "Li-Ion , removable",
+    "Capacity:": "800 mAh",
+    "Charging:": "",
+    "Max charge speed:": ""
+  },
+  "Display": {
+    "Size:": "1.77 inches",
+    "Features:": "",
+    "Resolution:": "128 x 160 pixels (~116 ppi density)",
+    "Technology:": "TFT",
+    "Refresh rate:": "",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM",
+    "2G bands:": "GSM 900 / 1800",
+    "3G bands:": "",
+    "4G bands:": "",
+    "5G bands:": "",
+    "SIM type:": "Mini-SIM"
+  },
+  "Hardware": {
+    "OS:": "",
+    "GPU:": "",
+    "RAM:": "",
+    "Processor:": "Unisoc 6533G",
+    "Device type:": "Smartphone",
+    "Internal storage:": " (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes",
+    "Headphones:": "Yes",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "microUSB",
+    "Other:": "NFC",
+    "Wi-Fi:": "No",
+    "Sensors:": "",
+    "Features:": "microUSB",
+    "Location:": "No",
+    "Bluetooth:": "No"
+  }
+}

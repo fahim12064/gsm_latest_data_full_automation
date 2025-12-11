@@ -1,0 +1,73 @@
+{
+  "url": "https://www.gsmarena.com/hmd_100-14348.php",
+  "name": "HMD 100",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/hmd-100.jpg",
+  "highlights": [
+    "Released 2025, December\n73g, 14.3mm thickness\nFeature phone\n4MB storage, no card slot",
+    "13%\n3,308 HITS",
+    "6\nBECOME A FAN",
+    "1.77\"\n128x160 pixels",
+    "NO",
+    "Unisoc 6533G",
+    "800mAh"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM",
+      "2G bands": "GSM 900 / 1800",
+      "GPRS": "Yes",
+      "EDGE": "Yes"
+    },
+    "LAUNCH": {
+      "Announced": "2025, December",
+      "Status": "Available. Released 2025, December"
+    },
+    "BODY": {
+      "Dimensions": "114.3 x 50 x 14.3 mm (4.5 x 1.97 x 0.56 in)",
+      "Weight": "73 g (2.57 oz)",
+      "SIM": "Mini-SIM"
+    },
+    "DISPLAY": {
+      "Type": "TFT",
+      "Size": "1.77 inches, 9.9 cm2 (~17.3% screen-to-body ratio)",
+      "Resolution": "128 x 160 pixels (~116 ppi density)"
+    },
+    "PLATFORM": {
+      "Chipset": "Unisoc 6533G"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Phonebook": "Yes",
+      "Call records": "Yes",
+      "Internal": "4MB"
+    },
+    "CAMERA": {
+      "": ""
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "Yes"
+    },
+    "COMMS": {
+      "WLAN": "No",
+      "Bluetooth": "No",
+      "Positioning": "No",
+      "NFC": "No",
+      "Radio": "Wireless FM radio",
+      "USB": "microUSB"
+    },
+    "FEATURES": {
+      "Sensors": "",
+      "Messaging": "SMS",
+      "Games": "Yes",
+      "Java": "No"
+    },
+    "BATTERY": {
+      "Type": "Li-Ion 800 mAh, removable"
+    },
+    "MISC": {
+      "Colors": "Gray, Red, Green",
+      "Price": "About 10 EUR"
+    }
+  }
+}
