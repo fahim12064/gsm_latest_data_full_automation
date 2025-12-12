@@ -1,0 +1,81 @@
+{
+  "url": "https://www.gsmarena.com/itel_vistatab_30gt-14352.php",
+  "name": "itel VistaTab 30GT",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/itel-vistatab-30gt.jpg",
+  "highlights": [
+    "Released 2025, September\n\nAndroid 15\n128GB storage, microSDXC",
+    "12%\n3,387 HITS",
+    "4\nBECOME A FAN",
+    "11.0\"\n1200x1920 pixels*",
+    "8MP\n1080p",
+    "4/6GB RAM\nHelio G99 Ultimate",
+    "7000mAh\n18W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 2100",
+      "4G bands": "LTE",
+      "Speed": "HSPA, LTE"
+    },
+    "LAUNCH": {
+      "Announced": "2025, September 19",
+      "Status": "Available. Released 2025, September"
+    },
+    "BODY": {
+      "Dimensions": "7 mm thickness",
+      "Weight": "-",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "Stylus support"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 90Hz, 450 nits",
+      "Size": "11.0 inches, 11, 350.9 cm2",
+      "Resolution": "1200 x 1920 pixels*, 16:10 ratio (~206 ppi density)",
+      "": "* speculative display resolution"
+    },
+    "PLATFORM": {
+      "OS": "Android 15",
+      "Chipset": "Mediatek Helio G99 Ultimate (6 nm)",
+      "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+      "GPU": "Mali-G57 MC2"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC",
+      "Internal": "128GB 4GB RAM, 128GB 6GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Single": "8 MP",
+      "Features": "LED flash",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "8 MP",
+      "Video": "Yes"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with dual speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Yes",
+      "Bluetooth": "Yes",
+      "Positioning": "Unspecified",
+      "NFC": "No",
+      "Radio": "Unspecified",
+      "USB": "USB Type-C"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer"
+    },
+    "BATTERY": {
+      "Type": "7000 mAh",
+      "Charging": "18W wired"
+    },
+    "MISC": {
+      "Colors": "Gray",
+      "Price": "About 120 EUR"
+    }
+  }
+}

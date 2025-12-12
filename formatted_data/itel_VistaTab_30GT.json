@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "8 MP",
+    "Flash:": "LED flash",
+    "Front:": "8 MP",
+    "Folded:": "",
+    "Main camera:": "8 MP",
+    "Second camera:": "",
+    "Third camera:": "",
+    "Specifications:": "",
+    "Video recording:": "1080p@30fps"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Gray",
+    "Folded:": "",
+    "Weight:": "-",
+    "Materials:": "",
+    "Biometrics:": "Accelerometer",
+    "Dimensions:": "7 mm thickness",
+    "Resistance:": "Stylus support"
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "7000 mAh",
+    "Charging:": "18W wired",
+    "Max charge speed:": "Wired: 18W"
+  },
+  "Display": {
+    "Size:": "11.0 inches",
+    "Features:": "Accelerometer",
+    "Resolution:": "1200 x 1920 pixels*, 16:10 ratio (~206 ppi density)",
+    "Technology:": "IPS LCD",
+    "Refresh rate:": "90Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 15",
+    "GPU:": "Mali-G57 MC2",
+    "RAM:": "4GB",
+    "Processor:": "Mediatek Helio G99 Ultimate (6 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "128GB (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with dual speakers",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C",
+    "Other:": "NFC",
+    "Wi-Fi:": "Yes",
+    "Sensors:": "Accelerometer",
+    "Features:": "USB Type-C",
+    "Location:": "Unspecified",
+    "Bluetooth:": "Yes"
+  }
+}

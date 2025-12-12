@@ -1,0 +1,87 @@
+{
+  "url": "https://www.gsmarena.com/vivo_s50_5g-14353.php",
+  "name": "vivo S50",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-s50.jpg",
+  "highlights": [
+    "Not announced yet\n197g, 7.6mm thickness\nAndroid 16, OriginOS 6\n256GB/512GB storage, no card slot",
+    "1.7%\n1,436 HITS",
+    "3\nBECOME A FAN",
+    "6.59\"\n1260x2750 pixels",
+    "50MP\n2160p",
+    "12/16GB RAM\nSnapdragon 8s Gen 3",
+    "6500mAh\n90W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / CDMA / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "": "CDMA 800",
+      "3G bands": "HSDPA 850 / 900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "157.5 x 74.3 x 7.6 mm (6.20 x 2.93 x 0.30 in)",
+      "Weight": "197 g (6.95 oz)",
+      "Build": "Glass front (Diamond Shield Glass), plastic frame, glass back",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 2m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 1B colors, 120Hz, 3840Hz PWM, HDR",
+      "Size": "6.59 inches, 106.1 cm2 (~90.7% screen-to-body ratio)",
+      "Resolution": "1260 x 2750 pixels, 19.5:9 ratio (~459 ppi density)",
+      "Protection": "Diamond Shield Glass"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, OriginOS 6",
+      "Chipset": "Qualcomm SM8635 Snapdragon 8s Gen 3 (4 nm)",
+      "CPU": "Octa-core (1x3.0 GHz Cortex-X4 & 4x2.8 GHz Cortex-A720 & 3x2.0 GHz Cortex-A520)",
+      "GPU": "Adreno 735"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 512GB 16GB RAM",
+      "": "UFS 4.1"
+    },
+    "MAIN CAMERA": {
+      "Triple": "50 MP, f/1.9, 23mm (wide), 1/1.56\", PDAF, OIS\n50 MP, f/2.7, 70mm (periscope telephoto), 1/1.95\", PDAF, OIS, 3x optical zoom\n8 MP, f/2.2, 106˚ (ultrawide)",
+      "Features": "Ring-LED flash, panorama, HDR",
+      "Video": "4K, 1080p, gyro-EIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "50 MP, f/2.0, 22mm (wide), AF",
+      "Features": "HDR",
+      "Video": "4K, 1080p"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+      "Bluetooth": "5.4, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless, LHDC 5",
+      "Positioning": "GPS, GALILEO, GLONASS, QZSS, BDS (B1I+B1c)",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 6500 mAh",
+      "Charging": "90W wired, PD\nReverse wired\nBypass charging"
+    },
+    "MISC": {
+      "Colors": "Black, Blue, White, Purple",
+      "Models": "V2528A"
+    }
+  }
+}

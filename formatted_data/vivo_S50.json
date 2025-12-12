@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP, f/1.9, 23mm (wide), 1/1.56\", PDAF, OIS",
+    "Flash:": "Ring-LED flash, panorama, HDR",
+    "Front:": "50 MP, f/2.0, 22mm (wide), AF",
+    "Folded:": "",
+    "Main camera:": "50 MP, f/1.9, 23mm (wide), 1/1.56\", PDAF, OIS",
+    "Second camera:": "50 MP, f/2.7, 70mm (periscope telephoto), 1/1.95\", PDAF, OIS, 3x optical zoom",
+    "Third camera:": "8 MP, f/2.2, 106˚ (ultrawide)",
+    "Specifications:": "Aperture size: F/1.9 Focal Length: 23mm",
+    "Video recording:": "4K, 1080p, gyro-EIS"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Black, Blue, White, Purple",
+    "Folded:": "",
+    "Weight:": "197 g (6.95 oz)",
+    "Materials:": "Glass front (Diamond Shield Glass), plastic frame, glass back",
+    "Biometrics:": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+    "Dimensions:": "157.5 x 74.3 x 7.6 mm (6.20 x 2.93 x 0.30 in)",
+    "Resistance:": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 2m for 30 min)"
+  },
+  "Battery": {
+    "Type:": "Si/C Li-Ion",
+    "Capacity:": "6500 mAh",
+    "Charging:": "90W wired, PD\nReverse wired\nBypass charging",
+    "Max charge speed:": "Wired: 90W"
+  },
+  "Display": {
+    "Size:": "6.59 inches",
+    "Features:": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+    "Resolution:": "1260 x 2750 pixels, 19.5:9 ratio (~459 ppi density)",
+    "Technology:": "AMOLED",
+    "Refresh rate:": "120Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / CDMA / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 16, OriginOS 6",
+    "GPU:": "Adreno 735",
+    "RAM:": "12GB",
+    "Processor:": "Qualcomm SM8635 Snapdragon 8s Gen 3 (4 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "256GB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0, OTG",
+    "Other:": "NFC, Infrared",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+    "Sensors:": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+    "Features:": "USB Type-C 2.0, OTG",
+    "Location:": "GPS, GALILEO, GLONASS, QZSS, BDS (B1I+B1c)",
+    "Bluetooth:": "5.4, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless, LHDC 5"
+  }
+}

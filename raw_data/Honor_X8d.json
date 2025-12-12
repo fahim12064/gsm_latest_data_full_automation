@@ -1,0 +1,80 @@
+{
+  "url": "https://www.gsmarena.com/honor_x8d-14351.php",
+  "name": "Honor X8d",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x8d.jpg",
+  "highlights": [
+    "Exp. release 2025, December\n188g, 7.5mm thickness\nAndroid 15, MagicOS 10\n128GB/256GB storage, microSDXC",
+    "39%\n11,081 HITS",
+    "10\nBECOME A FAN",
+    "6.77\"\n1080x2392 pixels",
+    "108MP\n1080p",
+    "8GB RAM\nSnapdragon 6s 4G Gen 2",
+    "7000mAh\n45W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+      "4G bands": "LTE",
+      "Speed": "HSPA, LTE"
+    },
+    "LAUNCH": {
+      "Announced": "2025, December",
+      "Status": "Coming soon. Exp. release 2025, December"
+    },
+    "BODY": {
+      "Dimensions": "162.9 x 76.3 x 7.5 mm (6.41 x 3.00 x 0.30 in)",
+      "Weight": "188 g (6.63 oz)",
+      "Build": "Glass front, plastic frame, plastic back",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP65 dust tight and water resistant (low pressure water jets)"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 1B colors, 120Hz",
+      "Size": "6.77 inches, 110.9 cm2 (~89.2% screen-to-body ratio)",
+      "Resolution": "1080 x 2392 pixels (~388 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 15, MagicOS 10",
+      "Chipset": "Qualcomm Snapdragon 6s 4G Gen 2",
+      "CPU": "Octa-core (4x2.9 GHz Cortex-A73 & 4x1.9 GHz Cortex-A53)",
+      "GPU": "Adreno"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC",
+      "Internal": "128GB 8GB RAM, 256GB 8GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Dual": "108 MP, f/1.8, 24mm (wide), 1/1.67\", PDAF, OIS\n5 MP, f/2.2, (ultrawide)",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "1080p@30fps, gyro-EIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "16 MP, (wide)",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+      "Bluetooth": "5.0, A2DP, LE",
+      "Positioning": "GPS, GLONASS, GALILEO, BDS",
+      "NFC": "Yes (market/region dependent)",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, compass, proximity (ultrasonic)"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Po 7000 mAh",
+      "Charging": "45W wired"
+    },
+    "MISC": {
+      "Colors": "Black, Gray, Blue"
+    }
+  }
+}

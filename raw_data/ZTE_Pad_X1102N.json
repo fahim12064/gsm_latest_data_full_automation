@@ -1,0 +1,81 @@
+{
+  "url": "https://www.gsmarena.com/zte_pad_5g_x1102n-14354.php",
+  "name": "ZTE Pad X1102N",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-pad-5g-x1102n.jpg",
+  "highlights": [
+    "Released 2025, November 14\n521.5g, 7.7mm thickness\nAndroid 15\n256GB storage, no card slot",
+    "0.7%\n222 HITS",
+    "0\nBECOME A FAN",
+    "11.0\"\n1200x1920 pixels",
+    "13MP\n1080p",
+    "6GB RAM\nUnisoc T8100",
+    "7670mAh\n21W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2025, November",
+      "Status": "Available. Released 2025, November 14"
+    },
+    "BODY": {
+      "Dimensions": "256.9 x 168.4 x 7.7 mm (10.11 x 6.63 x 0.30 in)",
+      "Weight": "521.5 g (1.15 lb)",
+      "Build": "Glass front, aluminum frame, aluminum back",
+      "SIM": "Nano-SIM"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 90Hz",
+      "Size": "11.0 inches, 350.9 cm2 (~81.1% screen-to-body ratio)",
+      "Resolution": "1200 x 1920 pixels, 16:10 ratio (~206 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 15",
+      "Chipset": "Unisoc T8100 (6 nm)",
+      "CPU": "Octa-core (4x2.2 GHz Cortex-A76 & 4x2.0 GHz Cortex-A55)",
+      "GPU": "Mali-G57"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 6GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Single": "13 MP",
+      "Features": "LED flash",
+      "Video": "Yes"
+    },
+    "SELFIE CAMERA": {
+      "Single": "5 MP",
+      "Video": "Yes"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers (4 speakers)",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+      "Bluetooth": "5.2, A2DP, LE",
+      "Positioning": "GPS, GLONASS, GALILEO, BDS",
+      "NFC": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C, magnetic accessory connector pins"
+    },
+    "FEATURES": {
+      "Sensors": "Unspecified"
+    },
+    "BATTERY": {
+      "Type": "Li-Ion 7670 mAh",
+      "Charging": "21W wired, PD"
+    },
+    "MISC": {
+      "Colors": "Black",
+      "Price": "About 230 EUR"
+    }
+  }
+}

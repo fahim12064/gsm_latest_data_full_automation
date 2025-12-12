@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "108 MP, f/1.8, 24mm (wide), 1/1.67\", PDAF, OIS",
+    "Flash:": "LED flash, HDR, panorama",
+    "Front:": "16 MP, (wide)",
+    "Folded:": "",
+    "Main camera:": "108 MP, f/1.8, 24mm (wide), 1/1.67\", PDAF, OIS",
+    "Second camera:": "5 MP, f/2.2, (ultrawide)",
+    "Third camera:": "",
+    "Specifications:": "Aperture size: F/1.8 Focal Length: 24mm",
+    "Video recording:": "1080p@30fps, gyro-EIS"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Black, Gray, Blue",
+    "Folded:": "",
+    "Weight:": "188 g (6.63 oz)",
+    "Materials:": "Glass front, plastic frame, plastic back",
+    "Biometrics:": "Fingerprint (under display, optical), accelerometer, gyro, compass, proximity (ultrasonic)",
+    "Dimensions:": "162.9 x 76.3 x 7.5 mm (6.41 x 3.00 x 0.30 in)",
+    "Resistance:": "IP65 dust tight and water resistant (low pressure water jets)"
+  },
+  "Battery": {
+    "Type:": "Si/C Li-Po",
+    "Capacity:": "7000 mAh",
+    "Charging:": "45W wired",
+    "Max charge speed:": "Wired: 45W"
+  },
+  "Display": {
+    "Size:": "6.77 inches",
+    "Features:": "Fingerprint (under display, optical), accelerometer, gyro, compass, proximity (ultrasonic)",
+    "Resolution:": "1080 x 2392 pixels (~388 ppi density)",
+    "Technology:": "AMOLED",
+    "Refresh rate:": "120Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 15, MagicOS 10",
+    "GPU:": "Adreno",
+    "RAM:": "8GB",
+    "Processor:": "Qualcomm Snapdragon 6s 4G Gen 2",
+    "Device type:": "Smartphone",
+    "Internal storage:": "128GB (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0, OTG",
+    "Other:": "NFC",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+    "Sensors:": "Fingerprint (under display, optical), accelerometer, gyro, compass, proximity (ultrasonic)",
+    "Features:": "USB Type-C 2.0, OTG",
+    "Location:": "GPS, GLONASS, GALILEO, BDS",
+    "Bluetooth:": "5.0, A2DP, LE"
+  }
+}
