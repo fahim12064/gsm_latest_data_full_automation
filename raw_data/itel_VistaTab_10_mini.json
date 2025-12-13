@@ -1,0 +1,77 @@
+{
+  "url": "https://www.gsmarena.com/itel_vistatab_10_mini-14355.php",
+  "name": "itel VistaTab 10 mini",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/itel-vistatab-10-mini.jpg",
+  "highlights": [
+    "Released 2025, September\n\nAndroid 14\n64GB storage, microSDXC",
+    "9.2%\n2,436 HITS",
+    "1\nBECOME A FAN",
+    "8.0\"\n800x1280 pixels",
+    "5MP\n720p",
+    "3GB RAM\nMT8768",
+    "5100mAh\n10W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "No cellular connectivity",
+      "2G bands": "N/A",
+      "3G bands": "N/A",
+      "GPRS": "No",
+      "EDGE": "No"
+    },
+    "LAUNCH": {
+      "Announced": "2025, September 19",
+      "Status": "Available. Released 2025, September"
+    },
+    "BODY": {
+      "Dimensions": "9.6 mm thickness",
+      "Weight": "-",
+      "SIM": "No"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 400 nits",
+      "Size": "8.0 inches, 185.6 cm2",
+      "Resolution": "800 x 1280 pixels, 16:10 ratio (~189 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 14 (Go edition)",
+      "Chipset": "Mediatek MT8768 (12 nm)",
+      "CPU": "Octa-core"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC",
+      "Internal": "64GB 3GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Single": "5 MP",
+      "Features": "LED flash",
+      "Video": "Yes"
+    },
+    "SELFIE CAMERA": {
+      "Single": "5 MP",
+      "Video": "Yes"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with dual speakers",
+      "3.5mm jack": "Yes"
+    },
+    "COMMS": {
+      "WLAN": "Yes",
+      "Bluetooth": "Yes",
+      "Positioning": "No",
+      "NFC": "No",
+      "Radio": "Unspecified",
+      "USB": "USB Type-C"
+    },
+    "FEATURES": {
+      "Sensors": ""
+    },
+    "BATTERY": {
+      "Type": "5100 mAh",
+      "Charging": "10W wired"
+    },
+    "MISC": {
+      "Colors": "Gray"
+    }
+  }
+}

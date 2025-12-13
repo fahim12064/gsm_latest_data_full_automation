@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "5 MP",
+    "Flash:": "LED flash",
+    "Front:": "5 MP",
+    "Folded:": "",
+    "Main camera:": "5 MP",
+    "Second camera:": "",
+    "Third camera:": "",
+    "Specifications:": "",
+    "Video recording:": "Yes"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Gray",
+    "Folded:": "",
+    "Weight:": "-",
+    "Materials:": "",
+    "Biometrics:": "",
+    "Dimensions:": "9.6 mm thickness",
+    "Resistance:": ""
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "5100 mAh",
+    "Charging:": "10W wired",
+    "Max charge speed:": "Wired: 10W"
+  },
+  "Display": {
+    "Size:": "8.0 inches",
+    "Features:": "",
+    "Resolution:": "800 x 1280 pixels, 16:10 ratio (~189 ppi density)",
+    "Technology:": "IPS LCD",
+    "Refresh rate:": "",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "No cellular connectivity",
+    "2G bands:": "N/A",
+    "3G bands:": "N/A",
+    "4G bands:": "",
+    "5G bands:": "",
+    "SIM type:": "No"
+  },
+  "Hardware": {
+    "OS:": "Android 14 (Go edition)",
+    "GPU:": "",
+    "RAM:": "3GB",
+    "Processor:": "Mediatek MT8768 (12 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "64GB (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with dual speakers",
+    "Headphones:": "Yes",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C",
+    "Other:": "NFC",
+    "Wi-Fi:": "Yes",
+    "Sensors:": "",
+    "Features:": "USB Type-C",
+    "Location:": "No",
+    "Bluetooth:": "Yes"
+  }
+}
