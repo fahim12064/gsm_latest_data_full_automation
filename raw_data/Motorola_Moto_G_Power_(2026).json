@@ -1,0 +1,85 @@
+{
+  "url": "https://www.gsmarena.com/motorola_moto_g_power_5g_(2026)-14359.php",
+  "name": "Motorola Moto G Power (2026)",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g-power-2026.jpg",
+  "highlights": [
+    "Exp. release 2026, January 08\n208g, 8.7mm thickness\nAndroid 16\n128GB storage, microSDXC",
+    "53%\n15,688 HITS",
+    "10\nBECOME A FAN",
+    "6.8\"\n1080x2388 pixels",
+    "50MP\n1080p",
+    "8GB RAM\nDimensity 6300",
+    "5200mAh\n30W15W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 20, 25, 26, 28, 29, 30, 38, 39, 40, 41, 48, 66, 71",
+      "5G bands": "2, 5, 7, 12, 14, 25, 26, 29, 30, 41, 48, 66, 70, 71, 77, 78 SA/NSA/Sub6",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2025, December 16",
+      "Status": "Coming soon. Exp. release 2026, January 08"
+    },
+    "BODY": {
+      "Dimensions": "166.6 x 77.1 x 8.7 mm (6.56 x 3.04 x 0.34 in)",
+      "Weight": "208 g (7.34 oz)",
+      "Build": "Glass front (Gorilla Glass 7i), silicone polymer (eco leather) back, plastic frame",
+      "SIM": "Nano-SIM + eSIM",
+      "": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\nMIL-STD-810H compliant*\n* does not guarantee ruggedness or use in extreme conditions"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 120Hz, 1000 nits (HBM)",
+      "Size": "6.8 inches, 110.9 cm2 (~86.3% screen-to-body ratio)",
+      "Resolution": "1080 x 2388 pixels (~387 ppi density)",
+      "Protection": "Corning Gorilla Glass 7i"
+    },
+    "PLATFORM": {
+      "OS": "Android 16",
+      "Chipset": "Mediatek Dimensity 6300 (6 nm)",
+      "CPU": "Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+      "GPU": "Mali-G57 MC2"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC (dedicated slot)",
+      "Internal": "128GB 8GB RAM",
+      "": "UFS 2.2"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, f/1.8, (wide), 1/2.88\", 0.61µm, PDAF, OIS\n8 MP, f/2.2, 119˚ 13mm (ultrawide), 1.12µm, AF",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "1080p@30/60fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "32 MP, f/2.5, (wide)",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers (with Dolby Atmos)",
+      "3.5mm jack": "Yes",
+      "": "24-bit/192kHz Hi-Res audio"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+      "Bluetooth": "Yes",
+      "Positioning": "GPS, GALILEO, GLONASS",
+      "NFC": "Yes",
+      "Radio": "FM radio",
+      "USB": "USB Type-C 2.0"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer"
+    },
+    "BATTERY": {
+      "Type": "5200 mAh",
+      "Charging": "30W wired\n15W wireless"
+    },
+    "MISC": {
+      "Colors": "Pantone: Evening Blue, Pure Cashmere",
+      "Price": "About 250 EUR"
+    }
+  }
+}

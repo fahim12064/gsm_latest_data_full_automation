@@ -1,0 +1,81 @@
+{
+  "url": "https://www.gsmarena.com/honor_power_2_5g-14364.php",
+  "name": "Honor Power 2",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-power.jpg",
+  "highlights": [
+    "Not announced yet\n\nAndroid 16, MagicOS 10\n256GB/512GB storage, no card slot",
+    "1.9%\n571 HITS",
+    "3\nBECOME A FAN",
+    "6.78\"\n1224x2700 pixels",
+    "50MP\n2160p",
+    "8/12GB RAM\nDimensity 8500",
+    "10080mAh\n80W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "Manufacturer-rated water-resistant (up to 50cm for 1 min)"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 1B colors, 120Hz, HDR, 4000 nits (peak)",
+      "Size": "6.78 inches, 111.5 cm2",
+      "Resolution": "1224 x 2700 pixels (~437 ppi density)",
+      "Protection": "Scratch/drop-resistant glass"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, MagicOS 10",
+      "Chipset": "Mediatek Dimensity 8500",
+      "CPU": "Octa-core"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, f/2.0, (wide), 1/1.56\", 1.0µm, PDAF, OIS\n5 MP, (ultrawide)",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "4K@30fps, 1080p@30fps, gyro-EIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "16 MP, f/2.5, (wide)",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+      "Bluetooth": "5.4, A2DP, LE, aptX HD",
+      "Positioning": "GPS (L1+L5), GLONASS, BDS (B1I+B1c+B2a), GALILEO (E5a+E5b), QZSS (L1+L5), NavIC (L1+L5)",
+      "NFC": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, compass, proximity (ultrasonic)",
+      "": "Satellite connectivity support (messaging only) - 512 GB model only"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 10080 mAh",
+      "Charging": "80W wired\n5W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Black, White, Orange"
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "url": "https://www.gsmarena.com/motorola_edge_70_ultra_5g-14362.php",
+  "name": "Motorola Edge 70 Ultra",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-edge-70-ultra-.jpg",
+  "highlights": [
+    "Not announced yet\n\nAndroid 16, up to 5 major Android upgrades\n512GB/1TB storage, no card slot",
+    "14%\n4,608 HITS",
+    "13\nBECOME A FAN",
+    "6.7\"\n1220x2712 pixels",
+    "50MP\n2160p",
+    "16GB RAM\nSnapdragon 8 Gen 5",
+    "125W50W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA/Sub6",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "Build": "Glass front (Gorilla Glass Victus 2), wooden back or silicone polymer back (eco leather), aluminum frame",
+      "SIM": "Nano-SIM + eSIM",
+      "": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "P-OLED, 1B colors, 144Hz, HDR10+",
+      "Size": "6.7 inches, 108.4 cm2",
+      "Resolution": "1220 x 2712 pixels, 20:9 ratio (~444 ppi density)",
+      "Protection": "Corning Gorilla Glass Victus 2"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, up to 5 major Android upgrades",
+      "Chipset": "Qualcomm Snapdragon 8 Gen 5",
+      "CPU": "Octa-core (2x3.84 GHz Cortex-A76 & 6xX.x GHz)",
+      "GPU": "Adreno"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "512GB 16GB RAM, 1TB 16GB RAM",
+      "": "UFS 4.1"
+    },
+    "MAIN CAMERA": {
+      "Triple": "50 MP, 23mm (wide), multi-directional PDAF, OIS\n50 MP, 71mm (periscope telephoto), PDAF, OIS, 3x optical zoom\n50 MP, f/2.0, 12mm, 122˚ (ultrawide), 1/2.76\", 0.64µm, PDAF",
+      "Features": "Laser AF, Dual-LED flash, HDR, panorama",
+      "Video": "4K@30/60fps, 1080p@30/60/120/240/960fps, 10-bit HDR10+, gyro-EIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "50 MP, f/1.9, 21mm (wide), 1/2.76\", 0.64µm, PDAF",
+      "Features": "HDR",
+      "Video": "4K@30/60fps, 1080p@30/60/120fps, HDR"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No",
+      "": "Snapdragon Sound"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct",
+      "Bluetooth": "6.0, A2DP, LE",
+      "Positioning": "GPS, GLONASS, GALILEO, BDS, NavIC",
+      "NFC": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 3.1 Gen2, OTG, DisplayPort 1.4"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass",
+      "": "Smart Connect (Ready For) support\nUltra Wideband (UWB) support"
+    },
+    "BATTERY": {
+      "Type": "",
+      "Charging": "125W wired\n50W wireless\n10W reverse wireless"
+    },
+    "MISC": {
+      "Colors": "Pantone: Carbon, Martini Olive"
+    }
+  }
+}

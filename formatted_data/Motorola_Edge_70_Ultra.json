@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP, 23mm (wide), multi-directional PDAF, OIS",
+    "Flash:": "Laser AF, Dual-LED flash, HDR, panorama",
+    "Front:": "50 MP, f/1.9, 21mm (wide), 1/2.76\", 0.64µm, PDAF",
+    "Folded:": "",
+    "Main camera:": "50 MP, 23mm (wide), multi-directional PDAF, OIS",
+    "Second camera:": "50 MP, 71mm (periscope telephoto), PDAF, OIS, 3x optical zoom",
+    "Third camera:": "50 MP, f/2.0, 12mm, 122˚ (ultrawide), 1/2.76\", 0.64µm, PDAF",
+    "Specifications:": "Focal Length: 23mm",
+    "Video recording:": "4K@30/60fps, 1080p@30/60/120/240/960fps, 10-bit HDR10+, gyro-EIS"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Pantone: Carbon, Martini Olive",
+    "Folded:": "",
+    "Weight:": "-",
+    "Materials:": "Glass front (Gorilla Glass Victus 2), wooden back or silicone polymer back (eco leather), aluminum frame",
+    "Biometrics:": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass",
+    "Dimensions:": "-",
+    "Resistance:": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "",
+    "Charging:": "125W wired\n50W wireless\n10W reverse wireless",
+    "Max charge speed:": "Wired: 125WWireless: 50W"
+  },
+  "Display": {
+    "Size:": "6.7 inches",
+    "Features:": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass",
+    "Resolution:": "1220 x 2712 pixels, 20:9 ratio (~444 ppi density)",
+    "Technology:": "P-OLED",
+    "Refresh rate:": "144Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA/Sub6",
+    "SIM type:": "Nano-SIM + eSIM"
+  },
+  "Hardware": {
+    "OS:": "Android 16, up to 5 major Android upgrades",
+    "GPU:": "Adreno",
+    "RAM:": "16GB",
+    "Processor:": "Qualcomm Snapdragon 8 Gen 5",
+    "Device type:": "Smartphone",
+    "Internal storage:": "512GB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 3.1 Gen2, OTG, DisplayPort 1.4",
+    "Other:": "NFC",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct",
+    "Sensors:": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass",
+    "Features:": "USB Type-C 3.1 Gen2, OTG, DisplayPort 1.4",
+    "Location:": "GPS, GLONASS, GALILEO, BDS, NavIC",
+    "Bluetooth:": "6.0, A2DP, LE"
+  }
+}
