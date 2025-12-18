@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP, f/1.8, 24mm (wide), 1/1.56\", 1.0µm, PDAF, OIS",
+    "Flash:": "Color spectrum sensor, LED flash, HDR, panorama",
+    "Front:": "32 MP, f/2.0, 25mm (wide)",
+    "Folded:": "",
+    "Main camera:": "50 MP, f/1.8, 24mm (wide), 1/1.56\", 1.0µm, PDAF, OIS",
+    "Second camera:": "8 MP, f/2.2, 16mm, 112˚ (ultrawide), 1/4.0\", 1.12µm",
+    "Third camera:": "",
+    "Specifications:": "Aperture size: F/1.8 Focal Length: 24mm",
+    "Video recording:": "4K@30/60/120fps, 1080p@30/60/120/240fps, gyro-EIS, OIS"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Charcoal Black, Mint Breeze, Electric Violet",
+    "Folded:": "",
+    "Weight:": "213 g or 219 g (7.51 oz)",
+    "Materials:": "Glass front (Gorilla Glass 7i), aluminum alloy frame, glass back or fiber-reinforced plastic back",
+    "Biometrics:": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass",
+    "Dimensions:": "163.4 x 77 x 8.1 mm or 8.3 mm",
+    "Resistance:": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\nMicro-Arc Oxidation ceramic-like coating on the back"
+  },
+  "Battery": {
+    "Type:": "Si/C Li-Ion",
+    "Capacity:": "7400 mAh",
+    "Charging:": "80W wired",
+    "Max charge speed:": "Wired: 80W"
+  },
+  "Display": {
+    "Size:": "6.83 inches",
+    "Features:": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass",
+    "Resolution:": "1272 x 2800 pixels (~450 ppi density)",
+    "Technology:": "AMOLED",
+    "Refresh rate:": "165Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "3600 cd/m2 (nit)",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 800 / 850 / 900 / 1700(AWS) / 2100",
+    "4G bands:": "1, 3, 4, 5, 8, 18, 19, 26, 28, 34, 38, 39, 40, 41, 42, 48, 66",
+    "5G bands:": "1, 3, 5, 8, 26, 28, 38, 40, 41, 48, 66, 77, 78 SA/NSA",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 16, OxygenOS 16",
+    "GPU:": "Adreno",
+    "RAM:": "12GB",
+    "Processor:": "Qualcomm Snapdragon 8 Gen 5",
+    "Device type:": "Smartphone",
+    "Internal storage:": "256GB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0, OTG",
+    "Other:": "NFC, Infrared",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band",
+    "Sensors:": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass",
+    "Features:": "USB Type-C 2.0, OTG",
+    "Location:": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5)",
+    "Bluetooth:": "6.0, A2DP, LE, aptX HD, LHDC 5"
+  }
+}

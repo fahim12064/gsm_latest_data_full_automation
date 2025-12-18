@@ -1,0 +1,72 @@
+{
+  "url": "https://www.gsmarena.com/oneplus_watch_3_lite-14365.php",
+  "name": "OnePlus Watch 3 Lite",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-watch-3-lite.jpg",
+  "highlights": [
+    "Exp. release 2025, December 24\n35g, 8.9mm thickness\nOxygenOS Watch 7.1\n4GB storage, no card slot",
+    "1.1%\n327 HITS",
+    "0\nBECOME A FAN",
+    "1.46\"\n464x464 pixels",
+    "NO",
+    "",
+    "339mAh"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "No cellular connectivity",
+      "2G bands": "N/A",
+      "3G bands": "N/A",
+      "4G bands": "N/A",
+      "GPRS": "No",
+      "EDGE": "No"
+    },
+    "LAUNCH": {
+      "Announced": "2025, December 17",
+      "Status": "Coming soon. Exp. release 2025, December 24"
+    },
+    "BODY": {
+      "Dimensions": "45 x 45 x 8.9 mm (1.77 x 1.77 x 0.35 in)",
+      "Weight": "35 g (1.23 oz)",
+      "Build": "Glass front, stainless steel frame, plastic back",
+      "SIM": "No",
+      "": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)\n5ATM waterproof"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 1500 nits (HBM), 3000 nits (peak)",
+      "Size": "1.46 inches",
+      "Resolution": "464 x 464 pixels (~317 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "OxygenOS Watch 7.1"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "4GB"
+    },
+    "CAMERA": {
+      "": "No"
+    },
+    "SOUND": {
+      "Loudspeaker": "No",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "No",
+      "Bluetooth": "5.2, A2DP, LE",
+      "Positioning": "GPS (L1+L5), GLONASS, BDS, GALILEO",
+      "NFC": "Yes (not for payments)",
+      "Radio": "No",
+      "USB": "No"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer, gyro, heart rate, SpO2, compass, barometer, thermometer (skin temperature)"
+    },
+    "BATTERY": {
+      "Type": "Li-Ion 339 mAh"
+    },
+    "MISC": {
+      "Colors": "Black Steel, Silver Steel",
+      "Price": "About 180 EUR"
+    }
+  }
+}
