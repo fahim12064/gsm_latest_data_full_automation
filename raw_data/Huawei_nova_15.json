@@ -1,0 +1,86 @@
+{
+  "url": "https://www.gsmarena.com/huawei_nova_15_5g-14372.php",
+  "name": "Huawei nova 15",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-nova15.jpg",
+  "highlights": [
+    "Released 2025, December 22\n196g, 7.2mm thickness\nHarmonyOS 6.0\n256GB/512GB storage, no card slot",
+    "5.6%\n1,437 HITS",
+    "2\nBECOME A FAN",
+    "6.7\"\n1084x2412 pixels",
+    "50MP\n2160p",
+    "12GB RAM\nKirin 8020",
+    "6000mAh\n100W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "": "CDMA2000 1x",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2025, December 22",
+      "Status": "Available. Released 2025, December 22"
+    },
+    "BODY": {
+      "Dimensions": "161.9 x 75.5 x 7.2 mm (6.37 x 2.97 x 0.28 in)",
+      "Weight": "196 g (6.91 oz)",
+      "Build": "Glass front, plastic frame, aluminum back",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP65 dust tight and water resistant (low pressure water jets)"
+    },
+    "DISPLAY": {
+      "Type": "LTPO OLED, 1B colors, HDR Vivid, 120Hz, 2160Hz PWM",
+      "Size": "6.7 inches, 108.3 cm2 (~88.6% screen-to-body ratio)",
+      "Resolution": "1084 x 2412 pixels, 20:9 ratio (~395 ppi density)",
+      "Protection": "Aluminosilicate glass"
+    },
+    "PLATFORM": {
+      "OS": "HarmonyOS 6.0",
+      "Chipset": "Kirin 8020"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 512GB 12GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, f/1.9, 23mm (wide), 1/1.56\", Dual Pixel PDAF\n12 MP, f/2.4, 69mm (telephoto), PDAF, OIS, 3x optical zoom",
+      "Features": "Color spectrum sensor, LED flash, panorama, HDR",
+      "Video": "4K, 1080p, gyro-EIS, HDR Vivid"
+    },
+    "SELFIE CAMERA": {
+      "Single": "50 MP, f/2.4, (ultrawide), 1/2.5\"",
+      "Features": "HDR, panorama",
+      "Video": "4K, 1080p, gyro-EIS, HDR Vivid"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+      "Bluetooth": "6.0, A2DP, LE, L2HC (320-960 kbps HD audio)",
+      "Positioning": "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), GLONASS, NavIC",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, compass",
+      "": "Virtual proximity sensing"
+    },
+    "BATTERY": {
+      "Type": "6000 mAh",
+      "Charging": "100W wired, SCP, UFCS, PD, PPS, QC\n5W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Black, White, Purple, Green",
+      "Models": "PSN-AL00",
+      "Price": "About 330 EUR"
+    }
+  }
+}

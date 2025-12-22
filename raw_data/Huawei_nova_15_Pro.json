@@ -1,0 +1,86 @@
+{
+  "url": "https://www.gsmarena.com/huawei_nova_15_pro_5g-14371.php",
+  "name": "Huawei nova 15 Pro",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-nova15-pro.jpg",
+  "highlights": [
+    "Exp. release 2025, December 27\n202g, 6.9mm thickness\nHarmonyOS 6.0\n256GB/512GB storage, no card slot",
+    "6.5%\n3,293 HITS",
+    "5\nBECOME A FAN",
+    "6.84\"\n1320x2856 pixels",
+    "50MP\n2160p",
+    "Kirin 9010S",
+    "6500mAh\n100W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "": "CDMA2000 1x",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2025, December 22",
+      "Status": "Coming soon. Exp. release 2025, December 27"
+    },
+    "BODY": {
+      "Dimensions": "163 x 78 x 6.9 mm (6.42 x 3.07 x 0.27 in)",
+      "Weight": "202 g (7.13 oz)",
+      "Build": "Glass front, aluminum alloy frame, aluminum back",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP65 dust tight and water resistant (low pressure water jets)"
+    },
+    "DISPLAY": {
+      "Type": "LTPO OLED, 1B colors, HDR Vivid, 120Hz, 2160Hz PWM, 4000 nits (peak)",
+      "Size": "6.84 inches, 115.0 cm2 (~90.4% screen-to-body ratio)",
+      "Resolution": "1320 x 2856 pixels, 19.5:9 ratio (~460 ppi density)",
+      "Protection": "Aluminosilicate glass (256GB only); Kunlun Glass edition"
+    },
+    "PLATFORM": {
+      "OS": "HarmonyOS 6.0",
+      "Chipset": "Kirin 9010S"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB, 512GB"
+    },
+    "MAIN CAMERA": {
+      "Triple": "50 MP, f/1.8, 24mm (wide), PDAF, OIS\n12 MP, f/2.4, 69mm (telephoto), PDAF, OIS, 3x optical zoom\n13 MP, f/2.2, 13mm, 120˚ (ultrawide), AF",
+      "Features": "Laser AF, color spectrum sensor, Dual-LED flash, panorama, HDR",
+      "Video": "4K, 1080p, gyro-EIS, HDR Vivid"
+    },
+    "SELFIE CAMERA": {
+      "Single": "50 MP, f/2.0, (ultrawide), 1/2.5\", Dual Pixel PDAF",
+      "Features": "HDR, panorama",
+      "Video": "4K, 1080p, gyro-EIS, HDR Vivid"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+      "Bluetooth": "6.0, A2DP, LE, L2HC (320-960 kbps HD audio)",
+      "Positioning": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, compass",
+      "": "Virtual proximity sensing"
+    },
+    "BATTERY": {
+      "Type": "6500 mAh",
+      "Charging": "100W wired, SCP, UFCS, PD, PPS, QC\n5W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Black, White, Purple, Green",
+      "Models": "KLE-AL00U",
+      "Price": "About 430 EUR"
+    }
+  }
+}

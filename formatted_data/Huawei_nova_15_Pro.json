@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP, f/1.8, 24mm (wide), PDAF, OIS",
+    "Flash:": "Laser AF, color spectrum sensor, Dual-LED flash, panorama, HDR",
+    "Front:": "50 MP, f/2.0, (ultrawide), 1/2.5\", Dual Pixel PDAF",
+    "Folded:": "",
+    "Main camera:": "50 MP, f/1.8, 24mm (wide), PDAF, OIS",
+    "Second camera:": "12 MP, f/2.4, 69mm (telephoto), PDAF, OIS, 3x optical zoom",
+    "Third camera:": "13 MP, f/2.2, 13mm, 120˚ (ultrawide), AF",
+    "Specifications:": "Aperture size: F/1.8 Focal Length: 24mm",
+    "Video recording:": "4K, 1080p, gyro-EIS, HDR Vivid"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Black, White, Purple, Green",
+    "Folded:": "",
+    "Weight:": "202 g (7.13 oz)",
+    "Materials:": "Glass front, aluminum alloy frame, aluminum back",
+    "Biometrics:": "Fingerprint (under display, optical), accelerometer, gyro, compass",
+    "Dimensions:": "163 x 78 x 6.9 mm (6.42 x 3.07 x 0.27 in)",
+    "Resistance:": "IP65 dust tight and water resistant (low pressure water jets)"
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "6500 mAh",
+    "Charging:": "100W wired, SCP, UFCS, PD, PPS, QC\n5W reverse wired",
+    "Max charge speed:": "Wired: 100W"
+  },
+  "Display": {
+    "Size:": "6.84 inches",
+    "Features:": "Fingerprint (under display, optical), accelerometer, gyro, compass",
+    "Resolution:": "1320 x 2856 pixels, 19.5:9 ratio (~460 ppi density)",
+    "Technology:": "LTPO OLED",
+    "Refresh rate:": "120Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "4000 cd/m2 (nit)",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "HarmonyOS 6.0",
+    "GPU:": "",
+    "RAM:": "",
+    "Processor:": "Kirin 9010S",
+    "Device type:": "Smartphone",
+    "Internal storage:": "256GB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0, OTG",
+    "Other:": "NFC, Infrared",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+    "Sensors:": "Fingerprint (under display, optical), accelerometer, gyro, compass",
+    "Features:": "USB Type-C 2.0, OTG",
+    "Location:": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC",
+    "Bluetooth:": "6.0, A2DP, LE, L2HC (320-960 kbps HD audio)"
+  }
+}
