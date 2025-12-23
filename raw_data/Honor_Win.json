@@ -1,0 +1,80 @@
+{
+  "url": "https://www.gsmarena.com/honor_win_5g-14377.php",
+  "name": "Honor Win",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-win.jpg",
+  "highlights": [
+    "Not announced yet\n\nAndroid 16, MagicOS 10\n256GB/512GB/1TB storage, no card slot",
+    "N/A\n2,922 HITS",
+    "11\nBECOME A FAN",
+    "6.83\"\n1260x2800 pixels",
+    "50MP\n2160p",
+    "12/16GB RAM\nSnapdragon 8 Elite Gen 5",
+    "10000mAh\n100W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "SIM": "Nano-SIM + Nano-SIM"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 1B colors, 160Hz, 5920Hz PWM, HDR",
+      "Size": "6.83 inches, 112.6 cm2",
+      "Resolution": "1260 x 2800 pixels, 20:9 ratio (~450 ppi density)",
+      "Protection": "Scratch/drop-resistant glass"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, MagicOS 10",
+      "Chipset": "Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm)",
+      "CPU": "Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M)",
+      "GPU": "Adreno 840"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Triple": "50 MP, f/2.0, (wide), 1/1.56\", 1.0µm, PDAF, OIS\n50 MP, f/2.4, (telephoto), 1/2.0\", 0.8µm, PDAF, OIS, 3x optical zoom\n12 MP, (ultrawide)",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "4K@30fps, 1080p@30fps, gyro-EIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "50 MP, (wide)",
+      "Video": "4K@30fps, 1080p@30fps, gyro-EIS"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+      "Bluetooth": "6.0, A2DP, LE, aptX HD",
+      "Positioning": "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E5a+E5b), QZSS (L1+L5), GLONASS, NavIC",
+      "NFC": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 10000 mAh",
+      "Charging": "100W wired\n5W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Black, White, Blue"
+    }
+  }
+}

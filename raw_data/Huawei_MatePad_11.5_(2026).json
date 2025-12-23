@@ -1,0 +1,84 @@
+{
+  "url": "https://www.gsmarena.com/huawei_matepad_11_5_(2026)-14375.php",
+  "name": "Huawei MatePad 11.5 (2026)",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-matepad-11-5-2025.jpg",
+  "highlights": [
+    "Exp. release 2025, December 25\n515g, 6.1mm thickness\nHarmony OS 5.1\n128GB/256GB storage, no card slot",
+    "3.8%\n1,555 HITS",
+    "1\nBECOME A FAN",
+    "11.5\"\n1600x2456 pixels",
+    "13MP\n1080p",
+    "8/12GB RAM\nKirin T82B",
+    "10100mAh\n40W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "No cellular connectivity",
+      "2G bands": "N/A",
+      "3G bands": "N/A",
+      "4G bands": "N/A",
+      "GPRS": "No",
+      "EDGE": "No"
+    },
+    "LAUNCH": {
+      "Announced": "2025, December 22",
+      "Status": "Coming soon. Exp. release 2025, December 25"
+    },
+    "BODY": {
+      "Dimensions": "262.6 x 177.5 x 6.1 mm (10.34 x 6.99 x 0.24 in)",
+      "Weight": "515 g (1.14 lb)",
+      "Build": "Glass front, aluminum frame, aluminum back",
+      "SIM": "No",
+      "": "Stylus support (magnetic)"
+    },
+    "DISPLAY": {
+      "Type": "TFT LCD, 120Hz, 600 nits (peak)",
+      "Size": "11.5 inches, 390.2 cm2 (~83.7% screen-to-body ratio)",
+      "Resolution": "1600 x 2456 pixels, 3:2 ratio (~255 ppi density)",
+      "": "Optional PaperMatte Edition display"
+    },
+    "PLATFORM": {
+      "OS": "Harmony OS 5.1",
+      "Chipset": "Kirin T82B",
+      "CPU": "12-core (2x2.29 GHz & 6x2.05 GHz & 4x1.31 GHz)",
+      "GPU": "Maleoon 920c"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Single": "13 MP, f/1.8, (wide), AF",
+      "Features": "Panorama",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "8 MP, f/2.2, 105˚ (ultrawide)",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers (4 speakers)",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+      "Bluetooth": "5.2, A2DP, LE, L2HC",
+      "Positioning": "No",
+      "NFC": "No",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0, OTG, magnetic accessory connector"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer, proximity (accessories only)"
+    },
+    "BATTERY": {
+      "Type": "10100 mAh",
+      "Charging": "40W wired\n5W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Violet, Gray, Silver, Blue",
+      "Models": "TXZ-W10",
+      "Price": "About 220 EUR"
+    }
+  }
+}

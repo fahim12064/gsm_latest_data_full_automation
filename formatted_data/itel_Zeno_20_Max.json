@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "13 MP, AF",
+    "Flash:": "LED flash, HDR, panorama",
+    "Front:": "5 MP",
+    "Folded:": "",
+    "Main camera:": "13 MP, AF",
+    "Second camera:": "Auxiliary lens",
+    "Third camera:": "",
+    "Specifications:": "",
+    "Video recording:": "1080p@30fps"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Starlit Black, Space Titanium, Aurora Blue",
+    "Folded:": "",
+    "Weight:": "-",
+    "Materials:": "",
+    "Biometrics:": "Fingerprint (side-mounted), accelerometer",
+    "Dimensions:": "-",
+    "Resistance:": "IP54 dust protected and water resistant (water splashes)\nDrop resistant up to 1.2m"
+  },
+  "Battery": {
+    "Type:": "Li-Ion",
+    "Capacity:": "5000 mAh",
+    "Charging:": "15W wired",
+    "Max charge speed:": "Wired: 15W"
+  },
+  "Display": {
+    "Size:": "6.6 inches",
+    "Features:": "Fingerprint (side-mounted), accelerometer",
+    "Resolution:": "720 x 1612 pixels, 20:9 ratio (~267 ppi density)",
+    "Technology:": "IPS LCD",
+    "Refresh rate:": "90Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "1500 cd/m2 (nit)",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 2100",
+    "4G bands:": "1, 3, 5, 8, 38, 40, 41",
+    "5G bands:": "",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 14 (Go edition), itel OS 14",
+    "GPU:": "PowerVR GE8322",
+    "RAM:": "3GB",
+    "Processor:": "Unisoc T7100",
+    "Device type:": "Smartphone",
+    "Internal storage:": "64GB (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes",
+    "Headphones:": "Yes",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0, OTG",
+    "Other:": "NFC",
+    "Wi-Fi:": "Yes",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer",
+    "Features:": "USB Type-C 2.0, OTG",
+    "Location:": "GPS",
+    "Bluetooth:": "Yes"
+  }
+}

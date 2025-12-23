@@ -1,0 +1,84 @@
+{
+  "url": "https://www.gsmarena.com/oppo_reno15_fs_5g-14373.php",
+  "name": "Oppo Reno15 FS",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/oppo-reno15.jpg",
+  "highlights": [
+    "Not announced yet\n189g, 8.1mm thickness\nAndroid 16, ColorOS 16\n256GB/512GB storage, microSDXC",
+    "18%\n5,055 HITS",
+    "6\nBECOME A FAN",
+    "6.57\"\n1080x2372 pixels",
+    "50MP\n2160p",
+    "8/12GB RAM\nSnapdragon 6 Gen 1",
+    "6500mAh\n80W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "158.2 x 74.9 x 8.1 mm (6.23 x 2.95 x 0.32 in)",
+      "Weight": "189 g (6.67 oz)",
+      "SIM": "· Nano-SIM + Nano-SIM\n· Nano-SIM + eSIM",
+      "": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 2m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 1B colors, 120Hz, 600 nits (typ), 1400 nits (HBM)",
+      "Size": "6.57 inches, 105.0 cm2 (~88.6% screen-to-body ratio)",
+      "Resolution": "1080 x 2372 pixels (~397 ppi density)",
+      "Protection": "AGC Dragontrail DT-Star D+"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, ColorOS 16",
+      "Chipset": "Qualcomm SM6450 Snapdragon 6 Gen 1 (4 nm)",
+      "CPU": "Octa-core (4x2.2 GHz Cortex-A78 & 4x1.8 GHz Cortex-A55)",
+      "GPU": "Adreno 710"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC",
+      "Internal": "256GB 8GB RAM, 256GB 12GB RAM, 512GB 8GB RAM, 512GB 12GB RAM",
+      "": "UFS"
+    },
+    "MAIN CAMERA": {
+      "Triple": "50 MP, f/1.8, 26mm (wide), 1/1.95\", 0.8µm, PDAF, OIS\n8 MP, f/2.2, 16mm, 112˚ (ultrawide), 1/4.0\", 1.12µm, AF\n2 MP (macro)",
+      "Features": "Color spectrum sensor, LED flash, HDR, panorama",
+      "Video": "4K@30fps, 1080p@30/60/120fps, gyro-EIS, OIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "50 MP, f/2.1, 100˚, 18mm (ultrawide), AF",
+      "Features": "Panorama",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+      "Bluetooth": "5.1, A2DP, LE, aptX HD, LHDC 5",
+      "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS",
+      "NFC": "Yes (market/region dependent)",
+      "Radio": "Unspecified",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "6500 mAh",
+      "Charging": "80W wired\nReverse wired"
+    },
+    "MISC": {
+      "Colors": "Aurora Blue; other colors",
+      "Price": "About 400 EUR"
+    }
+  }
+}
