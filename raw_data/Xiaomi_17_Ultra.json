@@ -1,0 +1,88 @@
+{
+  "url": "https://www.gsmarena.com/xiaomi_17_ultra_5g-14380.php",
+  "name": "Xiaomi 17 Ultra",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-17-ultra-.jpg",
+  "highlights": [
+    "Not announced yet\n227g, 8.3mm thickness\nAndroid 16, HyperOS 3\n256GB/512GB/1TB storage, no card slot",
+    "93%\n31,970 HITS",
+    "52\nBECOME A FAN",
+    "6.82\"\n1440x3200 pixels",
+    "200MP\n4320p",
+    "12/16GB RAM\nSnapdragon 8 Elite Gen 5",
+    "6800mAh\n100W80W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "8.3 mm thickness",
+      "Weight": "227 g (8.01 oz)",
+      "Build": "Glass front, fiber-reinforced plastic back or silicone polymer back (eco leather), aluminum frame",
+      "SIM": "· Nano-SIM + Nano-SIM\n· Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time)",
+      "": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)\nAerospace-grade glass fiber"
+    },
+    "DISPLAY": {
+      "Type": "LTPO AMOLED, 68B colors, 120Hz, 2160Hz PWM, Dolby Vision, HDR Vivid, HDR10+, 3500 nits (peak)",
+      "Size": "6.82 inches, 112.3 cm2 (~92.5% screen-to-body ratio)",
+      "Resolution": "1440 x 3200 pixels, 20:9 ratio (~515 ppi density)",
+      "Protection": "Xiaomi Shield Glass 2.0"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, HyperOS 3",
+      "Chipset": "Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm)",
+      "CPU": "Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M)",
+      "GPU": "Adreno 840"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM",
+      "": "UFS 4.1"
+    },
+    "MAIN CAMERA": {
+      "Triple": "50 MP, f/1.7, 23mm (wide), 1.0\"-type, 1.6µm, dual pixel PDAF, OIS\n200 MP, f/2.4-2.9, 75-100mm (periscope telephoto), 1/1.4\", 0.56µm, multi-directional PDAF, OIS, 3-4.3x continuous optical zoom\n50 MP, f/2.2, 14mm, 115˚ (ultrawide), 1/2.76\", 0.64µm, dual pixel PDAF\nTOF 3D, (depth)",
+      "Features": "Laser AF, color spectrum sensor, Leica lenses, Dual-LED flash, HDR, panorama, 67mm filter ring holder (optional)",
+      "Video": "8K@30fps, 4K@30/60/120fps, 1080p@30/60/120/240/480/960/1920fps, gyro-EIS, Dolby Vision HDR 10-bit rec. (4K@60fps, 1080p)"
+    },
+    "SELFIE CAMERA": {
+      "Single": "50 MP, (wide), 1/2.88\", 0.61µm",
+      "Features": "HDR, panorama",
+      "Video": "4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No",
+      "": "24-bit/192kHz Hi-Res & Hi-Res Wireless audio\nQualcomm XPAN (24-bit/96kHz audio)"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band or tri-band, Wi-Fi Direct",
+      "Bluetooth": "6.0, A2DP, LE, aptX HD, aptX Adaptive, LHDC 5",
+      "Positioning": "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 3.2 Gen 2, DisplayPort, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, proximity, gyro, compass, barometer",
+      "": "Two-way satellite communication"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 6800 mAh",
+      "Charging": "100W wired, PD3.0, QC3+\n80W wireless\n10W reverse wireless"
+    },
+    "MISC": {
+      "Colors": "Black, White, Starry Green",
+      "Models": "25128PNA1C"
+    }
+  }
+}
