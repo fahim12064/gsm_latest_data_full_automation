@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "8 MP",
+    "Flash:": "Color spectrum sensor, LED flash",
+    "Front:": "8 MP",
+    "Folded:": "",
+    "Main camera:": "8 MP",
+    "Second camera:": "",
+    "Third camera:": "",
+    "Specifications:": "",
+    "Video recording:": "1080p@30fps"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Gray, Pink",
+    "Folded:": "",
+    "Weight:": "597 g or 599 g (1.32 lb)",
+    "Materials:": "",
+    "Biometrics:": "Accelerometer, proximity (accessories only), compass (cellular model only)",
+    "Dimensions:": "266 x 192.8 x 6.8 mm (10.47 x 7.59 x 0.27 in)",
+    "Resistance:": "Stylus support"
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "10050 mAh",
+    "Charging:": "33W wired, 33W UFCS, 33W PPS, 13.5W PD",
+    "Max charge speed:": "Wired: 33W"
+  },
+  "Display": {
+    "Size:": "12.1 inches",
+    "Features:": "Accelerometer, proximity (accessories only), compass (cellular model only)",
+    "Resolution:": "1980 x 2800 pixels (~283 ppi density)",
+    "Technology:": "IPS LCD",
+    "Refresh rate:": "120Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900 - cellular model only",
+    "3G bands:": "HSDPA 850 / 900 / 1900 / 2100 - cellular model only",
+    "4G bands:": "LTE - cellular model only",
+    "5G bands:": "SA/NSA - cellular model only",
+    "SIM type:": "Nano-SIM - cellular model only"
+  },
+  "Hardware": {
+    "OS:": "Android 16, ColorOS 16",
+    "GPU:": "Mali-G615 MC2",
+    "RAM:": "8GB",
+    "Processor:": "Mediatek Dimensity 7300 Ultra (4 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "128GB (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers (4 speakers)",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0",
+    "Other:": "NFC",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+    "Sensors:": "Accelerometer, proximity (accessories only), compass (cellular model only)",
+    "Features:": "USB Type-C 2.0",
+    "Location:": "GPS, GLONASS, GALILEO, BDS, QZSS - cellular model only",
+    "Bluetooth:": "5.4, A2DP, LE, aptX HD"
+  }
+}
