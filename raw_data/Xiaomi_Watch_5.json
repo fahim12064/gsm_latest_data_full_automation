@@ -1,0 +1,75 @@
+{
+  "url": "https://www.gsmarena.com/xiaomi_watch_5-14383.php",
+  "name": "Xiaomi Watch 5",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-watch5.jpg",
+  "highlights": [
+    "Released 2025, December 26\n56g, 12.3mm thickness\nHyperOS 3\nNo card slot",
+    "9.8%\n4,883 HITS",
+    "8\nBECOME A FAN",
+    "1.54\"\n480x480 pixels",
+    "NO",
+    "Snapdragon W5 Gen 1",
+    "930mAh"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900 - cellular model only",
+      "3G bands": "HSDPA - cellular model only",
+      "4G bands": "LTE - cellular model only",
+      "Speed": "HSPA, LTE - cellular model only",
+      "GPRS": "No",
+      "EDGE": "No"
+    },
+    "LAUNCH": {
+      "Announced": "2025, December 26",
+      "Status": "Available. Released 2025, December 26"
+    },
+    "BODY": {
+      "Dimensions": "47 x 47 x 12.3 mm (1.85 x 1.85 x 0.48 in)",
+      "Weight": "56 g (1.98 oz)",
+      "Build": "Sapphire crystal front, stainless steel frame (316L)",
+      "SIM": "eSIM (market/region dependent) - cellular model only",
+      "": "Waterproof (5ATM)\nECG certified"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 1500 nits (HBM)",
+      "Size": "1.54 inches",
+      "Resolution": "480 x 480 pixels (~312 ppi density)",
+      "Protection": "Sapphire Glass"
+    },
+    "PLATFORM": {
+      "OS": "HyperOS 3",
+      "Chipset": "Qualcomm Snapdragon W5 Gen 1 (4 nm)",
+      "CPU": "Dual-core"
+    },
+    "MEMORY": {
+      "Card slot": "No"
+    },
+    "CAMERA": {
+      "": "No"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Yes, 2.4 GHz",
+      "Bluetooth": "5.4, A2DP, LE",
+      "Positioning": "GPS, GALILEO, GLONASS, QZSS",
+      "NFC": "Yes (market/region dependent)",
+      "Radio": "No",
+      "USB": "No"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer, gyro, compass, barometer, heart rate, SpO2, EMG"
+    },
+    "BATTERY": {
+      "Type": "Li-Po 930 mAh"
+    },
+    "MISC": {
+      "Colors": "Gray, Silver",
+      "Price": "About 240 EUR"
+    }
+  }
+}
