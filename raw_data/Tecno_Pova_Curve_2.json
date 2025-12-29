@@ -1,0 +1,81 @@
+{
+  "url": "https://www.gsmarena.com/tecno_pova_curve_2_5g-14384.php",
+  "name": "Tecno Pova Curve 2",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pova-curve2-.jpg",
+  "highlights": [
+    "Not announced yet\n\nAndroid 16, HIOS 16\n128GB/256GB storage, no card slot",
+    "8.8%\n4,126 HITS",
+    "8\nBECOME A FAN",
+    "6.78\"\n1224x2720 pixels",
+    "50MP\n2160p",
+    "8/12GB RAM\nDimensity 7100",
+    "8000mAh\n45W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP64 dust tight and water resistant (water splashes)"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 144Hz, 2304Hz PWM, 1300 nits (peak)",
+      "Size": "6.78 inches, 111.0 cm2",
+      "Resolution": "1224 x 2720 pixels, 20:9 ratio (~440 ppi density)",
+      "Protection": "Corning Gorilla Glass (unspecified version)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, HIOS 16",
+      "Chipset": "Mediatek Dimensity 7100"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM",
+      "": "UFS"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, f/1.8, (wide), PDAF\nAuxiliary lens",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "4K@30fps, 1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "13 MP",
+      "Video": "4K@30fps, 1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers (with Dolby Atmos)",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+      "Bluetooth": "5.4, A2DP, LE",
+      "Positioning": "GPS",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "FM radio",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, optical), accelerometer, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "8000 mAh",
+      "Charging": "45W wired"
+    },
+    "MISC": {
+      "Colors": "Silver; other colors"
+    }
+  }
+}
