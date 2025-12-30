@@ -1,0 +1,88 @@
+{
+  "url": "https://www.gsmarena.com/vivo_x300_ultra_5g-14388.php",
+  "name": "vivo X300 Ultra",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-x200-ultra.jpg",
+  "highlights": [
+    "Not announced yet\n\nAndroid 16, OriginOS 6\n256GB/512GB/1TB storage, no card slot",
+    "4.4%\n5,109 HITS",
+    "16\nBECOME A FAN",
+    "6.82\"\n1440x3168 pixels",
+    "200MP\n4320p",
+    "12/16GB RAM\nSnapdragon 8 Elite Gen 5",
+    "7000mAh\n100W40W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / CDMA / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "": "CDMA 800",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "Build": "Glass front, glass back, aluminum frame",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP69/IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "LTPO AMOLED, 1B colors, 120Hz, PWM, Dolby Vision, HDR Vivid",
+      "Size": "6.82 inches, 113.0 cm2",
+      "Resolution": "1440 x 3168 pixels (~510 ppi density)",
+      "Protection": "Armor glass"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, OriginOS 6",
+      "Chipset": "Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm)",
+      "CPU": "Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M)",
+      "GPU": "Adreno 840"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM",
+      "": "UFS 4.1"
+    },
+    "MAIN CAMERA": {
+      "Triple": "200 MP, (wide), 1/1.12\", 0.7µm, PDAF, gimbal OIS\n200 MP, f/2.3, 85mm (periscope telephoto), 1/1.4\", 0.56µm, multi-directional PDAF, OIS, 3.7x optical zoom, macro 3.4:1\n(optional add-on zoom lens: f/2.3, 200mm, 2.35x optical zoom, Zeiss optics)\n50 MP, f/2.0, 14mm, 116˚ (ultrawide), 1/1.28\", 1.22µm, dual pixel PDAF, OIS",
+      "Features": "Laser AF, color spectrum sensor, Zeiss optics, Zeiss T* lens coating, LED flash, panorama, HDR, 3D LUT import",
+      "Video": "8K@30fps, 4K@30/60/120fps, 1080p@30/60/120/240fps, gyro-EIS, Dolby Vision HDR, 10-bit Log, HDR10+"
+    },
+    "SELFIE CAMERA": {
+      "Single": "50 MP, f/2.5, 24mm (wide), 1/2.76\", 0.64µm, AF",
+      "Features": "HDR",
+      "Video": "4K@30/60fps, 1080p@30/60fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No",
+      "": "24-bit/192kHz Hi-Res audio"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band",
+      "Bluetooth": "5.4, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless, LHDC 5",
+      "Positioning": "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), GLONASS",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 3.2, OTG, DisplayPort"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass",
+      "": "Emergency SOS via satellite (calls, messages) - 16GB + 1TB model only"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 7000 mAh",
+      "Charging": "100W wired, PD, PPS, QC, UFCS\n40W wireless\nReverse wired\nReverse wireless"
+    },
+    "MISC": {
+      "Colors": "Black, Silver, Red"
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://www.gsmarena.com/oneplus_15t_5g-14385.php",
+  "name": "OnePlus 15T",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-13t.jpg",
+  "highlights": [
+    "Not announced yet\n\nAndroid 16, OxygenOS 16, ColorOS 16\n256GB/512GB/1TB storage, no card slot",
+    "27%\n13,294 HITS",
+    "19\nBECOME A FAN",
+    "6.32\"\n1216x2640 pixels",
+    "50MP\n2160p",
+    "12/16GB RAM\nSnapdragon 8 Elite Gen 5",
+    "7000mAh\n80W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA/Sub6",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "Build": "Glass front, aluminum alloy frame",
+      "SIM": "· Nano-SIM + Nano-SIM + eSIM (max 2 at a time)\n· Nano-SIM + Nano-SIM",
+      "": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "LTPO AMOLED, 1B colors, 165Hz, PWM, Dolby Vision, HDR10+, HDR Vivid",
+      "Size": "6.32 inches, 97.9 cm2",
+      "Resolution": "1216 x 2640 pixels, 19.5:9 ratio (~460 ppi density)",
+      "Protection": "Crystal Shield Glass"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, OxygenOS 16 (Global), ColorOS 16 (China)",
+      "Chipset": "Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm)",
+      "CPU": "Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M)",
+      "GPU": "Adreno 840"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 256GB 16GB RAM, 512GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM",
+      "": "UFS 4.0"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, f/1.8, 24mm (wide), 1/1.56\", 1.0µm, multi-directional PDAF, OIS\n50 MP, f/2.0, (telephoto), 1/2.76\", 0.64µm, 2x optical zoom, PDAF",
+      "Features": "Color spectrum sensor, LED flash, HDR, panorama",
+      "Video": "4K@30/60fps, 1080p@30/60/240fps, gyro-EIS, OIS, Dolby Vision HDR"
+    },
+    "SELFIE CAMERA": {
+      "Single": "32 MP, f/2.4, 21mm (wide), 1/2.74\", 0.64µm",
+      "Features": "HDR, panorama",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual or tri-band, Wi-Fi Direct",
+      "Bluetooth": "5.4, A2DP, LE, aptX HD, LHDC 5",
+      "Positioning": "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), GLONASS",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 7000 mAh",
+      "Charging": "80W wired, 33W PPS, 18W PD, 18W QC\n5W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Black; other colors"
+    }
+  }
+}
