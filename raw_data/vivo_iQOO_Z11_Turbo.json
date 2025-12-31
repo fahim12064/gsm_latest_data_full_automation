@@ -1,0 +1,85 @@
+{
+  "url": "https://www.gsmarena.com/vivo_iqoo_z11_turbo_5g-14392.php",
+  "name": "vivo iQOO Z11 Turbo",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-iqoo-z11-turbo-.jpg",
+  "highlights": [
+    "Not announced yet\n\nAndroid 16, OriginOS 6\n256GB/512GB storage, no card slot",
+    "8.7%\n3,779 HITS",
+    "7\nBECOME A FAN",
+    "6.59\"\n1260x2800 pixels",
+    "200MP\n2160p",
+    "12/16GB RAM\nSnapdragon 8 Gen 5",
+    "7600mAh\n120W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 800 / 850 / 900 / 2100",
+      "4G bands": "1, 3, 5, 8, 19, 28, 34, 38, 39, 40, 41, 42, 48",
+      "5G bands": "1, 3, 5, 8, 28, 34, 38, 39, 40, 41, 48, 77, 78 SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "Build": "Glass front, glass back, aluminum frame",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 1B colors, 144Hz, HDR",
+      "Size": "6.59 inches, 104.8 cm2",
+      "Resolution": "1260 x 2800 pixels, 20:9 ratio (~466 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, OriginOS 6",
+      "Chipset": "Qualcomm SM8845 Snapdragon 8 Gen 5 (3 nm)",
+      "CPU": "Octa-core (2x3.8 GHz Oryon V3 Phoenix L + 6x3.32 GHz Oryon V3 Phoenix M)",
+      "GPU": "Adreno 840"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 256GB 16GB RAM, 512GB 12GB RAM, 512GB 16GB RAM",
+      "": "UFS 4.1"
+    },
+    "MAIN CAMERA": {
+      "Dual": "200 MP, f/1.9, (wide), PDAF, OIS\n8 MP, f/2.2, (ultrawide)",
+      "Features": "Color spectrum sensor, LED flash, HDR, panorama",
+      "Video": "4K, 1080p, gyro-EIS, OIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "32 MP, f/2.5, (wide)",
+      "Video": "Yes"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+      "Bluetooth": "6.0, A2DP, LE, aptX HD",
+      "Positioning": "GPS (L1+L5), BDS (B1I+B1C+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 7600 mAh",
+      "Charging": "120W wired\nReverse wired"
+    },
+    "MISC": {
+      "Colors": "White, Black, Blue, Pink",
+      "Models": "V2536A",
+      "Price": "About 250 EUR"
+    }
+  }
+}
