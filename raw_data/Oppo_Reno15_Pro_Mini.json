@@ -1,35 +1,35 @@
 {
-  "url": "https://www.gsmarena.com/oppo_reno15_pro_5g_(global)-14394.php",
-  "name": "Oppo Reno15 Pro",
+  "url": "https://www.gsmarena.com/oppo_reno15_pro_mini_5g-14393.php",
+  "name": "Oppo Reno15 Pro Mini",
   "image": "https://fdn2.gsmarena.com/vv/bigpic/oppo-reno15-pro-global.jpg",
   "highlights": [
-    "Released 2026, January 02\n187g, 8mm thickness\nAndroid 16, ColorOS 16\n256GB/512GB storage, no card slot",
-    "2.1%\n1,795 HITS",
-    "3\nBECOME A FAN",
+    "Not announced yet\n187g, 8mm thickness\nAndroid 16, ColorOS 16\n256GB/512GB storage, no card slot",
+    "6.4%\n4,031 HITS",
+    "6\nBECOME A FAN",
     "6.32\"\n1216x2640 pixels",
-    "200MP\n2160p",
+    "50MP\n2160p",
     "12GB RAM\nDimensity 8450",
-    "6200mAh\n80W"
+    "6200mAh\n80W18W"
   ],
   "specs": {
     "NETWORK": {
       "Technology": "GSM / HSPA / LTE / 5G",
       "2G bands": "GSM 850 / 900 / 1800 / 1900",
       "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
-      "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 28, 32, 38, 39, 40, 41, 42, 48, 66, 71",
-      "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 26, 28, 38, 40, 41, 48, 66, 71, 77, 78 SA/NSA",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
       "Speed": "HSPA, LTE, 5G"
     },
     "LAUNCH": {
-      "Announced": "2026, January 02",
-      "Status": "Available. Released 2026, January 02"
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
     },
     "BODY": {
       "Dimensions": "151.2 x 72.4 x 8 mm (5.95 x 2.85 x 0.31 in)",
       "Weight": "187 g (6.60 oz)",
       "Build": "Glass front (Gorilla Glass 7i), aluminum frame, glass back",
       "SIM": "· Nano-SIM + Nano-SIM + eSIM (max 2 at a time)",
-      "": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+      "": "P68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
     },
     "DISPLAY": {
       "Type": "AMOLED, 1B colors, 120Hz, HDR10+, 600 nits (typ), 1800 nits (HBM)",

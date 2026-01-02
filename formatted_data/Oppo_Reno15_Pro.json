@@ -1,54 +1,54 @@
 {
   "Camera": {
-    "Rear:": "200 MP, f/1.9, 23mm (wide), 1/1.56\", 0.5µm, PDAF, OIS",
+    "Rear:": "200 MP, f/1.8, 24mm (wide), 1/1.56\", 0.5µm, PDAF, OIS",
     "Flash:": "Color spectrum sensor, LED flash, HDR, panorama",
-    "Front:": "50 MP, f/2.0, 21mm (wide), AF",
+    "Front:": "50 MP, f/2.0, 18mm, 100˚ (ultrawide), AF",
     "Folded:": "",
-    "Main camera:": "200 MP, f/1.9, 23mm (wide), 1/1.56\", 0.5µm, PDAF, OIS",
-    "Second camera:": "50 MP, f/2.8, 80mm (periscope telephoto), PDAF, OIS, 3.5x optical zoom",
+    "Main camera:": "200 MP, f/1.8, 24mm (wide), 1/1.56\", 0.5µm, PDAF, OIS",
+    "Second camera:": "50 MP, f/2.8, 85mm (telephoto), PDAF, OIS, 3.5x optical zoom",
     "Third camera:": "50 MP, f/2.0, 16mm, 116˚ (ultrawide), AF",
-    "Specifications:": "Aperture size: F/1.9 Focal Length: 23mm",
-    "Video recording:": "4K@30/60fps, 1080p@30/60/120/240fps, gyro-EIS, HDR"
+    "Specifications:": "Aperture size: F/1.8 Focal Length: 24mm",
+    "Video recording:": "4K@30/60fps, 1080p@30/60/120/240/480fps, gyro-EIS, HDR, OIS"
   },
   "Design": {
     "Keys:": "Right: Volume control, Lock/Unlock key",
-    "Colors:": "Gold, Brown, White",
+    "Colors:": "Dusk Brown, Aurora Blue",
     "Folded:": "",
-    "Weight:": "-",
-    "Materials:": "Glass front, aluminum alloy frame, glass back",
+    "Weight:": "187 g (6.60 oz)",
+    "Materials:": "Glass front (Gorilla Glass 7i), aluminum frame, glass back",
     "Biometrics:": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
-    "Dimensions:": "-",
-    "Resistance:": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 2m for 30 min)"
+    "Dimensions:": "151.2 x 72.4 x 8 mm (5.95 x 2.85 x 0.31 in)",
+    "Resistance:": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
   },
   "Battery": {
     "Type:": "",
-    "Capacity:": "6500 mAh",
-    "Charging:": "80W wired, 13.5W PD, 33W UFCS, 33W PPS\n50W wireless\nReverse wired",
-    "Max charge speed:": "Wired: 80WWireless: 50W"
+    "Capacity:": "6200 mAh",
+    "Charging:": "80W wired, 13.5W PD, 55W PPS, 100% in 53 min\nReverse wired",
+    "Max charge speed:": "Wired: 80W"
   },
   "Display": {
-    "Size:": "6.78 inches",
+    "Size:": "6.32 inches",
     "Features:": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
-    "Resolution:": "1272 x 2800 pixels (~454 ppi density)",
-    "Technology:": "LTPO AMOLED",
+    "Resolution:": "1216 x 2640 pixels, 19.5:9 ratio (~460 ppi density)",
+    "Technology:": "AMOLED",
     "Refresh rate:": "120Hz",
     "Screen-to-body:": "",
     "Peak brightness:": "",
     "Front cover display:": ""
   },
   "Cellular": {
-    "Technology:": "GSM / CDMA / HSPA / LTE / 5G",
+    "Technology:": "GSM / HSPA / LTE / 5G",
     "2G bands:": "GSM 850 / 900 / 1800 / 1900",
-    "3G bands:": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 - International",
-    "4G bands:": "LTE",
-    "5G bands:": "SA/NSA",
-    "SIM type:": "· Nano-SIM + Nano-SIM + eSIM (max 2 at a time)\n· Nano-SIM + Nano-SIM"
+    "3G bands:": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 28, 32, 38, 39, 40, 41, 42, 48, 66, 71",
+    "5G bands:": "1, 2, 3, 5, 7, 8, 12, 20, 26, 28, 38, 40, 41, 48, 66, 71, 77, 78 SA/NSA",
+    "SIM type:": "· Nano-SIM + Nano-SIM + eSIM (max 2 at a time)"
   },
   "Hardware": {
     "OS:": "Android 16, ColorOS 16",
-    "GPU:": "Immortalis-G925",
+    "GPU:": "Mali-G720 MC7",
     "RAM:": "12GB",
-    "Processor:": "Mediatek Dimensity 9400 (3 nm)",
+    "Processor:": "Mediatek Dimensity 8450 (4 nm)",
     "Device type:": "Smartphone",
     "Internal storage:": "256GB (UFS), not expandable"
   },
@@ -61,7 +61,7 @@
   "Connectivity & Features": {
     "USB:": "USB Type-C 2.0, OTG",
     "Other:": "NFC, Infrared",
-    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
     "Sensors:": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
     "Features:": "USB Type-C 2.0, OTG",
     "Location:": "GPS, GLONASS, GALILEO, BDS, QZSS",

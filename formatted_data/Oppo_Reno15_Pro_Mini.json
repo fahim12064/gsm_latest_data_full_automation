@@ -1,35 +1,35 @@
 {
   "Camera": {
-    "Rear:": "50 MP, f/1.8, 26mm (wide), PDAF, OIS",
+    "Rear:": "200 MP, f/1.8, 24mm (wide), 1/1.56\", 0.5µm, PDAF, OIS",
     "Flash:": "Color spectrum sensor, LED flash, HDR, panorama",
-    "Front:": "50 MP, f/2.0, 18mm (ultrawide), AF",
+    "Front:": "50 MP, f/2.0, 18mm, 100˚ (ultrawide), AF",
     "Folded:": "",
-    "Main camera:": "50 MP, f/1.8, 26mm (wide), PDAF, OIS",
-    "Second camera:": "50 MP, f/2.8, 80mm (telephoto), PDAF, OIS, 3.5x optical zoom",
-    "Third camera:": "8 MP, f/2.2, 15mm, 116˚ (ultrawide), 1/4.0\", 1.12µm, AF",
-    "Specifications:": "Aperture size: F/1.8 Focal Length: 26mm",
-    "Video recording:": "4K@30/60fps, 1080p@30/60/120fps, gyro-EIS, HDR"
+    "Main camera:": "200 MP, f/1.8, 24mm (wide), 1/1.56\", 0.5µm, PDAF, OIS",
+    "Second camera:": "50 MP, f/2.8, 85mm (telephoto), PDAF, OIS, 3.5x optical zoom",
+    "Third camera:": "50 MP, f/2.0, 16mm, 116˚ (ultrawide), AF",
+    "Specifications:": "Aperture size: F/1.8 Focal Length: 24mm",
+    "Video recording:": "4K@30/60fps, 1080p@30/60/120/240/480fps, gyro-EIS, HDR, OIS"
   },
   "Design": {
     "Keys:": "Right: Volume control, Lock/Unlock key",
-    "Colors:": "Aurora Blue, Twilight Blue, Aurora White",
+    "Colors:": "Dusk Brown, Aurora Blue",
     "Folded:": "",
-    "Weight:": "197 g (6.95 oz)",
+    "Weight:": "187 g (6.60 oz)",
     "Materials:": "Glass front (Gorilla Glass 7i), aluminum frame, glass back",
     "Biometrics:": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
-    "Dimensions:": "158 x 74.8 x 7.8 mm (6.22 x 2.94 x 0.31 in)",
-    "Resistance:": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+    "Dimensions:": "151.2 x 72.4 x 8 mm (5.95 x 2.85 x 0.31 in)",
+    "Resistance:": "P68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
   },
   "Battery": {
     "Type:": "",
-    "Capacity:": "6500 mAh",
-    "Charging:": "80W wired, 80W UFCS, 55W PPS, 13.5W PD, 13.5W QC, 100% in 50 min\nReverse wired",
+    "Capacity:": "6200 mAh",
+    "Charging:": "80W wired, 13.5W PD, 55W PPS, 100% in 53 min\nReverse wired",
     "Max charge speed:": "Wired: 80W"
   },
   "Display": {
-    "Size:": "6.59 inches",
+    "Size:": "6.32 inches",
     "Features:": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
-    "Resolution:": "1256 x 2760 pixels (~460 ppi density)",
+    "Resolution:": "1216 x 2640 pixels, 19.5:9 ratio (~460 ppi density)",
     "Technology:": "AMOLED",
     "Refresh rate:": "120Hz",
     "Screen-to-body:": "",
@@ -39,16 +39,16 @@
   "Cellular": {
     "Technology:": "GSM / HSPA / LTE / 5G",
     "2G bands:": "GSM 850 / 900 / 1800 / 1900",
-    "3G bands:": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - International",
-    "4G bands:": "1, 2, 3, 4, 5, 7, 8, 18, 19, 20, 26, 28, 38, 40, 41, 42, 43, 48, 66, 71 - International",
-    "5G bands:": "1, 2, 3, 5, 7, 8, 20, 26, 28, 38, 40, 41, 48, 66, 71, 77, 78, 80, 83 SA/NSA - International",
+    "3G bands:": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA",
     "SIM type:": "· Nano-SIM + Nano-SIM + eSIM (max 2 at a time)"
   },
   "Hardware": {
     "OS:": "Android 16, ColorOS 16",
-    "GPU:": "Adreno 722",
-    "RAM:": "8GB",
-    "Processor:": "Qualcomm SM7750-AB Snapdragon 7 Gen 4 (4 nm)",
+    "GPU:": "Mali-G720 MC7",
+    "RAM:": "12GB",
+    "Processor:": "Mediatek Dimensity 8450 (4 nm)",
     "Device type:": "Smartphone",
     "Internal storage:": "256GB (UFS), not expandable"
   },
@@ -65,6 +65,6 @@
     "Sensors:": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
     "Features:": "USB Type-C 2.0, OTG",
     "Location:": "GPS, GLONASS, GALILEO, BDS, QZSS",
-    "Bluetooth:": "5.4, A2DP, LE, aptX HD, aptX Adaptive, LHDC 5"
+    "Bluetooth:": "5.4, A2DP, LE, aptX HD, LHDC 5"
   }
 }
