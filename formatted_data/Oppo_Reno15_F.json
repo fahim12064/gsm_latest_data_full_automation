@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP, f/1.8, 26mm (wide), 1/1.95\", 0.8µm, PDAF, OIS",
+    "Flash:": "Color spectrum sensor, LED flash, HDR, panorama, Ring LED flash (Afterglow Pink model only)",
+    "Front:": "50 MP, f/2.0, 100˚, 18mm (ultrawide), AF",
+    "Folded:": "",
+    "Main camera:": "50 MP, f/1.8, 26mm (wide), 1/1.95\", 0.8µm, PDAF, OIS",
+    "Second camera:": "8 MP, f/2.2, 16mm, 112˚ (ultrawide), 1/4.0\", 1.12µm",
+    "Third camera:": "2 MP (macro)",
+    "Specifications:": "Aperture size: F/1.8 Focal Length: 26mm",
+    "Video recording:": "4K@30/60fps, 1080p@30/60/120fps, gyro-EIS, OIS"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Afterglow Pink, Twilight Blue, Aurora Blue",
+    "Folded:": "",
+    "Weight:": "195 g (6.88 oz)",
+    "Materials:": "Glass front (Gorilla Glass+), aluminum frame, glass back (AGC Dragontrail DT-Star D+)",
+    "Biometrics:": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+    "Dimensions:": "158.2 x 74.9 x 8.1 mm (6.23 x 2.95 x 0.32 in)",
+    "Resistance:": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+  },
+  "Battery": {
+    "Type:": "Si/C Li-Ion",
+    "Capacity:": "7000 mAh",
+    "Charging:": "80W wired, 55W PPS, 13.5W PD/QC, 100% in 64 min\nReverse wired",
+    "Max charge speed:": "Wired: 80W"
+  },
+  "Display": {
+    "Size:": "6.57 inches",
+    "Features:": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+    "Resolution:": "1080 x 2372 pixels (~397 ppi density)",
+    "Technology:": "AMOLED",
+    "Refresh rate:": "120Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 - International",
+    "4G bands:": "1, 2, 3, 4, 5, 7, 8, 18, 19, 20, 26, 28, 38, 39, 40, 41, 42, 48, 66, 71 - International",
+    "5G bands:": "1, 2, 3, 5, 7, 8, 20, 26, 28, 38, 40, 41, 48, 66, 71, 77, 78 SA/NSA - International",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 16, ColorOS 16",
+    "GPU:": "Adreno 710",
+    "RAM:": "8GB",
+    "Processor:": "Qualcomm SM6450 Snapdragon 6 Gen 1 (4 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "128GB (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0, OTG",
+    "Other:": "NFC",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+    "Sensors:": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+    "Features:": "USB Type-C 2.0, OTG",
+    "Location:": "GPS, GLONASS, GALILEO, BDS, QZSS",
+    "Bluetooth:": "5.1, A2DP, LE, aptX HD"
+  }
+}
