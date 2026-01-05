@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP, f/1.6, 23mm (wide), 1/1.28\", 1.22µm, multi-directional PDAF, OIS",
+    "Flash:": "Laser AF, Dual-LED flash, HDR, panorama",
+    "Front:": "50 MP, f/1.9, 21mm (wide), 1/2.93\", 0.6µm, dual-pixel PDAF",
+    "Folded:": "",
+    "Main camera:": "50 MP, f/1.6, 23mm (wide), 1/1.28\", 1.22µm, multi-directional PDAF, OIS",
+    "Second camera:": "50 MP, 71mm (periscope telephoto), 1/1.95\", 0.8µm, dual-pixel PDAF, OIS, 3x optical zoom",
+    "Third camera:": "50 MP, f/2.0, 12mm, 122˚ (ultrawide), 1/2.76\", 0.64µm, PDAF",
+    "Specifications:": "Aperture size: F/1.6 Focal Length: 23mm",
+    "Video recording:": "8K@30fps (Dolby Vision), 4K@30/60fps (Dolby Vision), 4K@120fps, 1080p@30/60/120/240fps, 10-bit HDR10+, gyro-EIS"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Gold, Blue",
+    "Folded:": "",
+    "Weight:": "186 g (6.56 oz)",
+    "Materials:": "Glass front (Gorilla Glass Victus 2), aluminum frame",
+    "Biometrics:": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass",
+    "Dimensions:": "162.1 x 76.4 x 7 mm (6.38 x 3.01 x 0.28 in)",
+    "Resistance:": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\nMIL-STD-810H compliant*\n* does not guarantee ruggedness or use in extreme conditions"
+  },
+  "Battery": {
+    "Type:": "Si/C Li-Ion",
+    "Capacity:": "5200 mAh",
+    "Charging:": "90W wired\n50W wireless\n10W reverse wireless\n5W reverse wired",
+    "Max charge speed:": "Wired: 90WWireless: 50W"
+  },
+  "Display": {
+    "Size:": "6.8 inches",
+    "Features:": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass",
+    "Resolution:": "1264 x 2780 pixels (~449 ppi density)",
+    "Technology:": "LTPO AMOLED",
+    "Refresh rate:": "165Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "6200 cd/m2 (nit)",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 32, 34, 38, 39, 40, 41, 42, 43, 48, 66, 71",
+    "5G bands:": "1, 2, 3, 5, 7, 8, 20, 25, 26, 28, 38, 40, 41, 66, 70, 71, 77, 78, 80, 81, 83, 84, 89, 94 SA/NSA/Sub6",
+    "SIM type:": "Nano-SIM + Nano-SIM + eSIM (max 2 at a time)"
+  },
+  "Hardware": {
+    "OS:": "Android 16, up to 7 major Android upgrades",
+    "GPU:": "Adreno 840",
+    "RAM:": "12GB",
+    "Processor:": "Qualcomm SM8845 Snapdragon 8 Gen 5 (3 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "256GB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers (with Dolby Atmos)",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 3.1 Gen2, OTG, DisplayPort 1.4",
+    "Other:": "NFC",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct",
+    "Sensors:": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass",
+    "Features:": "USB Type-C 3.1 Gen2, OTG, DisplayPort 1.4",
+    "Location:": "GPS, GLONASS, GALILEO, BDS, NavIC",
+    "Bluetooth:": "6.0, A2DP, LE"
+  }
+}
