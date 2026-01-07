@@ -1,0 +1,69 @@
+{
+  "url": "https://www.gsmarena.com/motorola_moto_watch-14403.php",
+  "name": "Motorola Moto Watch",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-watch.jpg",
+  "highlights": [
+    "Exp. release 2026, February\n35g, 12mm thickness\nUnspecified\nUnspecified storage storage, no card slot",
+    "13%\n3,550 HITS",
+    "3\nBECOME A FAN",
+    "1.43\"\n464x464 pixels*",
+    "NO",
+    "",
+    ""
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "No cellular connectivity",
+      "2G bands": "N/A",
+      "GPRS": "No",
+      "EDGE": "No"
+    },
+    "LAUNCH": {
+      "Announced": "2026, January 07",
+      "Status": "Coming soon. Exp. release 2026, February"
+    },
+    "BODY": {
+      "Dimensions": "47 x 47 x 12 mm (1.85 x 1.85 x 0.47 in)",
+      "Weight": "35 g (1.23 oz)",
+      "SIM": "No",
+      "": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)\n5 ATM (immersible up to 50m for 10 min)"
+    },
+    "DISPLAY": {
+      "Type": "OLED",
+      "Size": "1.43 inches",
+      "Resolution": "464 x 464 pixels* (~317 ppi density)",
+      "": "* Display resolution is not officially revealed"
+    },
+    "PLATFORM": {
+      "OS": "Unspecified"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "Unspecified storage"
+    },
+    "CAMERA": {
+      "": "No"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "No",
+      "Bluetooth": "5.3, A2DP, LE",
+      "Positioning": "GPS (L1+L5)",
+      "NFC": "Unspecified",
+      "Radio": "No",
+      "USB": "No"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer, gyro, heart rate, SpO2, compass"
+    },
+    "BATTERY": {
+      "Type": ""
+    },
+    "MISC": {
+      "Colors": "Volcanic Ash, Silver"
+    }
+  }
+}

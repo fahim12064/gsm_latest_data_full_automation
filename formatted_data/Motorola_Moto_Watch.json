@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "",
+    "Flash:": "",
+    "Front:": "",
+    "Folded:": "",
+    "Main camera:": "",
+    "Second camera:": "",
+    "Third camera:": "",
+    "Specifications:": "",
+    "Video recording:": ""
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Volcanic Ash, Silver",
+    "Folded:": "",
+    "Weight:": "35 g (1.23 oz)",
+    "Materials:": "",
+    "Biometrics:": "Accelerometer, gyro, heart rate, SpO2, compass",
+    "Dimensions:": "47 x 47 x 12 mm (1.85 x 1.85 x 0.47 in)",
+    "Resistance:": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)\n5 ATM (immersible up to 50m for 10 min)"
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "",
+    "Charging:": "",
+    "Max charge speed:": ""
+  },
+  "Display": {
+    "Size:": "1.43 inches",
+    "Features:": "Accelerometer, gyro, heart rate, SpO2, compass",
+    "Resolution:": "464 x 464 pixels* (~317 ppi density)",
+    "Technology:": "OLED",
+    "Refresh rate:": "",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "No cellular connectivity",
+    "2G bands:": "N/A",
+    "3G bands:": "",
+    "4G bands:": "",
+    "5G bands:": "",
+    "SIM type:": "No"
+  },
+  "Hardware": {
+    "OS:": "Unspecified",
+    "GPU:": "",
+    "RAM:": "",
+    "Processor:": "",
+    "Device type:": "Smartphone",
+    "Internal storage:": " (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "No",
+    "Other:": "NFC",
+    "Wi-Fi:": "No",
+    "Sensors:": "Accelerometer, gyro, heart rate, SpO2, compass",
+    "Features:": "No",
+    "Location:": "GPS (L1+L5)",
+    "Bluetooth:": "5.3, A2DP, LE"
+  }
+}
