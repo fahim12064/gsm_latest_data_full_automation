@@ -1,0 +1,85 @@
+{
+  "url": "https://www.gsmarena.com/oneplus_turbo_6v_5g-14404.php",
+  "name": "OnePlus Turbo 6V",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-turbo-6v.jpg",
+  "highlights": [
+    "Exp. release 2026, January 09\n215g, 8.5mm thickness\nAndroid 16, ColorOS 16\n256GB/512GB storage, no card slot",
+    "59%\n15,679 HITS",
+    "16\nBECOME A FAN",
+    "6.78\"\n1272x2772 pixels",
+    "50MP\n2160p",
+    "8/12GB RAM\nSnapdragon 7s Gen 4",
+    "9000mAh\n80W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 2100",
+      "4G bands": "1, 3, 5, 8, 19, 28, 34, 38, 39, 40, 41, 42, 48",
+      "5G bands": "1, 3, 5, 8, 28, 38, 40, 41, 48, 77, 78 SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2026, January 08",
+      "Status": "Coming soon. Exp. release 2026, January 09"
+    },
+    "BODY": {
+      "Dimensions": "162.5 x 77.5 x 8.5 mm (6.40 x 3.05 x 0.33 in)",
+      "Weight": "215 g (7.58 oz)",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 1B colors, 144Hz, 3840Hz PWM, 800 nits (typ), 1800 nits (peak)",
+      "Size": "6.78 inches, 112.4 cm2 (~89.3% screen-to-body ratio)",
+      "Resolution": "1272 x 2772 pixels, 19.5:9 ratio (~450 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, ColorOS 16",
+      "Chipset": "Qualcomm SM7635-AC Snapdragon 7s Gen 4 (4 nm)",
+      "CPU": "Octa-core (1x2.7 GHz Cortex-A720 & 3x2.4 GHz Cortex-A720 & 4x1.8 GHz Cortex-A520)",
+      "GPU": "Adreno 810"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM",
+      "": "UFS 3.1"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, f/1.9, 27mm (wide), PDAF, OIS\nAuxiliary lens",
+      "Features": "Color spectrum sensor, LED flash, HDR, panorama",
+      "Video": "4K@30/60fps, 1080p@30/60/120fps, gyro-EIS, OIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "16 MP, f/2.4, 23mm (wide), 1/3\", 1.0µm",
+      "Features": "HDR, panorama",
+      "Video": "1080p@30fps, gyro-EIS"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+      "Bluetooth": "5.4, A2DP, LE, aptX HD, aptX Adaptive, LHDC 5",
+      "Positioning": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5)",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 9000 mAh",
+      "Charging": "80W wired, UFCS, 55W PPS, 13.5W PD/QC\n27W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Black, White, Blue",
+      "Models": "PLY110",
+      "Price": "About 230 EUR"
+    }
+  }
+}
