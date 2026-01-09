@@ -1,0 +1,82 @@
+{
+  "url": "https://www.gsmarena.com/honor_magic8_pro_air_5g-14405.php",
+  "name": "Honor Magic8 Pro Air",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-magic8-pro-air-.jpg",
+  "highlights": [
+    "Not announced yet\n155 g\nAndroid 16, MagicOS 10\n256GB/512GB storage, no card slot",
+    "90%\n23,452 HITS",
+    "29\nBECOME A FAN",
+    "6.3\"\n1200x2640 pixels",
+    "200MP\n2160p",
+    "8/12GB RAM\nDimensity 9500",
+    "5500mAh\n80W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "6.1 mm thickness",
+      "Weight": "155 g (5.47 oz)",
+      "Build": "Glass front, aluminum frame",
+      "SIM": "Nano-SIM + eSIM",
+      "": "Water resistant"
+    },
+    "DISPLAY": {
+      "Type": "OLED, 1B colors, 120Hz, HDR",
+      "Size": "6.3 inches, 96.5 cm2",
+      "Resolution": "1200 x 2640 pixels (~460 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, MagicOS 10",
+      "Chipset": "Mediatek Dimensity 9500 (3 nm)",
+      "CPU": "Octa-core (1x4.21 GHz C1-Ultra & 3x3.5 GHz C1-Premium & 4x2.7 GHz C1-Pro)",
+      "GPU": "Arm G1-Ultra"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "Up to 512GB 12GB RAM",
+      "": "UFS"
+    },
+    "MAIN CAMERA": {
+      "Triple": "50 MP, f/1.6, 23mm (wide), 1/1.3\", 1.2µm, multi-directional PDAF, OIS\nother, unspecified cameras",
+      "Features": "Laser AF, color spectrum sensor, LED flash, HDR, panorama",
+      "Video": "4K@24/30/60/120fps, 1080p@24/30/60/120/240fps, gyro-EIS, OIS, HDR, 10-bit video"
+    },
+    "SELFIE CAMERA": {
+      "Single": "50 MP, f/2.0, 21mm (wide), 1/2.93\", 0.6µm",
+      "Video": "4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Yes",
+      "Bluetooth": "yes",
+      "Positioning": "GPS (L1+L5), GLONASS, BDS, GALILEO",
+      "NFC": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 5500 mAh",
+      "Charging": "80W wired\n5W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Black, White, Purple, Orange"
+    }
+  }
+}
