@@ -1,0 +1,88 @@
+{
+  "url": "https://www.gsmarena.com/oppo_reno15_pro_5g_(india)-14406.php",
+  "name": "Oppo Reno15 Pro (India)",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/oppo-reno15-pro.jpg",
+  "highlights": [
+    "Exp. release 2026, January 13\n205g, 7.7mm thickness\nAndroid 16, ColorOS 16\n256GB/512GB storage, no card slot",
+    "17%\n4,171 HITS",
+    "4\nBECOME A FAN",
+    "6.78\"\n1272x2772 pixels",
+    "200MP\n2160p",
+    "12GB RAM\nDimensity 8450",
+    "6500mAh\n80W50W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 26, 28, 32, 34, 38, 39, 40, 41, 42, 48, 66",
+      "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 26, 28, 38, 40, 41, 48, 66, 77, 78 SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2026, January 08",
+      "Status": "Coming soon. Exp. release 2026, January 13"
+    },
+    "BODY": {
+      "Dimensions": "161.3 x 76.5 x 7.7 mm (6.35 x 3.01 x 0.30 in)",
+      "Weight": "205 g (7.23 oz)",
+      "Build": "Glass front (Gorilla Glass Victus 2), aluminum frame, glass back",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 1B colors, 120Hz, HDR10+, 600 nits (typ), 1800 nits (HBM)",
+      "Size": "6.78 inches, 112.4 cm2 (~91.1% screen-to-body ratio)",
+      "Resolution": "1272 x 2772 pixels, 19.5:9 ratio (~450 ppi density)",
+      "Protection": "Corning Gorilla Glass Victus 2"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, ColorOS 16",
+      "Chipset": "Mediatek Dimensity 8450 (4 nm)",
+      "CPU": "Octa-core (1x3.25 GHz Cortex-A725 & 3x3.0 GHz Cortex-A725 & 4x2.1 GHz Cortex-A725)",
+      "GPU": "Mali-G720 MC7"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 512GB 12GB RAM",
+      "": "UFS 3.1"
+    },
+    "MAIN CAMERA": {
+      "Triple": "200 MP, f/1.8, 24mm (wide), 1/1.56\", 0.5µm, PDAF, OIS\n50 MP, f/2.8, 85mm (telephoto), PDAF, OIS, 3.5x optical zoom\n50 MP, f/2.0, 16mm, 116˚ (ultrawide), AF",
+      "Features": "Color spectrum sensor, LED flash, HDR, panorama",
+      "Video": "4K@30/60fps, 1080p@30/60/120/240/480fps, gyro-EIS, HDR, OIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "50 MP, f/2.0, 18mm, 100˚ (ultrawide), AF",
+      "Features": "Panorama, HDR",
+      "Video": "4K@30/60fps, 1080p@30/60fps, gyro-EIS, HDR"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+      "Bluetooth": "5.4, A2DP, LE, aptX HD, LHDC 5",
+      "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "6500 mAh",
+      "Charging": "80W wired, 13.5W PD, 55W PPS, 100% in 51 min\n50W wireless\nReverse wired"
+    },
+    "MISC": {
+      "Colors": "Sunset Gold, Cocoa Brown",
+      "Models": "CPH2811",
+      "SAR": "1.13 W/kg (head)     0.81 W/kg (body)",
+      "Price": "About 650 EUR"
+    }
+  }
+}
