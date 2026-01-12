@@ -1,0 +1,88 @@
+{
+  "url": "https://www.gsmarena.com/realme_neo8_5g-14408.php",
+  "name": "Realme Neo8",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/realme-neo8---.jpg",
+  "highlights": [
+    "Not announced yet\n215g, 8.3mm thickness\nAndroid 16, Realme UI 7.0\n256GB/512GB/1TB storage, no card slot",
+    "6.8%\n1,713 HITS",
+    "2\nBECOME A FAN",
+    "6.78\"\n1272x2772 pixels",
+    "50MP\n2160p",
+    "12-24GB RAM\nSnapdragon 8 Gen 5",
+    "8000mAh\n80W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "162 x 77.1 x 8.3 mm (6.38 x 3.04 x 0.33 in)",
+      "Weight": "215 g (7.58 oz)",
+      "Build": "Glass front, aluminum frame, glass back",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "LTPO AMOLED, 1B colors, 165Hz, HDR, 1000 nits (HBM), 6000 nits (peak)",
+      "Size": "6.78 inches, 112.4 cm2 (~90.0% screen-to-body ratio)",
+      "Resolution": "1272 x 2772 pixels, 19.5:9 ratio (~450 ppi density)",
+      "": "HDR image support"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, Realme UI 7.0",
+      "Chipset": "Qualcomm SM8845 Snapdragon 8 Gen 5 (3 nm)",
+      "CPU": "Octa-core (2x3.8 GHz Oryon V3 Phoenix L + 6x3.32 GHz Oryon V3 Phoenix M)",
+      "GPU": "Adreno 840"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 256GB 16GB RAM, 512GB 12GB RAM, 512GB 16GB RAM, 1TB 24GB RAM",
+      "": "UFS 4.1"
+    },
+    "MAIN CAMERA": {
+      "Triple": "50 MP, f/1.9, 26mm (wide), 1/1.95\", PDAF, OIS\n50 MP, f/2.8, 85mm (telephoto), PDAF, OIS, 3.5x optical zoom\n8 MP, f/2.2, 16mm, 112˚ (ultrawide), 1/4.0\", 1.12µm",
+      "Features": "Color spectrum sensor, LED flash, HDR, panorama",
+      "Video": "4K@30/60fps, 1080p@30/60/120fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "16 MP, f/2.4, 23mm (wide)",
+      "Features": "Panorama",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No",
+      "": "24-bit/192kHz Hi-Res audio"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band",
+      "Bluetooth": "5.4, A2DP, LE",
+      "Positioning": "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 8000 mAh",
+      "Charging": "80W wired"
+    },
+    "MISC": {
+      "Colors": "Black, Silver, Purple",
+      "Models": "RMX8899",
+      "Price": "About 280 EUR"
+    }
+  }
+}
