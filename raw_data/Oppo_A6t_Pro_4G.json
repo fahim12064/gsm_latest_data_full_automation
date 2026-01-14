@@ -1,0 +1,83 @@
+{
+  "url": "https://www.gsmarena.com/oppo_a6t_pro-14415.php",
+  "name": "Oppo A6t Pro 4G",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/oppo-a6t-pro.jpg",
+  "highlights": [
+    "Released 2026, January 13\n215g, 8.6mm thickness\nAndroid 15, ColorOS 15\n128GB storage, microSDXC",
+    "0.8%\n1,960 HITS",
+    "1\nBECOME A FAN",
+    "6.75\"\n720x1570 pixels",
+    "50MP\n1080p",
+    "8GB RAM\nSnapdragon 685",
+    "7000mAh\n45W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 2100 - version 1",
+      "": "1, 3, 5, 8, 40 - version 2",
+      "4G bands": "1, 3, 5, 7, 8, 20, 28, 38, 40, 41 - version 1",
+      "Speed": "HSPA, LTE"
+    },
+    "LAUNCH": {
+      "Announced": "2026, January 13",
+      "Status": "Available. Released 2026, January 13"
+    },
+    "BODY": {
+      "Dimensions": "166.6 x 78.5 x 8.6 mm (6.56 x 3.09 x 0.34 in)",
+      "Weight": "215 g (7.58 oz)",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 120Hz, 1125 nits (HBM)",
+      "Size": "6.75 inches, 111.4 cm2 (~85.2% screen-to-body ratio)",
+      "Resolution": "720 x 1570 pixels, 19.5:9 ratio (~256 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 15, ColorOS 15",
+      "Chipset": "Qualcomm SM6225 Snapdragon 685 (6 nm)",
+      "CPU": "Octa-core (4x2.8 GHz Cortex-A73 & 4x1.9 GHz Cortex-A53)",
+      "GPU": "Adreno 610"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC",
+      "Internal": "128GB 8GB RAM",
+      "": "UFS 2.2"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, f/1.8, (wide), PDAF\nAuxiliary lens",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "8 MP, f/2.0, (wide)",
+      "Features": "Panorama",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+      "Bluetooth": "5.0, A2DP, LE, aptX",
+      "Positioning": "GPS, GALILEO, GLONASS, QZSS",
+      "NFC": "Yes (market/region dependent)",
+      "Radio": "Unspecified",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 7000 mAh",
+      "Charging": "45W wired, 33W PPS, 13.5W PD, 36% in 30 min\nReverse wired"
+    },
+    "MISC": {
+      "Colors": "Crystal Violet, Crystal White",
+      "Models": "CPH2849"
+    }
+  }
+}
