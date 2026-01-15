@@ -1,0 +1,85 @@
+{
+  "url": "https://www.gsmarena.com/realme_16_5g-14419.php",
+  "name": "Realme 16",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/realme-15-int.jpg",
+  "highlights": [
+    "Not announced yet\n183g, 8.1mm thickness\nAndroid 16, Realme UI 7.0\n256GB storage, microSDXC",
+    "N/A\n31 HITS",
+    "0\nBECOME A FAN",
+    "6.57\"\n1080x2392 pixels",
+    "50MP\n2160p",
+    "8/12GB RAM\nDimensity 6400 Turbo",
+    "7000mAh\n60W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "158.3 x 75.1 x 8.1 mm (6.23 x 2.96 x 0.32 in)",
+      "Weight": "183 g (6.46 oz)",
+      "Build": "Glass front (AGC DT-Star D+), plastic frame, plastic back",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 2m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 1B colors, 120Hz, PWM, HDR, 4500 nits (peak)",
+      "Size": "6.57 inches, 104.4 cm2 (~87.9% screen-to-body ratio)",
+      "Resolution": "1080 x 2392 pixels (~399 ppi density)",
+      "Protection": "AGC DT-Star D+"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, Realme UI 7.0",
+      "Chipset": "Mediatek Dimensity 6400 Turbo (6 nm)",
+      "CPU": "Octa-core (2x2.5 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+      "GPU": "Mali-G57 MC2"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC (uses shared SIM slot)",
+      "Internal": "256GB 8GB RAM, 256GB 12GB RAM",
+      "": "UFS"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, f/1.8, 26mm (wide), 1/1.95\", PDAF\nAuxiliary lens",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "Yes"
+    },
+    "SELFIE CAMERA": {
+      "Single": "50 MP, f/2.4, 23mm (wide)",
+      "Features": "Panorama",
+      "Video": "Yes"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac dual-band",
+      "Bluetooth": "5.3, A2DP, LE",
+      "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+      "NFC": "Yes (market/region dependent)",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 7000 mAh",
+      "Charging": "60W wired"
+    },
+    "MISC": {
+      "Colors": "Black, Silver"
+    }
+  }
+}
