@@ -1,0 +1,83 @@
+{
+  "url": "https://www.gsmarena.com/tecno_spark_go_3-14420.php",
+  "name": "Tecno Spark Go 3",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-go3.jpg",
+  "highlights": [
+    "Exp. release 2026, January 23\n\nAndroid 15, HIOS 15\n64GB storage, microSDXC",
+    "13%\n3,463 HITS",
+    "2\nBECOME A FAN",
+    "6.74\"\n720x1600 pixels",
+    "13MP\n1440p",
+    "4GB RAM\nUnisoc T7250",
+    "5000mAh\n15W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 900 / 2100",
+      "4G bands": "LTE",
+      "Speed": "HSPA, LTE"
+    },
+    "LAUNCH": {
+      "Announced": "2026, January 16",
+      "Status": "Coming soon. Exp. release 2026, January 23"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "Build": "Glass front, plastic back, plastic frame",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP64 dust tight and water resistant (water splashes)\nDrop resistant up to 1.2m"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 120Hz",
+      "Size": "6.74 inches, 109.7 cm2",
+      "Resolution": "720 x 1600 pixels, 20:9 ratio (~260 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 15, HIOS 15",
+      "Chipset": "Unisoc T7250 (12 nm)",
+      "CPU": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+      "GPU": "Mali-G57 MP1"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC (dedicated slot)",
+      "Internal": "64GB 4GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Single": "13 MP",
+      "Features": "LED flash",
+      "Video": "Yes"
+    },
+    "SELFIE CAMERA": {
+      "Single": "8 MP",
+      "Video": "Yes"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "Yes"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+      "Bluetooth": "Yes",
+      "Positioning": "GPS",
+      "NFC": "No",
+      "Infrared port": "Yes",
+      "Radio": "FM radio",
+      "USB": "USB Type-C, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Unspecified"
+    },
+    "BATTERY": {
+      "Type": "Li-Po 5000 mAh",
+      "Charging": "15W wired"
+    },
+    "MISC": {
+      "Colors": "Titanium Grey, Ink Black, Galaxy Blue, Aurora Purple",
+      "Models": "KN3",
+      "Price": "About 90 EUR"
+    }
+  }
+}
