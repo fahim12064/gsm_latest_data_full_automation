@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "48 MP, f/1.8, (wide), 0.8µm, PDAF",
+    "Flash:": "LED flash, HDR, panorama",
+    "Front:": "8 MP",
+    "Folded:": "",
+    "Main camera:": "48 MP, f/1.8, (wide), 0.8µm, PDAF",
+    "Second camera:": "Auxiliary lens",
+    "Third camera:": "",
+    "Specifications:": "Aperture size: F/1.8",
+    "Video recording:": "1080p@30fps"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Gray, Black, Yellow",
+    "Folded:": "",
+    "Weight:": "706 g (1.56 lb)",
+    "Materials:": "",
+    "Biometrics:": "Fingerprint (side-mounted), accelerometer, proximity, compass",
+    "Dimensions:": "246 x 163.5 x 12.7 mm (9.69 x 6.44 x 0.5 in)",
+    "Resistance:": "IP68 dust tight and water resistant (immersible up to 2m for 30 min)\nDrop resistant up to 1.5m\nMIL-STD-810H compliant\nAccessory connector (ulefone endoscope, microscope)"
+  },
+  "Battery": {
+    "Type:": "Li-Po",
+    "Capacity:": "10200 mAh",
+    "Charging:": "18W wired\n6W reverse wired",
+    "Max charge speed:": "Wired: 18W"
+  },
+  "Display": {
+    "Size:": "10.1 inches",
+    "Features:": "Fingerprint (side-mounted), accelerometer, proximity, compass",
+    "Resolution:": "800 x 1280 pixels, 16:10 ratio (~149 ppi density)",
+    "Technology:": "IPS LCD",
+    "Refresh rate:": "90Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, B34, 38, 39, 40, 41, 66",
+    "5G bands:": "",
+    "SIM type:": "Nano-SIM + Nano-SIM + eSIM (max 2 at a time)"
+  },
+  "Hardware": {
+    "OS:": "Android 16",
+    "GPU:": "Mali-G57 MP1",
+    "RAM:": "8GB",
+    "Processor:": "Unisoc T7250 (12 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "128GB (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes",
+    "Headphones:": "Yes",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0, OTG, magnetic connector",
+    "Other:": "NFC",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, proximity, compass",
+    "Features:": "USB Type-C 2.0, OTG, magnetic connector",
+    "Location:": "GPS, GLONASS, GALILEO, BDS, QZSS",
+    "Bluetooth:": "5.2, A2DP, LE"
+  }
+}
