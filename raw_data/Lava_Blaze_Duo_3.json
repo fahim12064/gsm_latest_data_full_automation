@@ -1,0 +1,84 @@
+{
+  "url": "https://www.gsmarena.com/lava_blaze_duo_3_5g-14428.php",
+  "name": "Lava Blaze Duo 3",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/lava-blaze-duo3.jpg",
+  "highlights": [
+    "Released 2026, January 19\n181g, 7.6mm thickness\nAndroid 15, planned upgrade to Android 16\n128GB storage, microSDXC",
+    "4.1%\n1,353 HITS",
+    "1\nBECOME A FAN",
+    "6.67\"\n1080x2400 pixels",
+    "50MP\n1440p",
+    "6GB RAM\nDimensity 7060",
+    "5000mAh\n33W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+      "4G bands": "1, 3, 5, 8, 28, 40, 41",
+      "5G bands": "1, 3, 5, 8, 28, 40, 41, 77, 78 SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2026, January 19",
+      "Status": "Available. Released 2026, January 19"
+    },
+    "BODY": {
+      "Dimensions": "163.2 x 76.1 x 7.6 mm (6.43 x 3.00 x 0.30 in)",
+      "Weight": "181 g (6.38 oz)",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP64 dust tight and water resistant (water splashes)"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 120Hz",
+      "Size": "6.67 inches, 107.4 cm2 (~86.5% screen-to-body ratio)",
+      "Resolution": "1080 x 2400 pixels, 20:9 ratio (~395 ppi density)",
+      "": "Secondary display on the back:\nAMOLED, 1.6 inches, 320 x 360 pixels"
+    },
+    "PLATFORM": {
+      "OS": "Android 15, planned upgrade to Android 16",
+      "Chipset": "Mediatek Dimensity 7060 (6 nm)",
+      "CPU": "Octa-core (2x2.6 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)",
+      "GPU": "IMG BXM-8-256"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC (uses shared SIM slot)",
+      "Internal": "128GB 6GB RAM",
+      "": "UFS 3.1"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, (wide), PDAF\nAuxiliary lens",
+      "Features": "LED flash, panorama",
+      "Video": "1440p@30fps, 1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "8 MP, (wide)",
+      "Video": "Yes"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 b/g/n/ac, dual-band",
+      "Bluetooth": "5.2, A2DP, LE",
+      "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+      "NFC": "No",
+      "Infrared port": "Yes",
+      "Radio": "Unspecified",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "Li-Po 5000 mAh",
+      "Charging": "33W wired, 50% in 35 min"
+    },
+    "MISC": {
+      "Colors": "Imperial Gold, Moonlight Black",
+      "Price": "₹ 16,999"
+    }
+  }
+}

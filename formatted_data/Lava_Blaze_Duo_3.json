@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP, (wide), PDAF",
+    "Flash:": "LED flash, panorama",
+    "Front:": "8 MP, (wide)",
+    "Folded:": "",
+    "Main camera:": "50 MP, (wide), PDAF",
+    "Second camera:": "Auxiliary lens",
+    "Third camera:": "",
+    "Specifications:": "",
+    "Video recording:": "1440p@30fps, 1080p@30fps"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Imperial Gold, Moonlight Black",
+    "Folded:": "",
+    "Weight:": "181 g (6.38 oz)",
+    "Materials:": "",
+    "Biometrics:": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+    "Dimensions:": "163.2 x 76.1 x 7.6 mm (6.43 x 3.00 x 0.30 in)",
+    "Resistance:": "IP64 dust tight and water resistant (water splashes)"
+  },
+  "Battery": {
+    "Type:": "Li-Po",
+    "Capacity:": "5000 mAh",
+    "Charging:": "33W wired, 50% in 35 min",
+    "Max charge speed:": "Wired: 33W"
+  },
+  "Display": {
+    "Size:": "6.67 inches",
+    "Features:": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+    "Resolution:": "1080 x 2400 pixels, 20:9 ratio (~395 ppi density)",
+    "Technology:": "AMOLED",
+    "Refresh rate:": "120Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1900 / 2100",
+    "4G bands:": "1, 3, 5, 8, 28, 40, 41",
+    "5G bands:": "1, 3, 5, 8, 28, 40, 41, 77, 78 SA/NSA",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 15, planned upgrade to Android 16",
+    "GPU:": "IMG BXM-8-256",
+    "RAM:": "6GB",
+    "Processor:": "Mediatek Dimensity 7060 (6 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "128GB (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0, OTG",
+    "Other:": "NFC, Infrared",
+    "Wi-Fi:": "Wi-Fi 802.11 b/g/n/ac, dual-band",
+    "Sensors:": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+    "Features:": "USB Type-C 2.0, OTG",
+    "Location:": "GPS, GALILEO, GLONASS, BDS, QZSS",
+    "Bluetooth:": "5.2, A2DP, LE"
+  }
+}
