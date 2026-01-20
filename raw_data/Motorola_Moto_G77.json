@@ -1,0 +1,83 @@
+{
+  "url": "https://www.gsmarena.com/motorola_moto_g77_5g-14433.php",
+  "name": "Motorola Moto G77",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g77.jpg",
+  "highlights": [
+    "Not announced yet\n179g, 7.3mm thickness\nAndroid 16, up to 5 major Android upgrades\n128GB/256GB storage, microSDXC",
+    "1.6%\n816 HITS",
+    "0\nBECOME A FAN",
+    "6.8\"\n1272x2772 pixels",
+    "108MP\n2160p",
+    "8GB RAM\nDimensity 6400",
+    "5200mAh\n30W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA/Sub6",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "164.2 x 77.4 x 7.3 mm (6.46 x 3.05 x 0.29 in)",
+      "Weight": "179 g (6.31 oz)",
+      "SIM": "· Nano-SIM + eSIM\n· Nano-SIM + Nano-SIM",
+      "": "IP64 dust tight and water resistant (water splashes)\nMIL-STD-810H compliant*\n* does not guarantee ruggedness or use in extreme conditions"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 1B colors, 120Hz, HDR, 5000 nits (peak)",
+      "Size": "6.8 inches, 113.1 cm2 (~89.0% screen-to-body ratio)",
+      "Resolution": "1272 x 2772 pixels, 19.5:9 ratio (~449 ppi density)",
+      "Protection": "Corning Gorilla Glass 7i"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, up to 5 major Android upgrades",
+      "Chipset": "Mediatek Dimensity 6400 (6 nm)",
+      "CPU": "Octa-core (2x2.5 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+      "GPU": "Mali-G57 MC2"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC (uses shared SIM slot)",
+      "Internal": "128GB 8GB RAM, 256GB 8GB RAM",
+      "": "UFS 2.2"
+    },
+    "MAIN CAMERA": {
+      "Dual": "108 MP, f/1.8, (wide), 0.64µm, PDAF, OIS\n8 MP, f/2.2, 119˚ (ultrawide), 1.12µm, AF",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "4K@30fps, 1080p@30/60fps, gyro-EIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "32 MP, f/2.2, (wide), 0.64µm",
+      "Video": "4K@30fps, 1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No",
+      "": "24-bit/192kHz Hi-Res audio"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+      "Bluetooth": "5.4, A2DP, LE, aptX HD",
+      "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+      "NFC": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "5200 mAh",
+      "Charging": "30W wired"
+    },
+    "MISC": {
+      "Colors": "Black Olive"
+    }
+  }
+}

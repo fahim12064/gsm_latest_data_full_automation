@@ -1,0 +1,88 @@
+{
+  "url": "https://www.gsmarena.com/zte_nubia_redmagic_11_air_5g-14430.php",
+  "name": "ZTE nubia RedMagic 11 Air",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-redmagic-11-air.jpg",
+  "highlights": [
+    "Released 2026, January 20\n207g, 8mm thickness\nAndroid 16, Redmagic OS 11\n256GB/512GB storage, no card slot",
+    "18%\n5,929 HITS",
+    "11\nBECOME A FAN",
+    "6.85\"\n1216x2688 pixels",
+    "50MP\n4320p",
+    "12/16GB RAM\nSnapdragon 8 Elite",
+    "7000mAh\n120W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2026, January 20",
+      "Status": "Available. Released 2026, January 20"
+    },
+    "BODY": {
+      "Dimensions": "163.8 x 76.5 x 8 mm (6.45 x 3.01 x 0.31 in)",
+      "Weight": "207 g (7.30 oz)",
+      "Build": "Glass front (Gorilla Glass 7i), aluminum allow frame, glass back (Gorilla Glass 5)",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "Pressure sensitive zones (520Hz touch-sensing)\nBuilt-in cooling fan\nAviation aluminum middle frame\nIP54 dust protected and water resistant (water splashes)\nIlluminated RGB logo and fan lights (on the back)"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 1B colors, 144Hz, 2592Hz PWM, 1800 nits (peak)",
+      "Size": "6.85 inches, 113.7 cm2 (~90.7% screen-to-body ratio)",
+      "Resolution": "1216 x 2688 pixels (~431 ppi density)",
+      "Protection": "Corning Gorilla Glass 7i"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, Redmagic OS 11",
+      "Chipset": "Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm)",
+      "CPU": "Octa-core (2x4.32 GHz Oryon V2 Phoenix L + 6x3.53 GHz Oryon V2 Phoenix M)",
+      "GPU": "Adreno 830"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 512GB 16GB RAM",
+      "": "UFS 4.1"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, f/1.9, 23mm (wide), 1/1.55\", 1.0µm, PDAF, OIS\n8 MP, f/2.2, (ultrawide), 1/4.0\", 1.12µm",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "8K@30fps, 4K@30/60fps, 1080p@30/60/120/240fps, gyro-EIS, OIS, HDR"
+    },
+    "SELFIE CAMERA": {
+      "Single": "16 MP, f/2.0, (wide), 1/2.77\", 1.12µm, under display",
+      "Features": "HDR",
+      "Video": "1080p@30/60fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No",
+      "": "Hi-Res audio\nSnapdragon Sound"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6 or 7, dual-band, Wi-Fi Direct",
+      "Bluetooth": "5.4, A2DP, LE",
+      "Positioning": "GPS (L1+L5), GLONASS, BDS, GALILEO",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 7000 mAh",
+      "Charging": "80W wired\n120W wired - China only\nBypass charging"
+    },
+    "MISC": {
+      "Colors": "Phantom (Transparent Black), Prism (Transparent White)",
+      "Models": "NX799J",
+      "Price": "About 430 EUR"
+    }
+  }
+}

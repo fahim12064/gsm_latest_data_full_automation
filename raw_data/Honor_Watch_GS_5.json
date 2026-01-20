@@ -1,0 +1,74 @@
+{
+  "url": "https://www.gsmarena.com/honor_watch_gs_5-14431.php",
+  "name": "Honor Watch GS 5",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-watch-gs5.jpg",
+  "highlights": [
+    "Exp. release 2026, January 23\n26g, 9.9mm thickness\nMagicOS 9\n4GB 32MB RAM storage, no card slot",
+    "2.9%\n976 HITS",
+    "2\nBECOME A FAN",
+    "1.32\"\n466x466 pixels",
+    "NO",
+    "",
+    "495mAh"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "No cellular connectivity",
+      "2G bands": "N/A",
+      "3G bands": "N/A",
+      "4G bands": "N/A",
+      "Speed": "No",
+      "GPRS": "No",
+      "EDGE": "No"
+    },
+    "LAUNCH": {
+      "Announced": "2026, January 19",
+      "Status": "Coming soon. Exp. release 2026, January 23"
+    },
+    "BODY": {
+      "Dimensions": "44 x 44 x 9.9 mm (1.73 x 1.73 x 0.39 in)",
+      "Weight": "26 g (0.92 oz)",
+      "Build": "Glass front, polymer fiber frame, polymer fiber back, aluminum alloy bezel",
+      "SIM": "No",
+      "": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)\n5 ATM water resistant\nCompatible with standard 22mm straps"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 1500 nits (peak)",
+      "Size": "1.32 inches",
+      "Resolution": "466 x 466 pixels (~352 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "MagicOS 9"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "4GB 32MB RAM"
+    },
+    "CAMERA": {
+      "": "No"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "No",
+      "Bluetooth": "5.4, LE, EDR",
+      "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS",
+      "NFC": "Yes (China only)",
+      "Radio": "No",
+      "USB": "No"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer, gyro, heart rate, compass, SpO2"
+    },
+    "BATTERY": {
+      "Type": "Li-Po 495 mAh"
+    },
+    "MISC": {
+      "Colors": "Khaki, Black",
+      "Models": "IVY-B39",
+      "Price": "About 90 EUR"
+    }
+  }
+}

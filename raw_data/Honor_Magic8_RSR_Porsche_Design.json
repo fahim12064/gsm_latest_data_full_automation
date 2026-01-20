@@ -1,0 +1,88 @@
+{
+  "url": "https://www.gsmarena.com/honor_magic8_rsr_porsche_design_5g-14429.php",
+  "name": "Honor Magic8 RSR Porsche Design",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-magic8-rsr-porsche-design.jpg",
+  "highlights": [
+    "Exp. release 2026, January 23\n239g, 8.5mm thickness\nAndroid 16, MagicOS 10\n512GB/1TB storage, no card slot",
+    "53%\n16,636 HITS",
+    "29\nBECOME A FAN",
+    "6.71\"\n1256x2808 pixels",
+    "200MP\n2160p",
+    "16/24GB RAM\nSnapdragon 8 Elite Gen 5",
+    "7200mAh\n120W80W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "": "CDMA2000 1x",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2026, January 19",
+      "Status": "Coming soon. Exp. release 2026, January 23"
+    },
+    "BODY": {
+      "Dimensions": "161.2 x 75 x 8.5 mm (6.35 x 2.95 x 0.33 in)",
+      "Weight": "239 g (8.43 oz)",
+      "Build": "Glass front, aluminum frame",
+      "SIM": "· Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time) - INT\n· Nano-SIM + Nano-SIM - CN",
+      "": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "LTPO OLED, 1B colors, 120Hz, 4320Hz PWM, Dolby Vision, HDR Vivid, 1800 nits (HBM), 6000 nits (peak)",
+      "Size": "6.71 inches, 108.3 cm2 (~89.6% screen-to-body ratio)",
+      "Resolution": "1256 x 2808 pixels, 20:9 ratio (~458 ppi density)",
+      "Protection": "Honor Jurh Glass"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, MagicOS 10",
+      "Chipset": "Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm)",
+      "CPU": "Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M)",
+      "GPU": "Adreno 840"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "512GB 16GB RAM, 1TB 24GB RAM",
+      "": "UFS"
+    },
+    "MAIN CAMERA": {
+      "Triple": "50 MP, f/1.6, 23mm (wide), 1/1.3\", 1.2µm, multi-directional PDAF, OIS\n200 MP, f/2.6, 85mm (periscope telephoto), 1/1.4\", 0.56µm, multi-directional PDAF, OIS, 3.7x optical zoom\n50 MP, f/2.0, 12mm, 122˚ (ultrawide), 1/2.88\", 0.61µm, dual pixel PDAF",
+      "Features": "Laser AF, color spectrum sensor, LED flash, HDR, panorama",
+      "Video": "4K@24/30/60/120fps, 1080p@24/30/60/120/240fps, gyro-EIS, OIS, HDR, 10-bit video"
+    },
+    "SELFIE CAMERA": {
+      "Single": "50 MP, f/2.0, 22mm (wide), 1/2.93\", 0.6µm, AF\nTOF 3D, (depth/biometrics sensor)",
+      "Video": "4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+      "Bluetooth": "6.0, A2DP, LE, aptX HD, aptX Adaptive, LHDC 5.0",
+      "Positioning": "GPS (L1+L5), GLONASS, BDS (B1I+B1c+B2a), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC (L1+L5)",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 3.2, DisplayPort 1.2, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, ultrasonic), Face ID, accelerometer, gyro, proximity, compass",
+      "": "Emergency SOS via satellite (messages only) - China only"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Po 7200 mAh",
+      "Charging": "120W wired, 100W PPS, 40W UFCS\n80W wireless\nReverse wireless\n5W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Violet, Gray",
+      "Models": "BKQ-AN20",
+      "Price": "About 1000 EUR"
+    }
+  }
+}
