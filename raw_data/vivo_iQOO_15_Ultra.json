@@ -1,0 +1,84 @@
+{
+  "url": "https://www.gsmarena.com/vivo_iqoo_15_ultra_5g-14445.php",
+  "name": "vivo iQOO 15 Ultra",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-iqoo-15-ultra.jpg",
+  "highlights": [
+    "Not announced yet\n\nAndroid 16, up to 5 major upgrades\n256GB/512GB/1TB storage, no card slot",
+    "4.4%\n2,926 HITS",
+    "7\nBECOME A FAN",
+    "6.85\"\n1440x3168 pixels",
+    "50MP\n4320p",
+    "12-24GB RAM\nSnapdragon 8 Elite Gen 5",
+    "7400mAh\n100W40W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "Water resistant\nBuilt-in cooling fan\nPressure sensitive zones (600Hz touch-sensing)"
+    },
+    "DISPLAY": {
+      "Type": "LTPO AMOLED, 1B colors, 144Hz, PWM, Dolby Vision, HDR10+, HDR Vivid, 1000 nits (typ), 2600 nits (HBM), 6000 nits (peak)",
+      "Size": "6.85 inches, 114.0 cm2",
+      "Resolution": "1440 x 3168 pixels (~508 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, up to 5 major Android upgrades, OriginOS 6",
+      "Chipset": "Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm)",
+      "CPU": "Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M)",
+      "GPU": "Adreno 840"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "Up to 1TB 24GB RAM",
+      "": "UFS 4.1"
+    },
+    "MAIN CAMERA": {
+      "Triple": "50 MP, f/1.9, 24mm (wide), 1/1.56\", 1.0µm, PDAF, OIS\n50 MP, f/2.6, 85mm (periscope telephoto), 1/1.95\", 0.8µm, PDAF, OIS, 3x optical zoom\n50 MP, f/2.1, 15mm (ultrawide), 1/2.76\", 0.64µm, AF",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "8K@30fps, 4K@24/30/60fps, 1080p@30/60/120/240fps, gyro-EIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "32 MP, f/2.2, 21mm (wide), 1/3.1\", 0.7µm",
+      "Features": "HDR",
+      "Video": "4K@30/60fps, 1080p@30/60fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No",
+      "": "24-bit/192kHz Hi-Res audio\nSnapdragon Sound"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+      "Bluetooth": "6.0, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless, LHDC 5",
+      "Positioning": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5)",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 3.2, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 7400 mAh",
+      "Charging": "100W wired, PPS, PD\n40W wireless\nBypass charging"
+    },
+    "MISC": {
+      "Colors": "Blue; other colors"
+    }
+  }
+}

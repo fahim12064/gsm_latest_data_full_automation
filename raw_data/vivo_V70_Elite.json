@@ -1,0 +1,85 @@
+{
+  "url": "https://www.gsmarena.com/vivo_v70_elite_5g-14446.php",
+  "name": "vivo V70 Elite",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-v70-elite-.jpg",
+  "highlights": [
+    "Not announced yet\n\nAndroid 16\n128GB/256GB/512GB storage, no card slot",
+    "3.0%\n1,157 HITS",
+    "1\nBECOME A FAN",
+    "6.59\"\n1080x2392 pixels",
+    "50MP\n2160p",
+    "8-16GB RAM\nSnapdragon 8s Gen 3",
+    "6500mAh\n90W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "Build": "Glass front, aluminum frame, glass back",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 120 min)"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 1B colors, HDR10+, 120Hz",
+      "Size": "6.59 inches, 105.1 cm2",
+      "Resolution": "1080 x 2392 pixels (~398 ppi density)",
+      "Protection": "Unspecified"
+    },
+    "PLATFORM": {
+      "OS": "Android 16",
+      "Chipset": "Qualcomm SM8635 Snapdragon 8s Gen 3 (4 nm)",
+      "CPU": "Octa-core (1x3.0 GHz Cortex-X4 & 4x2.8 GHz Cortex-A720 & 3x2.0 GHz Cortex-A520)",
+      "GPU": "Adreno 735"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "Up to 512GB 16GB RAM",
+      "": "UFS"
+    },
+    "MAIN CAMERA": {
+      "Triple": "50 MP, f/1.9, 23mm (wide), 1/1.56\", 1.0µm, PDAF, OIS\n50 MP, f/2.7, 73mm (periscope telephoto), 1/1.95\", 0.8µm, PDAF, OIS, 3x optical zoom\n8 MP, f/2.0, 15mm, 120˚ (ultrawide)",
+      "Features": "Zeiss optics, Ring-LED flash, panorama, HDR",
+      "Video": "4K@30fps, 1080p@30/60fps, gyro-EIS, OIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "50 MP, f/2.2, 21mm (wide), 1/2.76\", 0.64µm, AF",
+      "Features": "Zeiss optics, HDR",
+      "Video": "4K@30fps, 1080p@30/60fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+      "Bluetooth": "5.4, A2DP, LE",
+      "Positioning": "GPS, GALILEO, GLONASS, QZSS, BDS, NavIC",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 6500 mAh",
+      "Charging": "90W wired, PD\nReverse wired\nBypass charging"
+    },
+    "MISC": {
+      "Colors": "Passion Red, Sand Beige, Black"
+    }
+  }
+}
