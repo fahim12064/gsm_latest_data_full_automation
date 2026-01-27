@@ -1,0 +1,70 @@
+{
+  "url": "https://www.gsmarena.com/hmd_watch_x1-14447.php",
+  "name": "HMD Watch X1",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/hmd-watch-x1.jpg",
+  "highlights": [
+    "Released 2026, January\n55.6g, 11mm thickness\nRTOS OS\nNo card slot",
+    "0.3%\n135 HITS",
+    "0\nBECOME A FAN",
+    "1.43\"\n466x466 pixels",
+    "NO",
+    "",
+    ""
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "No cellular connectivity",
+      "2G bands": "N/A",
+      "3G bands": "N/A",
+      "4G bands": "N/A",
+      "GPRS": "No",
+      "EDGE": "No"
+    },
+    "LAUNCH": {
+      "Announced": "2026, January 26",
+      "Status": "Available. Released 2026, January"
+    },
+    "BODY": {
+      "Dimensions": "46.5 x 46.5 x 11 mm (1.83 x 1.83 x 0.43 in)",
+      "Weight": "55.6 g (1.98 oz)",
+      "SIM": "No",
+      "": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)\nCompatible with standard 22mm straps"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED",
+      "Size": "1.43 inches",
+      "Resolution": "466 x 466 pixels (~326 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "RTOS OS"
+    },
+    "MEMORY": {
+      "Card slot": "No"
+    },
+    "CAMERA": {
+      "": "No"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "No",
+      "Bluetooth": "Yes",
+      "Positioning": "No",
+      "NFC": "No",
+      "Radio": "No",
+      "USB": "No"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer, heart rate, SpO2"
+    },
+    "BATTERY": {
+      "Type": "Li-Po",
+      "Charging": "Wired"
+    },
+    "MISC": {
+      "Colors": "Gray, Silver"
+    }
+  }
+}
