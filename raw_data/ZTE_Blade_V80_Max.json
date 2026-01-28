@@ -1,0 +1,83 @@
+{
+  "url": "https://www.gsmarena.com/zte_blade_v80_max-14449.php",
+  "name": "ZTE Blade V80 Max",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-nubia-v80-max-new.jpg",
+  "highlights": [
+    "Exp. release 2026, January 31\n191g, 8.3mm thickness\nAndroid 16\n128GB/256GB storage, microSDXC",
+    "22%\n7,293 HITS",
+    "3\nBECOME A FAN",
+    "6.9\"\n720x1640 pixels",
+    "50MP\n1080p",
+    "8GB RAM\nUnisoc T7250",
+    "6000mAh\n23W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+      "": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "Speed": "HSPA, LTE"
+    },
+    "LAUNCH": {
+      "Announced": "2026, January 20",
+      "Status": "Coming soon. Exp. release 2026, January 31"
+    },
+    "BODY": {
+      "Dimensions": "171.6 x 77.8 x 8.3 mm (6.76 x 3.06 x 0.33 in)",
+      "Weight": "191 g (6.74 oz)",
+      "Build": "Glass front, plastic frame",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "Drop resistant up to 1.8m\nIP64 dust tight and water resistant (water splashes)"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 120Hz, 780 nits",
+      "Size": "6.9 inches, 113.1 cm2 (~84.7% screen-to-body ratio)",
+      "Resolution": "720 x 1640 pixels (~260 ppi density)",
+      "Protection": "Scratch-resistant glass"
+    },
+    "PLATFORM": {
+      "OS": "Android 16",
+      "Chipset": "Unisoc T7250 (12 nm)",
+      "CPU": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+      "GPU": "Mali-G57 MP1"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC",
+      "Internal": "128GB 8GB RAM, 256GB 8GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Triple": "50 MP, f/1.8, (wide), PDAF\nAuxiliary lenses",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "16 MP",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "Yes"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+      "Bluetooth": "5.2, A2DP, LE",
+      "Positioning": "GPS, GALILEO, GLONASS",
+      "NFC": "Yes (market/region dependent)",
+      "Radio": "Unspecified",
+      "USB": "USB Type-C 2.0"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "6000 mAh",
+      "Charging": "22.5W wired\n10W Reverse wired\nBypass Charging"
+    },
+    "MISC": {
+      "Colors": "Stardust Purple, Stellar Silver, Aurellia Gold, Sky Cyan, Space Black",
+      "Price": "About 100 EUR"
+    }
+  }
+}
