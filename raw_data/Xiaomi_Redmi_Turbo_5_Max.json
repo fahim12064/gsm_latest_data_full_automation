@@ -1,0 +1,86 @@
+{
+  "url": "https://www.gsmarena.com/xiaomi_redmi_turbo_5_max_5g-14453.php",
+  "name": "Xiaomi Redmi Turbo 5 Max",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-turbo-5-max.jpg",
+  "highlights": [
+    "Released 2026, January 29\n219g, 8.2mm thickness\nAndroid 16, HyperOS 3\n256GB/512GB storage, no card slot",
+    "7.2%\n3,466 HITS",
+    "5\nBECOME A FAN",
+    "6.83\"\n1280x2772 pixels",
+    "50MP\n2160p",
+    "12/16GB RAM\nDimensity 9500s",
+    "9000mAh\n100W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "": "CDMA2000 1x",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 2100",
+      "4G bands": "1, 3, 5, 8, 18, 19, 26, 28, 34, 38, 39, 40, 41, 42, 43, 48",
+      "5G bands": "1, 3, 5, 8, 18, 26, 28, 34, 38, 39, 40, 41, 48, 77, 78 SA/NSA/Sub6",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2026, January 29",
+      "Status": "Available. Released 2026, January 29"
+    },
+    "BODY": {
+      "Dimensions": "163 x 77.9 x 8.2 mm (6.42 x 3.07 x 0.32 in)",
+      "Weight": "219 g (7.72 oz)",
+      "Build": "Glass front, aluminum frame, glass back",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 2m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 68B colors, 120Hz, 3840Hz PWM, Dolby Vision, HDR10+, HDR Vivid, 3500 nits (peak)",
+      "Size": "6.83 inches, 114.5 cm2 (~90.2% screen-to-body ratio)",
+      "Resolution": "1280 x 2772 pixels, 19.5:9 ratio (~447 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, HyperOS 3",
+      "Chipset": "Mediatek Dimensity 9500s (3 nm)",
+      "CPU": "Octa-core (1x3.73 GHz Cortex-X925 & 3xX.X GHz Cortex-X4 & 4xX.X GHz Cortex-A720)",
+      "GPU": "Immortalis-G925 MC12"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 256GB 16GB RAM, 512GB 12GB RAM, 512GB 16GB RAM",
+      "": "UFS 4.1"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, f/1.5, 26mm (wide), 1/1.95\", 0.8µm, PDAF, OIS\n8 MP, f/2.2, 15mm (ultrawide), 1/4.0\", 1.12µm",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "4K@30/60fps, 1080p@30/60/120/240/960fps, gyro-EIS, HDR10+"
+    },
+    "SELFIE CAMERA": {
+      "Single": "20 MP, f/2.2, (wide), 1/4\"",
+      "Video": "1080p@30/60fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No",
+      "": "24-bit/192kHz Hi-Res & Hi-Res Wireless audio"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+      "Bluetooth": "5.4, A2DP, LE, aptX HD, LHDC 5, Auracast, ASHA, MIHC",
+      "Positioning": "GPS (L1+L5), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC (L1+L5), GLONASS",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, compass, proximity"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 9000 mAh",
+      "Charging": "100W wired, PD3.0, QC3+\n27W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Black, White, Blue, Orange",
+      "Price": "About 260 EUR"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "url": "https://www.gsmarena.com/motorola_moto_g17_power-14452.php",
+  "name": "Motorola Moto G17 Power",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g17-power.jpg",
+  "highlights": [
+    "Released 2026, January 29\n8.8mm thickness\nAndroid 15\n256GB/512GB storage, microSDXC",
+    "4.8%\n1,762 HITS",
+    "1\nBECOME A FAN",
+    "6.72\"\n1080x2400 pixels",
+    "50MP\n1080p",
+    "8GB RAM\nHelio G81 Extreme",
+    "6000mAh\n30W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+      "4G bands": "LTE",
+      "Speed": "HSPA, LTE"
+    },
+    "LAUNCH": {
+      "Announced": "2026, January 29",
+      "Status": "Available. Released 2026, January 29"
+    },
+    "BODY": {
+      "Dimensions": "165.7 x 76 x 8.8 mm (6.52 x 2.99 x 0.35 in)",
+      "Weight": "-",
+      "Build": "Glass front (Gorilla Glass 3), plastic frame, silicone polymer back (eco leather)",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP64 dust tight and water resistant (water splashes)"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 800 nits (typ), 1050 nits (HBM)",
+      "Size": "6.72 inches, 109.0 cm2 (~86.6% screen-to-body ratio)",
+      "Resolution": "1080 x 2400 pixels, 20:9 ratio (~392 ppi density)",
+      "Protection": "Corning Gorilla Glass 3"
+    },
+    "PLATFORM": {
+      "OS": "Android 15",
+      "Chipset": "Mediatek Helio G81 Extreme (12 nm)",
+      "CPU": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.7 GHz Cortex-A55)",
+      "GPU": "Mali-G52 MC2"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC (dedicated slot)",
+      "Internal": "256GB 8GB RAM, 512GB 8GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, f/1.9, 26mm (wide), 1/2.0\", 0.8µm, PDAF\n5 MP, f/2.2, 19mm (ultrawide), 1/5.0\", 1.12µm",
+      "Features": "Dual-LED flash, HDR, panorama",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "32 MP, f/2.2, 22mm (wide), 1/3.1\", 0.7µm",
+      "Features": "HDR",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers (with Dolby Atmos)",
+      "3.5mm jack": "Yes"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+      "Bluetooth": "5.4, A2DP, LE",
+      "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+      "NFC": "Yes (market/region dependent)",
+      "Radio": "FM radio",
+      "USB": "USB Type-C 2.0"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "6000 mAh",
+      "Charging": "30W wired"
+    },
+    "MISC": {
+      "Colors": "Pantone: Alaskan Blue, Evening Blue",
+      "Price": "About 190 EUR"
+    }
+  }
+}

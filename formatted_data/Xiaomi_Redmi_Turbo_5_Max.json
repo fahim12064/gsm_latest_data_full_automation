@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP, f/1.5, 26mm (wide), 1/1.95\", 0.8µm, PDAF, OIS",
+    "Flash:": "LED flash, HDR, panorama",
+    "Front:": "20 MP, f/2.2, (wide), 1/4\"",
+    "Folded:": "",
+    "Main camera:": "50 MP, f/1.5, 26mm (wide), 1/1.95\", 0.8µm, PDAF, OIS",
+    "Second camera:": "8 MP, f/2.2, 15mm (ultrawide), 1/4.0\", 1.12µm",
+    "Third camera:": "",
+    "Specifications:": "Aperture size: F/1.5 Focal Length: 26mm",
+    "Video recording:": "4K@30/60fps, 1080p@30/60/120/240/960fps, gyro-EIS, HDR10+"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Black, White, Blue, Orange",
+    "Folded:": "",
+    "Weight:": "219 g (7.72 oz)",
+    "Materials:": "Glass front, aluminum frame, glass back",
+    "Biometrics:": "Fingerprint (under display, ultrasonic), accelerometer, gyro, compass, proximity",
+    "Dimensions:": "163 x 77.9 x 8.2 mm (6.42 x 3.07 x 0.32 in)",
+    "Resistance:": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 2m for 30 min)"
+  },
+  "Battery": {
+    "Type:": "Si/C Li-Ion",
+    "Capacity:": "9000 mAh",
+    "Charging:": "100W wired, PD3.0, QC3+\n27W reverse wired",
+    "Max charge speed:": "Wired: 100W"
+  },
+  "Display": {
+    "Size:": "6.83 inches",
+    "Features:": "Fingerprint (under display, ultrasonic), accelerometer, gyro, compass, proximity",
+    "Resolution:": "1280 x 2772 pixels, 19.5:9 ratio (~447 ppi density)",
+    "Technology:": "AMOLED",
+    "Refresh rate:": "120Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "3500 cd/m2 (nit)",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 800 / 850 / 900 / 1700(AWS) / 2100",
+    "4G bands:": "1, 3, 5, 8, 18, 19, 26, 28, 34, 38, 39, 40, 41, 42, 43, 48",
+    "5G bands:": "1, 3, 5, 8, 18, 26, 28, 34, 38, 39, 40, 41, 48, 77, 78 SA/NSA/Sub6",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 16, HyperOS 3",
+    "GPU:": "Immortalis-G925 MC12",
+    "RAM:": "12GB",
+    "Processor:": "Mediatek Dimensity 9500s (3 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "256GB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0, OTG",
+    "Other:": "NFC, Infrared",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+    "Sensors:": "Fingerprint (under display, ultrasonic), accelerometer, gyro, compass, proximity",
+    "Features:": "USB Type-C 2.0, OTG",
+    "Location:": "GPS (L1+L5), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC (L1+L5), GLONASS",
+    "Bluetooth:": "5.4, A2DP, LE, aptX HD, LHDC 5, Auracast, ASHA, MIHC"
+  }
+}
