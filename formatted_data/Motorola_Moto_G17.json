@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP, f/1.9, 26mm (wide), 1/2.0\", 0.8µm, PDAF",
+    "Flash:": "Dual-LED flash, HDR, panorama",
+    "Front:": "32 MP, f/2.2, 22mm (wide), 1/3.1\", 0.7µm",
+    "Folded:": "",
+    "Main camera:": "50 MP, f/1.9, 26mm (wide), 1/2.0\", 0.8µm, PDAF",
+    "Second camera:": "5 MP, f/2.2, 19mm (ultrawide), 1/5.0\", 1.12µm",
+    "Third camera:": "",
+    "Specifications:": "Aperture size: F/1.9 Focal Length: 26mm",
+    "Video recording:": "1080p@30fps"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Pantone: Bordeaux, Alaskan Blue, Evening Blue",
+    "Folded:": "",
+    "Weight:": "-",
+    "Materials:": "Glass front (Gorilla Glass 3), plastic frame, silicone polymer back (eco leather)",
+    "Biometrics:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+    "Dimensions:": "165.7 x 76 x 8.2 mm (6.52 x 2.99 x 0.32 in)",
+    "Resistance:": "IP64 dust tight and water resistant (water splashes)"
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "5200 mAh",
+    "Charging:": "18W wired",
+    "Max charge speed:": "Wired: 18W"
+  },
+  "Display": {
+    "Size:": "6.72 inches",
+    "Features:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+    "Resolution:": "1080 x 2400 pixels, 20:9 ratio (~392 ppi density)",
+    "Technology:": "IPS LCD",
+    "Refresh rate:": "",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 15",
+    "GPU:": "Mali-G52 MC2",
+    "RAM:": "4GB",
+    "Processor:": "Mediatek Helio G81 Extreme (12 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "128GB (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers (with Dolby Atmos)",
+    "Headphones:": "Yes",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0",
+    "Other:": "NFC",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+    "Features:": "USB Type-C 2.0",
+    "Location:": "GPS, GALILEO, GLONASS, BDS, QZSS",
+    "Bluetooth:": "5.4, A2DP, LE"
+  }
+}
