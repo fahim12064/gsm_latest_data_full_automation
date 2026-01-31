@@ -1,0 +1,87 @@
+{
+  "url": "https://www.gsmarena.com/samsung_galaxy_s26_5g-14456.php",
+  "name": "Samsung Galaxy S26",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s26-r1.jpg",
+  "highlights": [
+    "Not announced yet\n7.2mm thickness\nAndroid 16, up to 7 major upgrades\n128GB/256GB/512GB storage, no card slot",
+    "60%\n24,722 HITS",
+    "17\nBECOME A FAN",
+    "6.3\"\n1080x2340 pixels",
+    "50MP\n4320p",
+    "12GB RAM\nSnapdragon 8 Elite Gen 5",
+    "4300mAh\n25W25W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "": "SA/NSA/Sub6/mmWave - USA unlocked",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA/Sub6 - International",
+      "Speed": "HSPA, LTE (up to 7CA), 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "149.6 x 71.7 x 7.2 mm (5.89 x 2.82 x 0.28 in)",
+      "Weight": "-",
+      "Build": "Glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass Victus 2), aluminum frame",
+      "SIM": "· Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time) - INT\n· Nano-SIM + eSIM + eSIM (max 2 at a time) - USA\n· Nano-SIM + Nano-SIM - CN",
+      "": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)\nArmor aluminum 2 frame"
+    },
+    "DISPLAY": {
+      "Type": "Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 2600 nits (peak)",
+      "Size": "6.3 inches, 97.4 cm2 (~90.8% screen-to-body ratio)",
+      "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~409 ppi density)",
+      "Protection": "Corning Gorilla Glass Victus 2"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, up to 7 major Android upgrades, One UI 8.5",
+      "Chipset": "Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm) - ROW\nExynos 2600 - Europe",
+      "CPU": "Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M)",
+      "GPU": "Adreno 840"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "128GB 12GB RAM, 256GB 12GB RAM, 512GB 12GB RAM",
+      "": "UFS 4.X"
+    },
+    "MAIN CAMERA": {
+      "Triple": "50 MP, f/1.8, 24mm (wide), 1/1.56\", 1.0µm, dual pixel PDAF, OIS\n10 MP, f/2.4, 67mm (telephoto), 1/3.94\", 1.0µm, PDAF, OIS, 3x optical zoom\n12 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55\" 1.4µm, Super Steady video",
+      "Features": "Best Face, LED flash, auto-HDR, panorama",
+      "Video": "8K@24/30fps, 4K@30/60fps, 1080p@30/60/120/240fps, 10-bit HDR, HDR10+, stereo sound rec., gyro-EIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "12 MP, f/2.2, 26mm (wide), 1/3.2\", 1.12µm, dual pixel PDAF",
+      "Features": "HDR, HDR10+",
+      "Video": "4K@30/60fps, 1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No",
+      "": "High-bitrate audio support"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct",
+      "Bluetooth": "5.4, A2DP, LE",
+      "Positioning": "GPS, GLONASS, BDS, GALILEO, QZSS",
+      "NFC": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 3.2, DisplayPort 1.2, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer",
+      "": "Samsung DeX, Samsung Wireless DeX (desktop experience support)"
+    },
+    "BATTERY": {
+      "Type": "4300 mAh",
+      "Charging": "25W wired, PD3.0\n25W wireless (Qi2.2)\n4.5W reverse wireless"
+    },
+    "MISC": {
+      "Colors": "Black; other colors"
+    }
+  }
+}
