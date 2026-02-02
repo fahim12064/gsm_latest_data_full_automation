@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP, f/1.8, (wide), PDAF",
+    "Flash:": "LED flash",
+    "Front:": "8 MP, f/2.0, 26mm (wide), 1/4.0\", 1.12µm",
+    "Folded:": "",
+    "Main camera:": "50 MP, f/1.8, (wide), PDAF",
+    "Second camera:": "Auxiliary lens",
+    "Third camera:": "",
+    "Specifications:": "Aperture size: F/1.8",
+    "Video recording:": "1080p@30/60fps"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Limelight Green, Spotlight Blue",
+    "Folded:": "",
+    "Weight:": "199 g (7.02 oz)",
+    "Materials:": "Glass front, plastic frame, silicone polymer back (eco leather)",
+    "Biometrics:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+    "Dimensions:": "167.4 x 77.4 x 8.2 mm (6.59 x 3.05 x 0.32 in)",
+    "Resistance:": "IP54 dust protected and water resistant (water splashes)"
+  },
+  "Battery": {
+    "Type:": "Li-Ion",
+    "Capacity:": "6000 mAh",
+    "Charging:": "25W wired",
+    "Max charge speed:": "Wired: 25W"
+  },
+  "Display": {
+    "Size:": "6.7 inches",
+    "Features:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+    "Resolution:": "720 x 1600 pixels, 20:9 ratio (~262 ppi density)",
+    "Technology:": "PLS LCD",
+    "Refresh rate:": "120Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 16, up to 6 major Android upgrades, One UI 8",
+    "GPU:": "Mali-G57 MC2",
+    "RAM:": "4GB",
+    "Processor:": "Mediatek Dimensity 6300 (6 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "128GB (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes",
+    "Headphones:": "Yes",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0",
+    "Other:": "NFC",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+    "Features:": "USB Type-C 2.0",
+    "Location:": "GPS, GALILEO, GLONASS, BDS, QZSS",
+    "Bluetooth:": "5.3, A2DP, LE"
+  }
+}

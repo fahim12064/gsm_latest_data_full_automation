@@ -1,0 +1,83 @@
+{
+  "url": "https://www.gsmarena.com/oppo_k14x_5g-14458.php",
+  "name": "Oppo K14x",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/oppo-a6x-int.jpg",
+  "highlights": [
+    "Not announced yet\n212g, 8.6mm thickness\nAndroid 15, ColorOS 15\n128GB/256GB storage, microSDXC",
+    "5.0%\n3,098 HITS",
+    "2\nBECOME A FAN",
+    "6.75\"\n720x1570 pixels",
+    "50MP\n1080p",
+    "4-8GB RAM\nDimensity 6300",
+    "6500mAh"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "166.6 x 78.5 x 8.6 mm (6.56 x 3.09 x 0.34 in)",
+      "Weight": "212 g (7.48 oz)",
+      "Build": "Glass front, plastic frame, plastic back",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP64 dust tight and water resistant (water splashes)"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 120Hz, 1125 nits (peak)",
+      "Size": "6.75 inches, 111.4 cm2 (~85.2% screen-to-body ratio)",
+      "Resolution": "720 x 1570 pixels, 19.5:9 ratio (~256 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 15, ColorOS 15",
+      "Chipset": "Mediatek Dimensity 6300 (6 nm)",
+      "CPU": "Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+      "GPU": "Mali-G57 MC2"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC",
+      "Internal": "128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",
+      "": "UFS 2.2"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, f/1.8, (wide), PDAF\nAuxiliary lens",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "1080p@30/60fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "5 MP, f/2.2, (wide)",
+      "Features": "Panorama",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "Yes"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+      "Bluetooth": "5.4, A2DP, LE, aptX HD",
+      "Positioning": "GPS, GALILEO, GLONASS, QZSS",
+      "NFC": "Yes (market/region dependent)",
+      "Radio": "Unspecified",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "6500 mAh",
+      "Charging": "Wired\n5W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Purple, Blue"
+    }
+  }
+}
