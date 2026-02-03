@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP (wide)",
+    "Flash:": "LED flash, HDR",
+    "Front:": "8 MP, f/2.0, (wide)",
+    "Folded:": "",
+    "Main camera:": "50 MP (wide)",
+    "Second camera:": "Auxiliary lens",
+    "Third camera:": "",
+    "Specifications:": "",
+    "Video recording:": "1080p@30fps"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Black; other colors",
+    "Folded:": "",
+    "Weight:": "-",
+    "Materials:": "",
+    "Biometrics:": "Fingerprint (side-mounted), accelerometer, compass",
+    "Dimensions:": "-",
+    "Resistance:": "Water resistant"
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "6000 mAh",
+    "Charging:": "15W wired",
+    "Max charge speed:": "Wired: 15W"
+  },
+  "Display": {
+    "Size:": "6.88 inches",
+    "Features:": "Fingerprint (side-mounted), accelerometer, compass",
+    "Resolution:": "720 x 1640 pixels (~260 ppi density)",
+    "Technology:": "IPS LCD",
+    "Refresh rate:": "120Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 15",
+    "GPU:": "Mali-G57 MP1",
+    "RAM:": "4GB",
+    "Processor:": "Unisoc T7250 (12 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "64GB (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes",
+    "Headphones:": "Yes",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0",
+    "Other:": "NFC",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, compass",
+    "Features:": "USB Type-C 2.0",
+    "Location:": "GPS, GALILEO, GLONASS, BDS",
+    "Bluetooth:": "5.4, A2DP, LE"
+  }
+}

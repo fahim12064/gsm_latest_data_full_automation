@@ -1,0 +1,83 @@
+{
+  "url": "https://www.gsmarena.com/xiaomi_redmi_a7_pro-14463.php",
+  "name": "Xiaomi Redmi A7 Pro",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-a5-4g.jpg",
+  "highlights": [
+    "Not announced yet\n\nAndroid 15\n64GB/128GB storage, microSDXC",
+    "3.2%\n3,228 HITS",
+    "3\nBECOME A FAN",
+    "6.88\"\n720x1640 pixels",
+    "50MP\n1080p",
+    "4/6GB RAM\nUnisoc T7250",
+    "6000mAh\n15W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 2100",
+      "4G bands": "LTE",
+      "Speed": "HSPA, LTE"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "Water resistant"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 120Hz",
+      "Size": "6.88 inches, 112.4 cm2",
+      "Resolution": "720 x 1640 pixels (~260 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 15",
+      "Chipset": "Unisoc T7250 (12 nm)",
+      "CPU": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+      "GPU": "Mali-G57 MP1"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC (dedicated slot)",
+      "Internal": "64GB 4GB RAM, 128GB 4GB RAM, 128GB 6GB RAM",
+      "": "eMMC 5.1"
+    },
+    "MAIN CAMERA": {
+      "Single": "50 MP (wide)\nAuxiliary lens",
+      "Features": "LED flash, HDR",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "8 MP, f/2.0, (wide)",
+      "Features": "HDR",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "Yes"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+      "Bluetooth": "5.4, A2DP, LE",
+      "Positioning": "GPS, GALILEO, GLONASS, BDS",
+      "NFC": "No",
+      "Radio": "FM radio",
+      "USB": "USB Type-C 2.0"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, compass",
+      "": "Virtual proximity sensing"
+    },
+    "BATTERY": {
+      "Type": "6000 mAh",
+      "Charging": "15W wired"
+    },
+    "MISC": {
+      "Colors": "Black; other colors",
+      "Models": "25128RN17Y, 25128RN17A, 25128RN17L"
+    }
+  }
+}
