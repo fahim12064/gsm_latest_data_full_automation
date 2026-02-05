@@ -1,0 +1,72 @@
+{
+  "url": "https://www.gsmarena.com/doogee_anywise_w1_pro-14472.php",
+  "name": "Doogee Anywise W1 Pro",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/doogee-anywise-w1-pro.jpg",
+  "highlights": [
+    "Released 2026, February\n72g, 13.7mm thickness\nProprietary OS\n2GB storage, no card slot",
+    "N/A\n99 HITS",
+    "0\nBECOME A FAN",
+    "1.43\"\n466x466 pixels",
+    "NO",
+    "",
+    "550mAh"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "No cellular connectivity",
+      "2G bands": "N/A",
+      "3G bands": "N/A",
+      "4G bands": "N/A",
+      "Speed": "No",
+      "GPRS": "No",
+      "EDGE": "No"
+    },
+    "LAUNCH": {
+      "Announced": "2026, February",
+      "Status": "Available. Released 2026, February"
+    },
+    "BODY": {
+      "Dimensions": "47.5 x 47.5 x 13.7 mm (1.87 x 1.87 x 0.54 in)",
+      "Weight": "72 g (2.54 oz)",
+      "SIM": "No",
+      "": "Waterproof (5ATM)"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED",
+      "Size": "1.43 inches",
+      "Resolution": "466 x 466 pixels (~461 ppi density)",
+      "Protection": "Panda Glass"
+    },
+    "PLATFORM": {
+      "OS": "Proprietary OS"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "2GB"
+    },
+    "CAMERA": {
+      "": "No"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "No",
+      "Bluetooth": "5.3, A2DP, LE",
+      "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS",
+      "NFC": "No",
+      "Radio": "No",
+      "USB": "No"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer, heart rate, SpO2, barometer, compass"
+    },
+    "BATTERY": {
+      "Type": "Li-Po 550 mAh"
+    },
+    "MISC": {
+      "Colors": "Deep Sea Blue, Flame Shadow Titanium, Midnight Black"
+    }
+  }
+}

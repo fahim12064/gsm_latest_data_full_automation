@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "",
+    "Flash:": "",
+    "Front:": "",
+    "Folded:": "",
+    "Main camera:": "",
+    "Second camera:": "",
+    "Third camera:": "",
+    "Specifications:": "",
+    "Video recording:": ""
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Deep Sea Blue, Flame Shadow Titanium, Midnight Black",
+    "Folded:": "",
+    "Weight:": "72 g (2.54 oz)",
+    "Materials:": "",
+    "Biometrics:": "Accelerometer, heart rate, SpO2, barometer, compass",
+    "Dimensions:": "47.5 x 47.5 x 13.7 mm (1.87 x 1.87 x 0.54 in)",
+    "Resistance:": "Waterproof (5ATM)"
+  },
+  "Battery": {
+    "Type:": "Li-Po",
+    "Capacity:": "550 mAh",
+    "Charging:": "",
+    "Max charge speed:": ""
+  },
+  "Display": {
+    "Size:": "1.43 inches",
+    "Features:": "Accelerometer, heart rate, SpO2, barometer, compass",
+    "Resolution:": "466 x 466 pixels (~461 ppi density)",
+    "Technology:": "AMOLED",
+    "Refresh rate:": "",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "No cellular connectivity",
+    "2G bands:": "N/A",
+    "3G bands:": "N/A",
+    "4G bands:": "N/A",
+    "5G bands:": "",
+    "SIM type:": "No"
+  },
+  "Hardware": {
+    "OS:": "Proprietary OS",
+    "GPU:": "",
+    "RAM:": "",
+    "Processor:": "",
+    "Device type:": "Smartphone",
+    "Internal storage:": "2GB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "No",
+    "Other:": "NFC",
+    "Wi-Fi:": "No",
+    "Sensors:": "Accelerometer, heart rate, SpO2, barometer, compass",
+    "Features:": "No",
+    "Location:": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS",
+    "Bluetooth:": "5.3, A2DP, LE"
+  }
+}
