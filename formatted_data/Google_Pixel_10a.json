@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "48 MP, f/1.7, 25mm (wide), 1/2.0\", 0.8µm, dual pixel PDAF, OIS",
+    "Flash:": "Dual-LED flash, Pixel Shift, Ultra HDR, panorama, Best Take",
+    "Front:": "13 MP, f/2.2, 20mm (ultrawide), 1/3.1\", 1.12µm",
+    "Folded:": "",
+    "Main camera:": "48 MP, f/1.7, 25mm (wide), 1/2.0\", 0.8µm, dual pixel PDAF, OIS",
+    "Second camera:": "13 MP, f/2.2, 120˚ (ultrawide), 1/3.1\", 1.12µm",
+    "Third camera:": "",
+    "Specifications:": "Aperture size: F/1.7 Focal Length: 25mm",
+    "Video recording:": "4K@30/60fps, 1080p@30/60/120/240fps, gyro-EIS, OIS"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Obsidian, Fog, Berry, Lavender",
+    "Folded:": "",
+    "Weight:": "186 g (6.56 oz)",
+    "Materials:": "Glass front (Gorilla Glass 3), aluminum frame, plastic back",
+    "Biometrics:": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, barometer",
+    "Dimensions:": "154.7 x 73.3 x 8.9 mm (6.09 x 2.89 x 0.35 in)",
+    "Resistance:": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+  },
+  "Battery": {
+    "Type:": "Li-Po",
+    "Capacity:": "5100 mAh",
+    "Charging:": "23W wired, PD3.0\n7.5W wireless\nBypass charging",
+    "Max charge speed:": "Wired: 23WWireless: 7.5W"
+  },
+  "Display": {
+    "Size:": "6.3 inches",
+    "Features:": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, barometer",
+    "Resolution:": "1080 x 2424 pixels, 20:9 ratio (~421 ppi density)",
+    "Technology:": "P-OLED",
+    "Refresh rate:": "120Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "2700 cd/m2 (nit)",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA/Sub6",
+    "SIM type:": "Nano-SIM + eSIM"
+  },
+  "Hardware": {
+    "OS:": "Android 16, upgradable to Android 16, up to 7 major Android upgrades",
+    "GPU:": "Mali-G715 MP7",
+    "RAM:": "8GB",
+    "Processor:": "Google Tensor G4 (4 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "128GB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 3.2",
+    "Other:": "NFC",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual/tri-band (market/region dependent)",
+    "Sensors:": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, barometer",
+    "Features:": "USB Type-C 3.2",
+    "Location:": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC",
+    "Bluetooth:": "5.3, A2DP, LE"
+  }
+}

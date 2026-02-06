@@ -1,0 +1,87 @@
+{
+  "url": "https://www.gsmarena.com/doogee_fire_5_ultra-14468.php",
+  "name": "Doogee Fire 5 Ultra",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/doogee-fire5-ultra.jpg",
+  "highlights": [
+    "Released 2025, December\n395g, 18.7mm thickness\nAndroid 15\n256GB storage, microSDXC",
+    "2.3%\n952 HITS",
+    "2\nBECOME A FAN",
+    "6.6\"\n720x1612 pixels",
+    "48MP\n1440p",
+    "8GB RAM\nHelio G81",
+    "13000mAh\n18W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "1, 2, 3, 4, 5, 7, 8, 18, 19, 20, 25, 26, 28, 34, 38, 39, 40, 41, 66",
+      "Speed": "HSPA, LTE"
+    },
+    "LAUNCH": {
+      "Announced": "2025, December",
+      "Status": "Available. Released 2025, December"
+    },
+    "BODY": {
+      "Dimensions": "176.5 x 82.5 x 18.7 mm (6.95 x 3.25 x 0.74 in)",
+      "Weight": "395 g (13.93 oz)",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\nDrop resistant up to 1.5m\nMIL-STD-810H compliant\nDedicated flashlight (on the back)"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 90Hz, 400 nits",
+      "Size": "6.6 inches, 104.6 cm2 (~71.9% screen-to-body ratio)",
+      "Resolution": "720 x 1612 pixels, 20:9 ratio (~267 ppi density)",
+      "Protection": "Mohs level 6"
+    },
+    "PLATFORM": {
+      "OS": "Android 15",
+      "Chipset": "Mediatek Helio G81 (12 nm)",
+      "CPU": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+      "GPU": "Mali-G52 MC2"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC (dedicated slot)",
+      "Internal": "256GB 8GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Single": "48 MP, f/1.8, (wide), AF",
+      "Features": "Dual-LED flash, HDR, panorama",
+      "Video": "1440p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "8 MP, f/2.0, (wide)",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+      "Bluetooth": "5.0, A2DP, LE",
+      "Positioning": "GPS, GLONASS, GALILEO, BDS",
+      "NFC": "Yes",
+      "Radio": "FM radio",
+      "USB": "USB Type-C"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "13000 mAh",
+      "Charging": "18W wired"
+    },
+    "MISC": {
+      "Colors": "Gray, Orange, Green",
+      "Price": "About 250 EUR"
+    },
+    "EU LABEL": {
+      "Energy": "Class F",
+      "Battery": "64:40h endurance, 1100 cycles",
+      "Free fall": "Class A (270 falls)",
+      "Repairability": "Class C"
+    }
+  }
+}

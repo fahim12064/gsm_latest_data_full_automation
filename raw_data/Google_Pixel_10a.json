@@ -1,0 +1,84 @@
+{
+  "url": "https://www.gsmarena.com/google_pixel_10a_5g-14474.php",
+  "name": "Google Pixel 10a",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-9a.jpg",
+  "highlights": [
+    "Not announced yet\n186g, 8.9mm thickness\nAndroid 16, up to 16\n128GB/256GB storage, no card slot",
+    "2.0%\n1,089 HITS",
+    "3\nBECOME A FAN",
+    "6.3\"\n1080x2424 pixels",
+    "48MP\n2160p",
+    "8GB RAM\nGoogle Tensor G4",
+    "5100mAh\n23W8W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA/Sub6",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "154.7 x 73.3 x 8.9 mm (6.09 x 2.89 x 0.35 in)",
+      "Weight": "186 g (6.56 oz)",
+      "Build": "Glass front (Gorilla Glass 3), aluminum frame, plastic back",
+      "SIM": "Nano-SIM + eSIM",
+      "": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "P-OLED, HDR, 120Hz, 1800 nits (HBM), 2700 nits (peak)",
+      "Size": "6.3 inches, 95.2 cm2 (~83.9% screen-to-body ratio)",
+      "Resolution": "1080 x 2424 pixels, 20:9 ratio (~421 ppi density)",
+      "Protection": "Corning Gorilla Glass 3"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, upgradable to Android 16, up to 7 major Android upgrades",
+      "Chipset": "Google Tensor G4 (4 nm)",
+      "CPU": "Octa-core (1x3.1 GHz Cortex-X4 & 3x2.6 GHz Cortex-A720 & 4x1.9 GHz Cortex-A520)",
+      "GPU": "Mali-G715 MP7"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "128GB 8GB RAM, 256GB 8GB RAM",
+      "": "UFS 3.1"
+    },
+    "MAIN CAMERA": {
+      "Dual": "48 MP, f/1.7, 25mm (wide), 1/2.0\", 0.8µm, dual pixel PDAF, OIS\n13 MP, f/2.2, 120˚ (ultrawide), 1/3.1\", 1.12µm",
+      "Features": "Dual-LED flash, Pixel Shift, Ultra HDR, panorama, Best Take",
+      "Video": "4K@30/60fps, 1080p@30/60/120/240fps, gyro-EIS, OIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "13 MP, f/2.2, 20mm (ultrawide), 1/3.1\", 1.12µm",
+      "Features": "HDR, panorama",
+      "Video": "4K@30fps, 1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual/tri-band (market/region dependent)",
+      "Bluetooth": "5.3, A2DP, LE",
+      "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC",
+      "NFC": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 3.2"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, barometer"
+    },
+    "BATTERY": {
+      "Type": "Li-Po 5100 mAh",
+      "Charging": "23W wired, PD3.0\n7.5W wireless\nBypass charging"
+    },
+    "MISC": {
+      "Colors": "Obsidian, Fog, Berry, Lavender"
+    }
+  }
+}

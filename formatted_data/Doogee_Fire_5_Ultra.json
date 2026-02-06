@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "48 MP, f/1.8, (wide), AF",
+    "Flash:": "Dual-LED flash, HDR, panorama",
+    "Front:": "8 MP, f/2.0, (wide)",
+    "Folded:": "",
+    "Main camera:": "48 MP, f/1.8, (wide), AF",
+    "Second camera:": "",
+    "Third camera:": "",
+    "Specifications:": "Aperture size: F/1.8",
+    "Video recording:": "1440p@30fps"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Gray, Orange, Green",
+    "Folded:": "",
+    "Weight:": "395 g (13.93 oz)",
+    "Materials:": "",
+    "Biometrics:": "Fingerprint (side-mounted), accelerometer, proximity, compass",
+    "Dimensions:": "176.5 x 82.5 x 18.7 mm (6.95 x 3.25 x 0.74 in)",
+    "Resistance:": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\nDrop resistant up to 1.5m\nMIL-STD-810H compliant\nDedicated flashlight (on the back)"
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "13000 mAh",
+    "Charging:": "18W wired",
+    "Max charge speed:": "Wired: 18W"
+  },
+  "Display": {
+    "Size:": "6.6 inches",
+    "Features:": "Fingerprint (side-mounted), accelerometer, proximity, compass",
+    "Resolution:": "720 x 1612 pixels, 20:9 ratio (~267 ppi density)",
+    "Technology:": "IPS LCD",
+    "Refresh rate:": "90Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "1, 2, 3, 4, 5, 7, 8, 18, 19, 20, 25, 26, 28, 34, 38, 39, 40, 41, 66",
+    "5G bands:": "",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 15",
+    "GPU:": "Mali-G52 MC2",
+    "RAM:": "8GB",
+    "Processor:": "Mediatek Helio G81 (12 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "256GB (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C",
+    "Other:": "NFC",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, proximity, compass",
+    "Features:": "USB Type-C",
+    "Location:": "GPS, GLONASS, GALILEO, BDS",
+    "Bluetooth:": "5.0, A2DP, LE"
+  }
+}
