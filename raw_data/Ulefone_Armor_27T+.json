@@ -1,0 +1,84 @@
+{
+  "url": "https://www.gsmarena.com/ulefone_armor_27t+_5g-14475.php",
+  "name": "Ulefone Armor 27T+",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor27t-plus.jpg",
+  "highlights": [
+    "Released 2026, February\n441g, 18.5mm thickness\nAndroid 15\n256GB storage, microSDXC",
+    "11%\n3,812 HITS",
+    "3\nBECOME A FAN",
+    "6.78\"\n1080x2460 pixels",
+    "64MP\n1440p",
+    "12GB RAM\nDimensity 6300",
+    "10600mAh\n33W30W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / CDMA / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "": "CDMA 800 / 1900",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 34, 38, 39, 40, 41, 66, 71",
+      "5G bands": "1, 2, 3, 5, 7, 8, 20, 25, 28, 38, 40, 41, 66, 71, 77, 78, 79 SA/NSA/Sub6",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2026, February",
+      "Status": "Available. Released 2026, February"
+    },
+    "BODY": {
+      "Dimensions": "182.8 x 86.8 x 18.5 mm (7.20 x 3.42 x 0.73 in)",
+      "Weight": "441 g (15.56 oz)",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 2m for 30 min)\nDrop resistant up to 2m\nMIL-STD-810H compliant\nAccessory connector (ulefone endoscope, microscope)"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 120Hz",
+      "Size": "6.78 inches, 109.2 cm2 (~68.8% screen-to-body ratio)",
+      "Resolution": "1080 x 2460 pixels (~396 ppi density)",
+      "Protection": "Corning Gorilla Glass Victus"
+    },
+    "PLATFORM": {
+      "OS": "Android 15",
+      "Chipset": "Mediatek Dimensity 6300 (6 nm)",
+      "CPU": "Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+      "GPU": "Mali-G57 MC2"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC (dedicated slot)",
+      "Internal": "256GB 12GB RAM",
+      "": "UFS 2.2"
+    },
+    "MAIN CAMERA": {
+      "Triple": "50 MP, f/2.0, (wide), 1/1.31\", 1.2µm, PDAF\n64 MP, f/1.8, (night vision), 2 infrared lights\nThermal camera by Flir 3.5, 160x120 px, 9Hz",
+      "Features": "Dual-LED flash, HDR, panorama",
+      "Video": "1440p@30fps, 1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "32 MP, f/2.5, (wide), 0.8µm",
+      "Video": "Yes"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "Yes"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+      "Bluetooth": "5.2, A2DP, LE",
+      "Positioning": "GPS, GLONASS, GALILEO, BDS",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "Wireless FM radio, RDS, recording",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer"
+    },
+    "BATTERY": {
+      "Type": "Li-Po 10600 mAh",
+      "Charging": "33W wired\n30W wireless\n5W reverse wireless"
+    },
+    "MISC": {
+      "Colors": "Black"
+    }
+  }
+}
